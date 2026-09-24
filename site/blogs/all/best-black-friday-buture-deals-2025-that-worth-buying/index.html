@@ -1,0 +1,168 @@
+<!doctype html>
+
+<html lang="en" dir="ltr">
+  <head>
+ 
+<meta name="facebook-domain-verification" content="b06nh8n0w0so0gevxzfsaj1bdu50wi" />
+<!-- Hotjar Tracking Code for Site 5050974 (name missing) -->
+
+<!-- END app snippet -->
+
+
+
+<!-- BEGIN app snippet: cend-entry -->
+
+
+
+
+
+
+  <script src='https://static.loloyal.com/loloyal-cend/widget/boom-cend-widget.js?v=1788331648563' async></script>
+
+
+
+  <script src='https://static.loloyal.com/loloyal-cend/widget/boom-cend-popup.js?v=1788331648563' async></script>
+
+
+
+
+
+  <script src='https://static.loloyal.com/loloyal-cend/widget/boom-cend-referral-popup.js?v=1788331648563' async></script>
+
+<!-- END app snippet -->
+
+
+</div><div id="shopify-block-AbE9leUZtcnh4N0RvT__848591003871763955" class="shopify-block shopify-app-block"><script type="application/javascript">
+    /*! js-cookie v3.0.0-rc.4 | MIT */
+!function(e,t){"object"==typeof exports&&"undefined"!=typeof module?module.exports=t():"function"==typeof define&&define.amd?define(t):(e=e||self,function(){var n=e.Cookies,r=e.Cookies=t();r.noConflict=function(){return e.Cookies=n,r}}())}(this,function(){"use strict";function e(e){for(var t=1;t<arguments.length;t++){var n=arguments[t];for(var r in n)e[r]=n[r]}return e}var t={read:function(e){return e.replace(/(%[\dA-F]{2})+/gi,decodeURIComponent)},write:function(e){return encodeURIComponent(e).replace(/%(2[346BF]|3[AC-F]|40|5[BDE]|60|7[BCD])/g,decodeURIComponent)}};return function n(r,o){function i(t,n,i){if("undefined"!=typeof document){"number"==typeof(i=e({},o,i)).expires&&(i.expires=new Date(Date.now()+864e5*i.expires)),i.expires&&(i.expires=i.expires.toUTCString()),t=encodeURIComponent(t).replace(/%(2[346B]|5E|60|7C)/g,decodeURIComponent).replace(/[()]/g,escape),n=r.write(n,t);var c="";for(var u in i)i[u]&&(c+="; "+u,!0!==i[u]&&(c+="="+i[u].split(";")[0]));return document.cookie=t+"="+n+c}}return Object.create({set:i,get:function(e){if("undefined"!=typeof document&&(!arguments.length||e)){for(var n=document.cookie?document.cookie.split("; "):[],o={},i=0;i<n.length;i++){var c=n[i].split("="),u=c.slice(1).join("=");'"'===u[0]&&(u=u.slice(1,-1));try{var f=t.read(c[0]);if(o[f]=r.read(u,f),e===f)break}catch(e){}}return e?o[e]:o}},remove:function(t,n){i(t,"",e({},n,{expires:-1}))},withAttributes:function(t){return n(this.converter,e({},this.attributes,t))},withConverter:function(t){return n(e({},this.converter,t),this.attributes)}},{attributes:{value:Object.freeze(o)},converter:{value:Object.freeze(r)}})}(t,{path:"/"})});
+</script>
+<script async>
+    console.log('shortly-version --> 1.52')
+var refsExt,traffic_url="https://trafficanalytics.info",appProxyUrlExt="/apps/shortly",checkoutFlag=!1,cookie_duration=1,getParamsExt=function(e){var shortly_t={},o=document.createElement("a");o.href=e;var n=o.search.substring(1).split("&");for(let e=0;e<n.length;e++){let o=n[e].split("=");shortly_t[o[0]]=decodeURIComponent(o[1])}return shortly_t};function formatParamsExt(e){return"?"+Object.keys(e).map((function(shortly_t){return shortly_t+"="+encodeURIComponent(e[shortly_t])})).join("&")}function startTimerShortExt(e,shortly_t,o){let n,s,i=e;setInterval((function(){n=parseInt(i/60,10),s=parseInt(i%60,10),n=n<10?"0"+n:n,s=s<10?"0"+s:s,shortly_t&&(shortly_t.textContent=n),o&&(o.textContent=s),Cookies.set("discountly_timem",n,{expires:cookie_duration}),Cookies.set("discountly_times",s,{expires:cookie_duration}),--i<0&&(document.getElementById("shortbar")&&(document.getElementById("shortbar").style.display="none"),document.getElementById("discountly_show-b")&&(document.getElementById("discountly_show-b").style.display="none"),sessionStorage.removeItem("shortly_discount_code"),sessionStorage.removeItem("shortly_tid"),Cookies.remove("discountly_timem"),Cookies.remove("discountly_times"),Cookies.remove("shortly_discount_code"),Cookies.remove("shortly_tid"))}),1e3),document.getElementById("shortbar")&&(document.getElementById("shortbar").style.display="block")}function proxyExt(e,shortly_t){var o=appProxyUrlExt+formatParamsExt(e);fetch(o,{method:"POST"}).then((e=>e.text())).then((e=>shortly_t(e))).catch((e=>{console.log(e)}))}function startExt(){var e;if((refsExt=getParamsExt(window.location.href)).tid)sessionStorage.getItem("shortly_tid")!==refsExt.tid&&(sessionStorage.removeItem("shortly_discount_code"),sessionStorage.removeItem("shortly_tid"),sessionStorage.setItem("shortly_tid",refsExt.tid),Cookies.remove("discountly_timem"),Cookies.remove("discountly_times"),Cookies.remove("shortly_discount_code"),Cookies.remove("shortly_tid"),Cookies.set("shortly_tid",`${refsExt.tid}`,{path:"/",domain:"."+window.location.hostname.replace("wwww.","")})),initExt(e=refsExt.tid);else if("shortly_tid"in sessionStorage)if((e=sessionStorage.getItem("shortly_tid"))!==refsExt.tid){if("shortly_html"in sessionStorage){var shortly_t=sessionStorage.getItem("shortly_html");let s=(shortly_t=JSON.parse(shortly_t)).bar,i=(shortly_t.discount,shortly_t.discount_code);cookie_duration=shortly_t.cookie_duration;var o=document.getElementsByTagName("body")[0],n=document.createElement("div");n.innerHTML=s,o.insertBefore(n,o.firstChild),Cookies.set("shortly_tid",`${e}`,{expires:cookie_duration,path:"/",domain:"."+window.location.hostname.replace("wwww.","")}),sessionStorage.setItem("shortly_tid",e),document.querySelector("#shorttime")&&document.querySelector("#shorttime").value>0?timerExt():(document.querySelector("#shortTimer")&&(document.querySelector("#shortTimer").style.display="none"),!refsExt.tid&&document.querySelector("#shortbar")&&(document.querySelector("#shortbar").style.display="none"),document.querySelector("#shorttimestatus")&&1==document.querySelector("#shorttimestatus").value&&0==document.querySelector("#shorttime").value&&(document.querySelector("#shortbar").style.display="block")),i&&applydiscountExt(i),document.getElementById("closeit_bottom")&&document.getElementById("closeit_bottom").addEventListener("click",(function(){document.getElementById("discountly_show-b").style.display="none"})),document.querySelector("#closeit_top")&&document.getElementById("closeit_top").addEventListener("click",(function(){document.querySelector("#shortbar").style.display="none"}))}}else initExt(e)}function initExt(e){proxyExt({query:"bar",tid:e},(function(shortly_t){sessionStorage.setItem("shortly_html",shortly_t),shortly_t=JSON.parse(shortly_t),console.log(shortly_t);let o=shortly_t.bar,n=(shortly_t.discount,shortly_t.discount_code);if(cookie_duration=shortly_t.cookie_duration,o){var s=document.getElementsByTagName("body")[0],i=document.createElement("div");i.innerHTML=o,s.insertBefore(i,s.firstChild)}Cookies.set("shortly_tid",`${e}`,{expires:cookie_duration,path:"/",domain:"."+window.location.hostname.replace("wwww.","")}),sessionStorage.setItem("shortly_tid",e),sessionStorage.setItem("shortly_cookie_duration",cookie_duration),sessionStorage.setItem("shortly_shop_plan",shortly_t.plan_id),document.querySelector("#shorttime")?document.querySelector("#shorttime").value>0?timerExt():document.querySelector("#shortTimer")&&(document.querySelector("#shortTimer").style.display="none"):(document.querySelector("#shortTimer")&&(document.querySelector("#shortTimer").style.display="none"),refsExt&&!refsExt.tid&&(document.querySelector("#shortbar").style.display="none"),document.querySelector("#shorttimestatus")&&1==document.querySelector("#shorttimestatus").value&&0==document.querySelector("#shorttime").value&&(document.querySelector("#shortbar").style.display="block")),n&&applydiscountExt(n),""!==shortly_t.discount_price&&document.getElementById("cc-discount-price")&&(document.getElementById("cc-discount-price").textContent=shortly_t.discount_price),document.getElementById("closeit_bottom")&&document.getElementById("closeit_bottom").addEventListener("click",(function(){document.getElementById("discountly_show-b").style.display="None"})),document.querySelector("#closeit_top")&&document.getElementById("closeit_top").addEventListener("click",(function(){document.querySelector("#shortbar").style.display="None"}))}))}function applydiscountExt(e){document.querySelector("#cc-code")&&(document.querySelector("#cc-code").textContent=e);var shortly_t=window.location.origin,o=new XMLHttpRequest;o.onreadystatechange=function(){if(4===this.readyState&&200===this.status)o.responseText};var n=shortly_t+"/discount/"+e;if(o.open("GET",n,!0),o.send(),Cookies.set("shortly_discount_code",`${e}`,{path:"/",domain:"."+window.location.hostname.replace("wwww.","")}),document.querySelector(".input_field1")){let shortly_t=document.querySelector(".input_field1").textContent.replace(/ *\[[^)]*\] */g,` ${e} `);document.querySelector(".input_field1").textContent=shortly_t}}function discountly_tooltiptext_setExt(e){document.getElementById("discountly_tooltiptext_id").innerHTML="Copy coupon"}function copyTextExt(e){var shortly_t=document.createElement("input");shortly_t.setAttribute("value",e),document.body.appendChild(shortly_t),shortly_t.select();document.execCommand("copy");document.body.removeChild(shortly_t),document.getElementById("discountly_tooltiptext_id").innerHTML="Copied"}function timerExt(){if("shortly_tid"in sessionStorage){document.cookie.indexOf("discountly_timem");let e=document.querySelector("#discountly_timem"),shortly_t=document.querySelector("#discountly_times");if("NaN"==Cookies.get("discountly_timem")||null==Cookies.get("discountly_timem")||"NaN"==Cookies.get("discountly_times")||null==Cookies.get("discountly_times")){let o=document.querySelector("#shorttime").value;startTimerShortExt(60*parseInt(o),e,shortly_t)}else{let o=Cookies.get("discountly_timem"),n=Cookies.get("discountly_times");o=o<10?""+o:o,n=n<10?""+n:n,document.querySelector("#discountly_timem")&&(document.querySelector("#discountly_timem").textContent=o),document.querySelector("#discountly_times")&&(document.querySelector("#discountly_times").textContent=n),startTimerShortExt(parseInt(60*o)+parseInt(n),e,shortly_t)}}}function appendTrafficScript(){if(getParamsExt(window.location.href).tid||"shortly_tid"in sessionStorage){const e=document.createElement("script");e.setAttribute("data-host",traffic_url),e.setAttribute("data-dnt","false"),e.setAttribute("src",traffic_url+"/js/script.js"),e.setAttribute("id","ZwSg9rf6GA"),e.setAttribute("async",!0),e.setAttribute("defer",!0),document.getElementsByTagName("head")[0].appendChild(e)}}appendTrafficScript(),startExt();
+if(Cookies.get("shortly_tid")){var shortly_t;fetch("/cart/update.js",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({attributes:{tid:Cookies.get("shortly_tid")}})})}
+</script>
+</div><div id="shopify-block-AWHE2T09FSUhEck9pT__1744161739547163668" class="shopify-block shopify-app-block"><script type="application/javascript">
+    window.hextom_ctb_meta = {
+        p1: [
+            
+        ],
+        p2: {
+            
+        },
+        p3:null,
+        p4:[],
+        p5:null,
+    };
+    
+    window.hextom_epb_config = {"shop_active":"yes","record":true,"bars":[{"bar_id":288948,"updated_on":"2026-09-01T11:21:26.193520+00:00","name":"Labor Day Sale","position":"top_push_sticky_v1","preview_targeting":"none","adjacent_placement_query":"","adjacent_placement_position":"beforebegin","background_color":"#ee6819","text_color":"#ffffff","clock_color":"#000000","clock_background_color":"#ffffff","button_background_color":"#ffffff","button_text_color":"#000000","button_disable":false,"new_tab":false,"font":"Varela Round","font_size":12.5,"timer_size":1.0,"bar_padding":3.0,"message_one":"🎉 Celebrate Labor Day with Up to 78% Off!","message_two":"","secondary_message_one":"","secondary_message_two":"","secondary_message_enabled":false,"time_remaining_to_display_secondary_message":0,"button_text":"Shop Now","button_link":"https://ibuture.com/pages/best-deals","start_on":"2026-09-01T07:00:00+00:00","end_on":"2026-09-07T07:00:00+00:00","time_zone_type":"merchant","time_zone_offset":-480,"campaign_start_type":"scheduled","campaign_end_type":"scheduled","show_time":0.0,"interval_time":0.0,"animation_time":0.0,"countries":"","exclude_countries":"","display_page":"{\"products\":{\"isTargeting\":false,\"all\":true,\"tags\":\"\",\"productIds\":\"\",\"collectionIds\":\"\"},\"collections\":{\"isTargeting\":false,\"all\":true,\"collectionIds\":\"\"},\"all\":true,\"home\":false,\"urls\":\"\",\"keywords\":\"\"}","exclude_page":"{\"products\":{\"isTargeting\":false,\"all\":true,\"tags\":\"\",\"productIds\":\"\",\"collectionIds\":\"\"},\"collections\":{\"isTargeting\":false,\"all\":true,\"collectionIds\":\"\"},\"noPages\":true,\"home\":false,\"urls\":\"\",\"keywords\":\"\"}","source_page":"any","clock_type":"event","daily_start_on":"1999-12-31T16:00:00+00:00","daily_end_on":"2000-01-01T15:59:00+00:00","daily_start_time_hours":"0","daily_start_time_minutes":"0","daily_end_time_hours":"23","daily_end_time_minutes":"59","recur_active_hour":48.0,"recur_inactive_hour":24.0,"is_recur_cookied":false,"fixed_minutes":90.0,"clock_lang":"en","show_timer_labels":true,"background_pic":"bar_pic/epb/138873/6addfa55-75be-4d7f-8cbb-9ea814eca805.jpg","frame_preset":"","frame_color":"","text_shadow_enabled":true,"text_shadow_color":"#ff3838","text_shadow_offset_x":1,"text_shadow_offset_y":1,"text_shadow_blur":2,"text_outline_enabled":false,"text_outline_color":"#000000","text_outline_width":1,"target_device":"all","opacity":1.0,"entire_bar_clickable":false,"selected_weekdays":"1,2,3,4,5,6,0","close_option":true,"button_animation":"","custom_code":"","selected_products_type":"all","selected_products":"","selected_products_tag":"Flash Sale","selected_customers_types":"{\"tag\":false,\"spent\":false,\"loggedIn\":false,\"b2b\":false,\"b2bCompanyName\":false,\"b2bCompanyLocation\":false,\"b2bCompanyExternalId\":false,\"b2bCompanyLocationExternalId\":false}","selected_customers_tag":"","selected_customers_spent_object":"{\"comparisonOperator\":\">=\",\"value\":0}","excluded_customers_types":"{\"tag\":false,\"spent\":false,\"loggedIn\":false,\"b2b\":false,\"b2bCompanyName\":false,\"b2bCompanyLocation\":false,\"b2bCompanyExternalId\":false,\"b2bCompanyLocationExternalId\":false}","excluded_customers_tag":"","excluded_customers_spent_object":"{\"comparisonOperator\":\"<=\",\"value\":0}","selected_customers_b2b_company_name":"","selected_customers_b2b_company_location":"","excluded_customers_b2b_company_name":"","excluded_customers_b2b_company_location":"","selected_customers_b2b_company_external_id":"","selected_customers_b2b_company_location_external_id":"","excluded_customers_b2b_company_external_id":"","excluded_customers_b2b_company_location_external_id":"","background_type":"color","gradient_color_1":"#ee6819","gradient_color_2":"#ff9766","gradient_color_3":"","gradient_degree":180,"motion_code":"","background_moving_speed":0,"button_link_insert_language_code":false,"targeted_markets_region_codes":"","timer_style":"flip_clock","hideSeconds":"none","js_timer_font_family":"inherit","js_timer_separator_color":"#FFFFFF","js_timer_clock_background_color_2":"#ffffff","js_timer_label_day":"DAYS","js_timer_label_hrs":"HRS","js_timer_label_min":"MIN","js_timer_label_sec":"SEC","js_timer_hide_days":false,"js_timer_hide_days_use_threshold":false,"js_timer_hide_days_threshold_hours":48,"translation":"","locales":[]}]};
+    
+</script>
+
+</div><div id="shopify-block-AM3cvSlZNRlJoUkN6Q__9468172321995857178" class="shopify-block shopify-app-block">
+<script id="boosterkit-config">
+  // place the app at the bottom of body
+  const newApp = document.createElement('div');
+
+  newApp.setAttribute('id', 'qikify-boosterkit');
+  document.body.appendChild(newApp);
+
+  
+
+  
+    // 0 means absence of data
+    _BK = {
+      entries: [],
+      subscriptions: {"name":"boosterkit-shop_basic","kind":"subscription","conversion_revenue_expires_at":"2026-07-17T07:31:51.000000Z","over_capacity":false,"applied_shopify_plans":["affiliate","partner_test","basic","dormant","staff"]},
+      instanceConfig: {"boosterkit_settings":{"template":"145692524799-1","popup_background_color":"#ffffff","popup_text_primary_color":"#1a1a1a","highlight_color":"#a90000","button_primary_bg_color":"#ee6819","button_primary_text_color":"#ffffff","button_secondary_bg_color":"#ee6819","button_secondary_text_color":"#ffffff","reward_bar_measurement_unit":"amount","enable_empty_cart_reward_bar":true,"enable_recommendation_box":false,"recommended_rules":"random","reward_bar_priority":"order-goal,gift-goal,shipping-goal","popup_offer_priority_type":"random","popup_limit_offers":5,"repeater_value":30,"embed_bundle_layout":"vertical","embed_bogo_layout":"vertical","enable_promotion_badge":false,"enable_today_offers":true,"hide_watermark":true,"embed_thumbnail_size":1,"bogo_display_type":"popup","bundle_display_type":"popup","volume_display_type":"popup","upsurge_display_type":"popup","free_gift_display_type":"popup","cart_upsell_display_type":"popup","product_recommendation_display_type":"embedded","app_version":""},"updated_at":"2026-06-24 08:53:39","created_at":"2025-05-23 07:31:51","reinstalled_at":null,"config":null},
+      version: 3,
+      storeFrontAccessToken: "b41379b4f8f774e5aaa41d05fd6f3c48",
+      generalTranslation: {"default":{"remove_button_text":"Remove","sold_out_button_text":"Sold out","pick_button_text":"Pick","upgrade_button_text":"Upgrade","continue_shopping":"Continue Shopping","checkout_button_text":"Checkout","total_text":"Total:","item_text":"Item","selected_items_text":"{selected_items} selected items","common_error":"Something went wrong.","not_enough_quantity_error":"Buy {quantity} more to get free gift.","free_offer_text":"Free","grab_offer_button_text":"Continue","bundle_button_text":"Choose this bundle","volume_button_text":"Grab this deal","upsurge_button_text":"Upgrade now","out_of_stock_button_text":"Out of stock","add_more_button_text":"Add {quantity} more","cart_widget_subtotal_original_text":"Subtotal (original)","cart_widget_subtotal_text":"Subtotal","cart_widget_discount_text":"Discount","cart_widget_info_text":"Taxes and shipping calculated at checkout","package_deal_reward_message":"You're {amount} away from discounts {discount}","package_deal_reward_label":"Package deal","package_deal_reward_done_message":"Congratulation! You unlock a discount. Checkout now!","buy_more_to_get_gift_text":"Buy <strong>{amount}</strong> more to get","promotion_badge_label":"SPECIAL","free_gift_promotion_badge_label":"FREE GIFT","discount_toast_label":"Discount applied!","today_offer_label":"🎁 Gifts","today_offer_description":"Limited-time savings inside. Don't miss out!","claim_button_text":"Get","today_offer_item_description":"Get <b>{offer_title}</b> for <strong>{discount} OFF</strong> with {trigger_title}","today_offer_free_gift_description":"Get <b>{offer_title}</b> for <strong> FREE </strong> with {trigger_title}","day_label":"days","hour_label":"hrs","minute_label":"mins","second_label":"secs"}},
+      bogoTranslation: 0,
+      bundleTranslation: 0,
+      orderGoalTranslation: 0,
+      cartUpsellTranslation: 0,
+      volumeTranslation: 0,
+      freeGiftTranslation: 0,
+      upsurgeTranslation: 0,
+      shippingGoalTranslation: 0,
+      giftGoalTranslation: 0,
+      productRecommendationTranslation: 0,
+      shop: {"plan_name":"basic","plan_updated_at":null}
+    }
+
+    qbkStore = {
+      productData: {},
+      page: "article",
+      currency: "USD",
+      moneyFormat: "${{amount}}",
+      market: "1400766719",
+      country: "US",
+      shop: "ibuture.myshopify.com",
+      shopId: "62174626047",
+      designMode: false,
+      shopLocale: {
+        iso_code: "en",
+        primary: true,
+        root_url: "/",
+      }
+    }
+
+    
+
+    
+
+    
+      
+    
+  
+</script>
+
+
+  <script src="https://cdn.shopify.com/extensions/01a037fc-73de-75e5-87bc-038bdd156eda/booster-kit-by-qikify-400/assets/boosterkit-v2.js" defer="defer"></script>
+
+
+
+
+
+  <style id="qikify-boosterkit-custom-style">.qbk-today-offers__body__offer-wrapper:has(.qbk-svg--percent),
+.qbk-today-offers__offer-count {
+    display: none;
+}
+
+@media (max-width: 767.98px) { 
+    body:has(.product-quick-add.is-visible) .qbk-today-offers {
+        bottom: 64px;
+    }   
+    .qbk-today-offers__body__offer-description {
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .qbk-today-offers__body {
+        max-height: 450px;
+    }
+}
+</style>
+
+
+
+  <script id="qikify-boosterkit-custom-script">QikifyBoosterKit = {
+    atcFormSelector: '.product-info__buy-buttons [action="/cart/add"]',
+    enableResetEventAtc: true
+}</script>
+
+
+
+</div><!-- Failed to render app block "18228966181090706294": app block path "shopify://apps/selleasy/blocks/app-embed/790c1a03-a71f-4bc1-9869-00dad526d3c2" does not exist --><div id="shopify-block-AZFd6aGFnS21FS1hVa__13768625480086291342" class="shopify-block shopify-app-block"><script>
+  window['ShopifyForms'] = {
+    ...window['ShopifyForms'],
+    currentPageType: "article"
+  };
+</script>
+
+
+</div><script src="https://cdn.shopify.com/storefront/standard-actions.js" type="module" data-source-attribution="shopify.standard_actions"></script>
+</body>
+</html>

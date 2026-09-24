@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ibuture.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ibuture.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ibuture.com/collections/floor-brush-vacuum.atom"/>
+  <title>Buture Official</title>
+  <updated>2025-08-07T23:03:30+08:00</updated>
+  <author>
+    <name>Buture Official</name>
+  </author>
+  <entry>
+    <id>https://ibuture.com/products/9172990755071</id>
+    <published>2025-08-07T23:03:30+08:00</published>
+    <updated>2025-08-07T23:03:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-floor-brush-for-vc90-vacuum"/>
+    <title>Buture Floor Brush for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_floor_brush-tuya1.webp?v=1774618770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/buture-floor-brush-for-vc90-vacuum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172990755071</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC90DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172990755071</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC90DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172990755071</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC90DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8968425799935</id>
+    <published>2024-12-30T17:11:20+08:00</published>
+    <updated>2024-12-30T17:11:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/x9-vacuum-floor-brush"/>
+    <title>Buture Floor Brush for X9 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/3_bae4bef2-4be5-4a2b-92fe-e25011933875.jpg?v=1774000101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/x9-vacuum-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8968425799935</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>X9DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8968425799935</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>X9DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8968425799935</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>X9DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8935829864703</id>
+    <published>2024-11-18T16:58:09+08:00</published>
+    <updated>2024-11-18T16:58:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/bp20-vacuum-floor-brush"/>
+    <title>Buture Floor Brush for BP20 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/34ee73f065ccb5d43a4751c960e8908c_4d5e7cd1-3503-492d-a1f5-4b26c3dbe75a-929178.jpg?v=1774000127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/bp20-vacuum-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8935829864703</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>BP20DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8935829864703</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>BP20DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8935829864703</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>BP20DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8872136343807</id>
+    <published>2024-10-26T16:59:33+08:00</published>
+    <updated>2024-10-26T16:59:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vac01-vacuum-floor-brush"/>
+    <title>Buture Floor Brush for VAC01 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/10_d3e8408e-923c-4877-ab0c-69cab958119e.jpg?v=1774000149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/vac01-vacuum-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Roller Brush is not included.</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8872136343807</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VAC01DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8872136343807</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VAC01DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8872136343807</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VAC01DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8844680855807</id>
+    <published>2024-08-13T19:45:21+08:00</published>
+    <updated>2024-08-13T19:45:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-pro-bp10-vacuum-floor-brush"/>
+    <title>Buture Floor Brush for BP10 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/11_8cdaa85a-113d-43cb-941a-27b9f53d3bbb.jpg?v=1774000176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/buture-pro-bp10-vacuum-floor-brush">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Roller brush is not included. Suitable for BP10 and VC70 Model Vacuum.</strong></p>
+<h5><strong>Tips:</strong></h5>
+<ol>
+<li><strong>The BP10 Vacuum Cleaner has been upgraded since 2024. We recommend buying a set of floor brushes and roller brushes to avoid incompatibility issues.</strong></li>
+<li><strong>Two Types of BP10 Roller Brushes: Hard Brush is more suitable for carpets clean. Soft Brush is more suitable for floors clean.</strong></li>
+</ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8844680855807</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>BP10DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8844680855807</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>BP10DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8844680855807</id>
+      <title>1 Floor Brush + 1 Roller Soft Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>BP10DS1GS1R</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8844680855807</id>
+      <title>1 Floor Brush + 1 Roller Hard Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>BP10DS1GS1Y</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8793366528255</id>
+    <published>2024-07-10T16:09:23+08:00</published>
+    <updated>2024-07-10T16:09:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc80-floor-brush"/>
+    <title>Buture Floor Brush for VC80 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/98589762825f72e4eaa7b0b80118158c_c52be838-2311-4f81-9781-a36947f883bd.png?v=1774000201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/vc80-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Roller brush is not included.</strong></p>
+<p><strong>Tips: The VC80 Vacuum Cleaner has been upgraded since 2024 May. We recommend buying a set of floor brushes and roller brushes to avoid incompatibility issues. The Roller Brush is S-Shaped without ground noise.</strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8793366528255</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC80DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8793366528255</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC80DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8793366528255</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC80DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8793163071743</id>
+    <published>2024-07-10T14:08:05+08:00</published>
+    <updated>2024-07-10T14:08:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/jr700-floor-brush"/>
+    <title>Buture Floor Brush for JR700 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/12_77403c0f-d852-48ff-a49c-613aeba78f54.jpg?v=1774000563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/jr700-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Roller Brush is not included. Suitable for JR700 Red and JR700 Blue Model Vacuum.</h5>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8793163071743</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>JR700DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8793163071743</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>JR700DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8793163071743</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>JR700DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8790322872575</id>
+    <published>2024-07-09T14:54:40+08:00</published>
+    <updated>2024-07-09T14:54:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/jr400-floor-brush"/>
+    <title>Buture Floor Brush for JR400 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/BUTURE_JR400_f38c7af0-a604-454a-b4a8-24ad7dbcca96.jpg?v=1774000587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/jr400-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Roller brush is not included.</h5>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8790322872575</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>JR400DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8790322872575</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>JR400DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8790322872575</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>JR400DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8774512836863</id>
+    <published>2024-07-02T18:31:04+08:00</published>
+    <updated>2024-07-02T18:31:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc50-blue-floor-brush"/>
+    <title>Buture Floor Brush for VC50 Blue Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/replacement-floor-brush-for-buture-vc50-vacuum_d1ced68a-b05f-466e-b13a-2d53c7c6aa88.jpg?v=1775636408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/vc50-blue-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Roller brush is not included.</strong></p>
+<p><strong>Tips: The VC50 Blue Vacuum Cleaner has been upgraded since 2024. We recommend buying a set of floor brushes and roller brushes to avoid incompatibility issues.<br></strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8774512836863</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC50BDS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8774512836863</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC50BDS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8774512836863</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC50BDS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8774509953279</id>
+    <published>2024-07-02T18:29:57+08:00</published>
+    <updated>2024-07-02T18:29:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc50-red-floor-brush"/>
+    <title>Buture Floor Brush for VC50 Red Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/34ee73f065ccb5d43a4751c960e8908c.jpg?v=1774000635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/vc50-red-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Roller brush is not included.</strong></p>
+<p><strong>Tips: The VC50 Red has been upgraded since 2024. We recommend buying a set of floor brushes and roller brushes to avoid incompatibility issues.</strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8774509953279</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC50RDS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8774509953279</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC50RDS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8774509953279</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC50RDS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8759276962047</id>
+    <published>2024-06-21T17:31:36+08:00</published>
+    <updated>2024-06-21T17:31:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc70-floor-brush"/>
+    <title>Buture Floor Brush for VC70 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/8_7a1fff0f-fe0e-4af4-b069-07f53bab058a.jpg?v=1774000655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/vc70-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Roller brush is not included. Suitable for VC70 and BP10 Model Vacuum.</strong></p>
+<p><strong>Tips: The VC70 Vacuum Cleaner has been upgraded since 2024. We recommend buying a set of floor brushes and roller brushes to avoid incompatibility issues.</strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8759276962047</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC70DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8759276962047</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC70DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8759276962047</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC70DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8740323557631</id>
+    <published>2024-06-11T19:30:06+08:00</published>
+    <updated>2024-06-11T19:30:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc60-floor-brush"/>
+    <title>Buture Floor Brush for VC60 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/9_446c30c5-ad4b-4e2b-8cab-3625f03f5312.jpg?v=1774000676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/vc60-floor-brush">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Roller brush is not included.</h5>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8740323557631</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC60DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8740323557631</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC60DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8740323557631</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC60DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

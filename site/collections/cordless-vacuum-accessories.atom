@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://ibuture.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://ibuture.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://ibuture.com/collections/cordless-vacuum-accessories.atom"/>
+  <title>Buture Official</title>
+  <updated>2026-08-31T17:43:50+08:00</updated>
+  <author>
+    <name>Buture Official</name>
+  </author>
+  <entry>
+    <id>https://ibuture.com/products/9660520694015</id>
+    <published>2026-08-31T17:43:50+08:00</published>
+    <updated>2026-08-31T17:43:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-smart-jumper-cables-for-beta08-jump-starter"/>
+    <title>Buture Smart Jumper Cables for Beta08 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/beta08-jump-starter-smart-jumper-cables.png?v=1788169378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9660520694015</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>Beta08ZNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8793249808639</id>
+    <published>2026-08-17T13:57:32+08:00</published>
+    <updated>2026-08-17T13:57:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc50-blue-stainless-steel-filter"/>
+    <title>Buture Stainless Steel Filter for VC50 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/1_19.jpg?v=1742802699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.99 - 40.99
+            <a href="https://ibuture.com/products/vc50-blue-stainless-steel-filter">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h5>Suitable for VC50 Blue and VC50 Red Model Vacuum.</h5></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8793249808639</id>
+      <title>1 piece</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC50BBXG1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8793249808639</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>VC50BBXG2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8793249808639</id>
+      <title>1 Stainless Steel Filter + 1 Dust Cup</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>VC50BBXG1CB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9503929499903</id>
+    <published>2026-05-25T18:39:33+08:00</published>
+    <updated>2026-05-25T18:39:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-vc90-vacuum-stainless-steel-filter"/>
+    <title>Buture Stainless Steel Filter for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/stainless-steel-filter-for-vc90-vacuum.jpg?v=1779705061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.99 - 40.99
+            <a href="https://ibuture.com/products/buture-vc90-vacuum-stainless-steel-filter">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9503929499903</id>
+      <title>1 Piece</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC90BXG1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9503929499903</id>
+      <title>1 Stainless Steel Filter + 1 Dust Cup</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>VC90BXG1CB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9434142245119</id>
+    <published>2026-03-24T19:30:04+08:00</published>
+    <updated>2026-03-24T19:30:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-protective-gloves-for-beta09-jump-starter"/>
+    <title>Buture Protective Gloves for Beta09 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/beta09-jump-starter-protective-gloves.jpg?v=1774350833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Compatible with all Buture car jump starter models. Designed for safe jump-starting, these insulated protective gloves help protect your hands while handling car batteries and cables. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9434142245119</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Beta09ST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9434133332223</id>
+    <published>2026-03-24T19:30:03+08:00</published>
+    <updated>2026-03-24T19:30:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-inflatable-hose-for-beta09-jump-starter"/>
+    <title>Buture Inflatable Hose for Beta09 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/beta09-jump-starter-inflatable-hose.jpg?v=1774350441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This inflatable hose is also compatible with Buture Beta06 car jump starter.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9434133332223</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Beta09DQS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9434126450943</id>
+    <published>2026-03-24T19:30:01+08:00</published>
+    <updated>2026-03-24T19:30:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-smart-jumper-cables-for-beta09-jump-starter"/>
+    <title>Buture Smart Jumper Cables for Beta09 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/beta09-jump-starter-smart-jumper-cables.jpg?v=1774350077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9434126450943</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>Beta09ZNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9314586034431</id>
+    <published>2025-12-25T22:37:08+08:00</published>
+    <updated>2025-12-25T22:37:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-protective-gloves-for-car-jump-starter"/>
+    <title>Buture Protective Gloves for Beta07 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/buture-protective-gloves-for-car-jump-starter_2b271419-a0b4-474e-8718-4da3473f2592.png?v=1766562391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Compatible with all Buture car jump starter models. Designed for safe jump-starting, these insulated protective gloves help protect your hands while handling car batteries and cables. </strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9314586034431</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Beta07ST</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9314585051391</id>
+    <published>2025-12-25T22:37:07+08:00</published>
+    <updated>2025-12-25T22:37:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-inflatable-hose-for-beta01-jump-starter"/>
+    <title>Buture Inflatable Hose for Beta01 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/buture-inflatable-hose-for-beta01-jump-starter_1e36b4dc-da14-495b-b3ef-ee2e1065b6e4.png?v=1766562205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This inflatable hose is only compatible with Buture Beta01 car jump starter.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9314585051391</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Beta01DQS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9314584658175</id>
+    <published>2025-12-25T22:37:06+08:00</published>
+    <updated>2025-12-25T22:37:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-inflatable-hose-for-beta06-jump-starter"/>
+    <title>Buture Inflatable Hose for Beta06 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/buture-inflatable-hose-for-beta06-jump-starter_1aa254ae-ea29-4f0d-843e-a3846a46fffc.png?v=1766562114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This inflatable hose is also compatible with Buture Beta09 car jump starter.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9314584658175</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Beta06DQS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9314583478527</id>
+    <published>2025-12-25T22:37:05+08:00</published>
+    <updated>2025-12-25T22:37:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-inflatable-hose-for-beta07-jump-starter"/>
+    <title>Buture Inflatable Hose for Beta07 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/buture-inflatable-hose-for-beta07-jump-starter_aa836cd9-2e33-40a6-acaa-2c32b723d5ab.png?v=1766561734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>This inflatable hose is only compatible with Buture Beta07 car jump starter.</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9314583478527</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>Beta07DQS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9211380367615</id>
+    <published>2025-09-25T18:40:07+08:00</published>
+    <updated>2025-09-25T18:40:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-anti-mite-brush-for-vc60-vacuum"/>
+    <title>Buture Anti Mite Brush for VC60 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/VC60anti-mitebrush.jpg?v=1758796060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9211380367615</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>VC60CMS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8740324901119</id>
+    <published>2025-09-24T21:54:14+08:00</published>
+    <updated>2025-09-24T21:54:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/vc60-wall-mount"/>
+    <title>Buture Wall Mount for VC60 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/10_2dcfa2e3-33e9-4735-9cc3-d1b1d1e1b57e.jpg?v=1742802824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.99 - 30.99
+            <a href="https://ibuture.com/products/vc60-wall-mount">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Hardware is included</strong></p>
+<!----></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8740324901119</id>
+      <title>1 piece</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC60BG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/8740324901119</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>VC60BG2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9186682339583</id>
+    <published>2025-08-29T10:27:20+08:00</published>
+    <updated>2025-08-29T10:27:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-smart-jumper-cables-for-beta06-jump-starter"/>
+    <title>Buture Smart Jumper Cables for Beta06 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/03_907d9a20-1027-4551-9a9d-23f5f6e95b9e.jpg?v=1742802556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9186682339583</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>Beta06ZNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/8991480250623</id>
+    <published>2025-08-29T10:26:45+08:00</published>
+    <updated>2025-08-29T10:26:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-beta03-smart-jumper-cables"/>
+    <title>Buture Smart Jumper Cables for Beta03 Jump Starter</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/03_907d9a20-1027-4551-9a9d-23f5f6e95b9e.jpg?v=1742802556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/8991480250623</id>
+      <title>Default Title</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>Beta03ZNJ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9173000126719</id>
+    <published>2025-08-12T10:15:17+08:00</published>
+    <updated>2025-08-12T10:15:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-charger-for-vc90-vacuum"/>
+    <title>Buture Charger for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/tuya1_9cb51a6d-5e01-4503-aa94-d6b43d2041df.webp?v=1754964909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9173000126719</id>
+      <title>American Charger</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC90USSPQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9173000126719</id>
+      <title>European Charger</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC90EUSPQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9173000126719</id>
+      <title>UK Charger</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC90UKSPQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172995342591</id>
+    <published>2025-08-11T17:20:39+08:00</published>
+    <updated>2025-08-11T17:20:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-2-in-1-brush-for-vc90-vacuum"/>
+    <title>Buture 2-in-1 Brush for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_2-in-1_brush-tuya1.webp?v=1754535556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172995342591</id>
+      <title>Default Title</title>
+      <s:price currency="USD">18.99</s:price>
+      <s:sku>VC90EH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172994949375</id>
+    <published>2025-08-11T17:20:38+08:00</published>
+    <updated>2025-08-11T17:20:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-crevice-nozzle-for-vc90-vacuum"/>
+    <title>Buture Crevice Nozzle for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_long_and_flat_suction_cup-tuya1.webp?v=1754535556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172994949375</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>VC90CBX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172994588927</id>
+    <published>2025-08-11T17:20:37+08:00</published>
+    <updated>2025-08-11T17:20:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-telescopic-tube-for-vc90-vacuum"/>
+    <title>Buture Telescopic Tube for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_telescopic_tube-tuya1.webp?v=1754535556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            23.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172994588927</id>
+      <title>Default Title</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>VC90SS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172994031871</id>
+    <published>2025-08-11T17:20:36+08:00</published>
+    <updated>2025-08-11T17:20:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-main-body-for-vc90-vacuum"/>
+    <title>Buture Main Body for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_main_unit-tuya1.webp?v=1754535811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            62.99 - 80.99
+            <a href="https://ibuture.com/products/buture-main-body-for-vc90-vacuum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172994031871</id>
+      <title>1 Piece</title>
+      <s:price currency="USD">62.99</s:price>
+      <s:sku>VC90ZJ1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172994031871</id>
+      <title>1 Main Body + 1 Dust Cup</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>VC90ZJ1CB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172992917759</id>
+    <published>2025-08-11T17:20:35+08:00</published>
+    <updated>2025-08-11T17:20:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-mattress-brush-for-vc90-vacuum"/>
+    <title>Buture Anti-Mite Brush for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_dust_mite_removal_brush-tuya1.webp?v=1754535556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            30.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172992917759</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>VC90CMS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172992491775</id>
+    <published>2025-08-11T17:20:35+08:00</published>
+    <updated>2025-08-11T17:20:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-wall-mount-for-vc90-vacuum"/>
+    <title>Buture Wall Mount for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_wall-mount_accessory-tuya1.webp?v=1754535557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172992491775</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC90BG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172991967487</id>
+    <published>2025-08-11T17:20:34+08:00</published>
+    <updated>2025-08-11T17:20:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-dust-cup-for-vc90-vacuum"/>
+    <title>Buture Dust Cup for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_dust_cup-tuya1.webp?v=1754535810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            22.99 - 80.99
+            <a href="https://ibuture.com/products/buture-dust-cup-for-vc90-vacuum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172991967487</id>
+      <title>1 piece</title>
+      <s:price currency="USD">22.99</s:price>
+      <s:sku>VC90CB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172991967487</id>
+      <title>1 Dust Cup + 1 Stainless Steel Filter</title>
+      <s:price currency="USD">40.99</s:price>
+      <s:sku>VC90BXG1CB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172991967487</id>
+      <title>1 Dust Cup + 1 Main Body</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>VC90ZJ1CB1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172989608191</id>
+    <published>2025-08-07T23:03:31+08:00</published>
+    <updated>2025-08-07T23:03:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-roller-brush-for-vc90-vacuum"/>
+    <title>Buture Roller Brush for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_roller-tuya1.webp?v=1754535811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            20.99 - 55.99
+            <a href="https://ibuture.com/products/buture-roller-brush-for-vc90-vacuum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172989608191</id>
+      <title>1 piece</title>
+      <s:price currency="USD">20.99</s:price>
+      <s:sku>VC90GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172989608191</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC90GS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172989608191</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC90DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172985250047</id>
+    <published>2025-08-07T23:03:31+08:00</published>
+    <updated>2025-08-07T23:03:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-replacement-battery-for-vc90-vacuum"/>
+    <title>Buture Replacement Battery for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_battery-tuya1.webp?v=1775201982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            69.99 - 89.99
+            <a href="https://ibuture.com/products/buture-replacement-battery-for-vc90-vacuum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172985250047</id>
+      <title>1 piece</title>
+      <s:price currency="USD">69.99</s:price>
+      <s:sku>VC90DC1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172985250047</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">89.99</s:price>
+      <s:sku>VC90DC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172985250047</id>
+      <title>1 Battery + 3 HEPA Filters</title>
+      <s:price currency="USD">80.99</s:price>
+      <s:sku>VC90DC1HP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://ibuture.com/products/9172990755071</id>
+    <published>2025-08-07T23:03:30+08:00</published>
+    <updated>2025-08-07T23:03:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://ibuture.com/products/buture-floor-brush-for-vc90-vacuum"/>
+    <title>Buture Floor Brush for VC90 Vacuum</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Buture Official</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0621/7462/6047/files/Buture_VC90_cordless_vacuum_cleaner_floor_brush-tuya1.webp?v=1774618770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Buture Official<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            36.99 - 59.99
+            <a href="https://ibuture.com/products/buture-floor-brush-for-vc90-vacuum">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Accessories</s:tag>
+    <s:variant>
+      <id>https://ibuture.com/products/9172990755071</id>
+      <title>1 piece</title>
+      <s:price currency="USD">36.99</s:price>
+      <s:sku>VC90DS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172990755071</id>
+      <title>2 pieces</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>VC90DS2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://ibuture.com/products/9172990755071</id>
+      <title>1 Floor Brush + 1 Roller Brush</title>
+      <s:price currency="USD">55.99</s:price>
+      <s:sku>VC90DS1GS1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
