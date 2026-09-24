@@ -1,0 +1,28 @@
+# ================================
+# Miroir du site — NE PAS VERSIONNER
+# ================================
+/site/
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+.venv/
+venv/
+env/
+
+# Secrets / variables locales
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

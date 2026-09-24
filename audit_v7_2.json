@@ -1,0 +1,512 @@
+{
+  "products": 134,
+  "duplicate_skus": 27,
+  "identical_duplicates": 14,
+  "different_duplicates": 13,
+  "missing_sku_variants": [
+    {
+      "product": "buture-100-gift-card",
+      "title": "Buture Geschenkkarte im Wert von 100 $",
+      "variant": "$100.00",
+      "id": 46248308506879,
+      "price": {
+        "regular_price": 100.0,
+        "sale_price": ""
+      },
+      "available": true
+    }
+  ],
+  "duplicates": [
+    {
+      "sku": "BP10DC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "bp10-battery",
+        "bp10-hepa-filter"
+      ],
+      "ids": [
+        46295465394431,
+        46295472603391
+      ],
+      "differences": []
+    },
+    {
+      "sku": "BP20BXG1CB1",
+      "classification": "DIFFERENT",
+      "products": [
+        "bp20-vacuum-dust-cup",
+        "bp20-vacuum-stainless-steel-filter"
+      ],
+      "ids": [
+        49075580961023,
+        49075433275647
+      ],
+      "differences": [
+        {
+          "field": "title",
+          "a": "1 Dust Cup + 1 Stainless Steel Filter",
+          "b": "1 Stainless Steel Filter + 1 Dust Cup"
+        },
+        {
+          "field": "options",
+          "a": {
+            "option1": "1 Dust Cup + 1 Stainless Steel Filter"
+          },
+          "b": {
+            "option1": "1 Stainless Steel Filter + 1 Dust Cup"
+          }
+        }
+      ]
+    },
+    {
+      "sku": "BP20DC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "bp20-vacuum-battery",
+        "bp20-vacuum-hepa-filter"
+      ],
+      "ids": [
+        46575737209087,
+        46575736520959
+      ],
+      "differences": []
+    },
+    {
+      "sku": "BP20DS1GS1",
+      "classification": "IDENTIQUE",
+      "products": [
+        "bp20-vacuum-floor-brush",
+        "bp20-vacuum-roller-brush"
+      ],
+      "ids": [
+        46575737766143,
+        46575741567231
+      ],
+      "differences": []
+    },
+    {
+      "sku": "BP20ZJ1CB1",
+      "classification": "DIFFERENT",
+      "products": [
+        "bp20-vacuum-dust-cup",
+        "bp20-vacuum-main-body"
+      ],
+      "ids": [
+        49092389044479,
+        49091184722175
+      ],
+      "differences": [
+        {
+          "field": "title",
+          "a": "1 Dust Cup + 1 Main Body",
+          "b": "1 Main Body + 1 Dust Cup"
+        },
+        {
+          "field": "options",
+          "a": {
+            "option1": "1 Dust Cup + 1 Main Body"
+          },
+          "b": {
+            "option1": "1 Main Body + 1 Dust Cup"
+          }
+        }
+      ]
+    },
+    {
+      "sku": "JR400BXG1CB1",
+      "classification": "DIFFERENT",
+      "products": [
+        "jr400-dust-cup",
+        "jr400-stainless-steel-filter"
+      ],
+      "ids": [
+        49075610190079,
+        49075540787455
+      ],
+      "differences": [
+        {
+          "field": "title",
+          "a": "1 Dust Cup + 1 Stainless Steel Filter",
+          "b": "1 Stainless Steel Filter + 1 Dust Cup"
+        },
+        {
+          "field": "options",
+          "a": {
+            "option1": "1 Dust Cup + 1 Stainless Steel Filter"
+          },
+          "b": {
+            "option1": "1 Stainless Steel Filter + 1 Dust Cup"
+          }
+        }
+      ]
+    },
+    {
+      "sku": "JR400DC1HP3",
+      "classification": "DIFFERENT",
+      "products": [
+        "jr400-battery",
+        "jr400-hepa-filter"
+      ],
+      "ids": [
+        46295475814655,
+        46295477584127
+      ],
+      "differences": [
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/JR400_battery_hepa_filter.jpg?v=1775202687",
+          "b": "https://ibuture.com/cdn/shop/files/JR4001.jpg?v=1742802787"
+        }
+      ]
+    },
+    {
+      "sku": "JR400DS1GS1",
+      "classification": "DIFFERENT",
+      "products": [
+        "jr400-floor-brush",
+        "jr400-roller-brush"
+      ],
+      "ids": [
+        46295477289215,
+        46295478272255
+      ],
+      "differences": [
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/JR4002-659141.jpg?v=1774000587",
+          "b": "https://ibuture.com/cdn/shop/files/JR4002-219261.jpg?v=1742802763"
+        }
+      ]
+    },
+    {
+      "sku": "JR600DC1HP3",
+      "classification": "DIFFERENT",
+      "products": [
+        "jr600-battery",
+        "jr600-hepa-filter"
+      ],
+      "ids": [
+        46295497015551,
+        46295496458495
+      ],
+      "differences": [
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/JR6001-353984.jpg?v=1775202224",
+          "b": "https://ibuture.com/cdn/shop/files/JR6001-644454.jpg?v=1742802810"
+        }
+      ]
+    },
+    {
+      "sku": "JR700BDC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "jr700-blue-battery",
+        "jr700-blue-hepa-filter"
+      ],
+      "ids": [
+        46295505961215,
+        46295507796223
+      ],
+      "differences": []
+    },
+    {
+      "sku": "JR700DS1GS1",
+      "classification": "DIFFERENT",
+      "products": [
+        "jr700-floor-brush",
+        "jr700-roller-brush"
+      ],
+      "ids": [
+        46295514349823,
+        46295514808575
+      ],
+      "differences": [
+        {
+          "field": "price",
+          "a": {
+            "regular_price": 99.99,
+            "sale_price": 55.99
+          },
+          "b": {
+            "regular_price": 98.99,
+            "sale_price": 55.99
+          }
+        }
+      ]
+    },
+    {
+      "sku": "JR700RDC1HP3",
+      "classification": "DIFFERENT",
+      "products": [
+        "jr700-battery",
+        "jr700-red-hepa-filter"
+      ],
+      "ids": [
+        46295509238015,
+        46295512056063
+      ],
+      "differences": [
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/JR700R1_400d029c-c37d-417c-8204-57337fc91ed6.jpg?v=1775202572",
+          "b": "https://ibuture.com/cdn/shop/files/JR700R1.jpg?v=1742802812"
+        }
+      ]
+    },
+    {
+      "sku": "VAC01DC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vac01-vacuum-battery",
+        "vac01-vacuum-hepa-filter"
+      ],
+      "ids": [
+        46295515627775,
+        46295545282815
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VAC01DS1GS1",
+      "classification": "DIFFERENT",
+      "products": [
+        "vac01-vacuum-floor-brush",
+        "vac01-vacuum-roller-brush"
+      ],
+      "ids": [
+        46295545250047,
+        46295545905407
+      ],
+      "differences": [
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/VAC012.jpg?v=1774000149",
+          "b": ""
+        }
+      ]
+    },
+    {
+      "sku": "VC50BDC1HP4",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc50-blue-battery",
+        "vc50-blue-hepa-filter"
+      ],
+      "ids": [
+        46295553638655,
+        46295553900799
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC50RDC1HP4",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc50-red-battery",
+        "vc50-red-hepa-filter"
+      ],
+      "ids": [
+        46295554916607,
+        46295558881535
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC50RDS1GS1",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc50-red-floor-brush",
+        "vc50-red-roller-brush"
+      ],
+      "ids": [
+        46295558783231,
+        46295561601279
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC60DC1HP4",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc60-battery",
+        "vc60-hepa-filter"
+      ],
+      "ids": [
+        46295562617087,
+        46295564779775
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC70DC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc70-battery",
+        "vc70-hepa-filter"
+      ],
+      "ids": [
+        46295565435135,
+        46295565861119
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC70DS1GS1",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc70-floor-brush",
+        "vc70-roller-brush"
+      ],
+      "ids": [
+        46295565730047,
+        46295566188799
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC80DC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "vc80-battery",
+        "vc80-hepa-filter"
+      ],
+      "ids": [
+        46295567171839,
+        46295568351487
+      ],
+      "differences": []
+    },
+    {
+      "sku": "VC80DS1GS1",
+      "classification": "DIFFERENT",
+      "products": [
+        "vc80-floor-brush",
+        "vc80-roller-brush"
+      ],
+      "ids": [
+        46295568122111,
+        46295622975743
+      ],
+      "differences": [
+        {
+          "field": "price",
+          "a": {
+            "regular_price": 99.99,
+            "sale_price": 55.99
+          },
+          "b": {
+            "regular_price": 119.99,
+            "sale_price": 55.99
+          }
+        },
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/VC803.jpg?v=1774000201",
+          "b": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+        }
+      ]
+    },
+    {
+      "sku": "VC90DS1GS1",
+      "classification": "DIFFERENT",
+      "products": [
+        "buture-floor-brush-for-vc90-vacuum",
+        "buture-roller-brush-for-vc90-vacuum"
+      ],
+      "ids": [
+        47114125705471,
+        47114121150719
+      ],
+      "differences": [
+        {
+          "field": "featured_image",
+          "a": "https://ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818",
+          "b": ""
+        }
+      ]
+    },
+    {
+      "sku": "X9BXG1CB1",
+      "classification": "DIFFERENT",
+      "products": [
+        "x9-vacuum-dust-cup",
+        "x9-vacuum-stainless-steel-filter"
+      ],
+      "ids": [
+        49075575292159,
+        49075422724351
+      ],
+      "differences": [
+        {
+          "field": "title",
+          "a": "1 Dust Cup + 1 Stainless Steel Filter",
+          "b": "1 Stainless Steel Filter + 1 Dust Cup"
+        },
+        {
+          "field": "options",
+          "a": {
+            "option1": "1 Dust Cup + 1 Stainless Steel Filter"
+          },
+          "b": {
+            "option1": "1 Stainless Steel Filter + 1 Dust Cup"
+          }
+        }
+      ]
+    },
+    {
+      "sku": "X9DC1HP3",
+      "classification": "IDENTIQUE",
+      "products": [
+        "x9-vacuum-battery",
+        "x9-vacuum-hepa-filter"
+      ],
+      "ids": [
+        46575731376383,
+        46575755198719
+      ],
+      "differences": []
+    },
+    {
+      "sku": "X9DS1GS1",
+      "classification": "IDENTIQUE",
+      "products": [
+        "x9-vacuum-floor-brush",
+        "x9-vacuum-roller-brush"
+      ],
+      "ids": [
+        46575735767295,
+        46575735931135
+      ],
+      "differences": []
+    },
+    {
+      "sku": "X9ZJ1CB1",
+      "classification": "DIFFERENT",
+      "products": [
+        "x9-vacuum-dust-cup",
+        "x9-vacuum-main-body"
+      ],
+      "ids": [
+        49092387504383,
+        49092383604991
+      ],
+      "differences": [
+        {
+          "field": "title",
+          "a": "1 Dust Cup + 1 Main Body",
+          "b": "1 Main Body + 1 Dust Cup"
+        },
+        {
+          "field": "options",
+          "a": {
+            "option1": "1 Dust Cup + 1 Main Body"
+          },
+          "b": {
+            "option1": "1 Main Body + 1 Dust Cup"
+          }
+        }
+      ]
+    }
+  ]
+}

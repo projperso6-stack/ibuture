@@ -1,0 +1,651 @@
+{
+  "file": "site/de-de/products/buture-floor-brush-for-vc90-vacuum/index.html",
+  "title": "VC90 Staubsauger-Bodenbürstenaufsatz – mühelose Reinigung",
+  "h1": "Buture Bodenbürste für VC90 Staubsauger",
+  "canonical": "https://ibuture.com/de-de/products/buture-floor-brush-for-vc90-vacuum",
+  "product_json": {
+    "id": 9172990755071,
+    "gid": "gid://shopify/Product/9172990755071",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "handle": "buture-floor-brush-for-vc90-vacuum",
+    "variants": [
+      {
+        "id": 47114125738239,
+        "price": 3695,
+        "name": "Buture Bodenbürste für VC90 Staubsauger - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "VC90DS1"
+      },
+      {
+        "id": 47114125771007,
+        "price": 5895,
+        "name": "Buture Bodenbürste für VC90 Staubsauger - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "VC90DS2"
+      },
+      {
+        "id": 47114125705471,
+        "price": 5495,
+        "name": "Buture Bodenbürste für VC90 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+        "public_title": "1 Bodenbürste + 1 Walzenbürste",
+        "sku": "VC90DS1GS1"
+      }
+    ],
+    "remote": false
+  },
+  "jsonld": [
+    {
+      "@context": "http://schema.org/",
+      "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum#product",
+      "@type": "ProductGroup",
+      "brand": {
+        "@type": "Brand",
+        "name": "Buture Official"
+      },
+      "category": "Staubsaugerzubehör",
+      "description": "",
+      "hasVariant": [
+        {
+          "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125738239#variant",
+          "@type": "Product",
+          "image": "https://ibuture.com/cdn/shop/files/Buture_VC90_cordless_vacuum_cleaner_floor_brush-tuya1.webp?v=1774618770&width=1920",
+          "name": "Buture Bodenbürste für VC90 Staubsauger - 1 Stück",
+          "offers": {
+            "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125738239#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "36.95",
+            "priceCurrency": "EUR",
+            "url": "https://ibuture.com/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125738239"
+          },
+          "sku": "VC90DS1"
+        },
+        {
+          "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125771007#variant",
+          "@type": "Product",
+          "image": "https://ibuture.com/cdn/shop/files/Buture_VC90_cordless_vacuum_cleaner_floor_brush-tuya1.webp?v=1774618770&width=1920",
+          "name": "Buture Bodenbürste für VC90 Staubsauger - 2 Stück",
+          "offers": {
+            "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125771007#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "58.95",
+            "priceCurrency": "EUR",
+            "url": "https://ibuture.com/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125771007"
+          },
+          "sku": "VC90DS2"
+        },
+        {
+          "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125705471#variant",
+          "@type": "Product",
+          "image": "https://ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818&width=1920",
+          "name": "Buture Bodenbürste für VC90 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+          "offers": {
+            "@id": "/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125705471#offer",
+            "@type": "Offer",
+            "availability": "http://schema.org/InStock",
+            "price": "54.95",
+            "priceCurrency": "EUR",
+            "url": "https://ibuture.com/de-de/products/buture-floor-brush-for-vc90-vacuum?variant=47114125705471"
+          },
+          "sku": "VC90DS1GS1"
+        }
+      ],
+      "name": "Buture Bodenbürste für VC90 Staubsauger",
+      "productGroupID": "9172990755071",
+      "url": "https://ibuture.com/de-de/products/buture-floor-brush-for-vc90-vacuum"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Zuhause",
+          "item": "https://ibuture.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Buture Bodenbürste für VC90 Staubsauger",
+          "item": "https://ibuture.com/de-de/products/buture-floor-brush-for-vc90-vacuum"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "Organization",
+      "url": "https://ibuture.com/",
+      "logo": " https://ibuture.com/cdn/shop/files/BUTURE-logo-2.png",
+      "description": "Buture focuses on providing high-performance vacuum cleaners and reliable jump starters. Explore our product range to enhance your home cleaning and auto maintenance experience.",
+      "keywords": [
+        "VC Series Vacuums",
+        "JR Series Vacuums",
+        "Car Jump Starters",
+        "Vacuums Bundles",
+        "Accessories"
+      ],
+      "mainEntityOfPage": [
+        {
+          "@type": "Dataset",
+          "name": "VC Series Vacuums",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "description": "The VC Series by Buture is your partner in easily maintaining a cleaner, healthier home. Its intelligent features and flexible design adapt to your needs, making everyday cleaning simple and effective. Whether dealing with pet hair or allergens, the VC Series ensures your home is always fresh and inviting.",
+          "url": "https://ibuture.com/collections/vc-series-vacuum-cleaner",
+          "creator": {
+            "@type": "Organization",
+            "name": "PUTURE CO.LTD."
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "JR Series Vacuums",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "description": "The JR Series by Buture delivers the deep cleaning power and endurance your home needs. Designed for the toughest tasks, this series ensures your living space is spotless and well-maintained, even with the challenges of modern life. Make every clean count with Buture’s JR Series. ",
+          "url": "https://ibuture.com/collections/jr-series-vacuum-cleaner",
+          "creator": {
+            "@type": "Organization",
+            "name": "PUTURE CO.LTD."
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Car Jump Starters",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "description": "Discover the Buture BR Series, the ultimate car jump starters designed for quick and reliable vehicle jump-starts. Our portable jump starters offer high power, advanced safety features, and ease of use. ",
+          "url": "https://ibuture.com/collections/br-series-jump-starter",
+          "creator": {
+            "@type": "Organization",
+            "name": "PUTURE CO.LTD."
+          }
+        },
+        {
+          "@type": "Dataset",
+          "name": "Vacuums Bundles",
+          "license": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
+          "description": "Experience exceptional home cleaning with Buture Official's premium vacuum bundles. Enjoy the convenience of fast, free delivery, peace of mind with our comprehensive 3-year warranty, and confidence with a 30-day money-back guarantee.",
+          "url": "https://ibuture.com/collections/vacuum-bundles",
+          "creator": {
+            "@type": "Organization",
+            "name": "PUTURE CO.LTD."
+          }
+        }
+      ],
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "DENVER",
+        "addressRegion": "DENVER",
+        "addressCountry": "USA",
+        "streetAddress": "8801 E HAMPDEN AVE STE 250, DENVER, CO 80231-4946, USA",
+        "postalCode": "80201"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "mailbox": "official@ibuture.com",
+          "contactType": "customer service",
+          "areaServed": "global",
+          "availableLanguage": [
+            "EN"
+          ]
+        }
+      ]
+    }
+  ],
+  "images": [
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-beta09-navigation-bar.png?v=1773314767",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BETA08-Navigation-bar-square-tuya1_edddbc9d-daee-45e4-a729-c9e6044dd8e1.webp?v=1773210642",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BETA07-Navigation-bar-square-tuya1_250609-6505d8eb-dcf9-4ab8-b547-b7b56384b193.png?v=1780988135",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BETA06-Navigation-bar-square-tuya1_a651f63b-9808-48cb-a91d-9bd3f335f01c.webp?v=1773210564",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BETA01-Navigation-bar-square-tuya1_1468d143-de11-42b3-922c-0d6748e5cf24.webp?v=1773210528",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC90-Navigation-bar-square-tuya1.webp?v=1778847469",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC80-Navigation-bar-square-tuya1.webp?v=1757061232",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC70-Navigation-bar-square-tuya1.webp?v=1757061232",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC60-Navigation-bar-square-tuya1.webp?v=1757061232",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC50B-Navigation-bar-square-tuya1.webp?v=1757061232",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/X9-Navigation-bar-square-tuya1.webp?v=1757061138",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BP20-Navigation-bar-square-tuya1.webp?v=1757061138",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VAC01-Navigation-bar-square-tuya1.webp?v=1757061138",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BP10-Navigation-bar-square-tuya1.webp?v=1757061138",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/JR700B-Navigation-bar-square-tuya1.webp?v=1757061272",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/JR700R-Navigation-bar-square-tuya1.webp?v=1757061272",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC90.png?v=1756205459",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BP20Vacuumbundle.jpg?v=1734338120",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VAC01_vacuum_cleaner_bundle.jpg?v=1755596645",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/JR700_BLUE_Vacuum_Bundle.jpg?v=1730200408",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC80_Vacuum_Bundle.jpg?v=1730200795",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_1_1.png?v=1776764738",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/HEPA-DHL.jpg?v=1729061518",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BATTERY-DHL.jpg?v=1729061519",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/TB-DHL.jpg?v=1729061519",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/5_c80ed0fe-6dd2-4768-a74b-d42b4513135c.jpg?v=1742802689",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/19-669782.jpg?v=1742802603",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-beta09-new-arrival-image.jpg?v=1773233831",
+      "alt": "",
+      "width": "1000",
+      "height": "1000"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Buture_vc90_cordless_vacuum_cleaner_navigation_bar_image-tuya1_25b0ba90-b1c1-471c-8799-dc1ed7f34803.webp?v=1773233796",
+      "alt": "",
+      "width": "1092",
+      "height": "1093"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/02_-tuya1.webp?v=1740457862",
+      "alt": "",
+      "width": "1000",
+      "height": "1000"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-labor-day-sale-nevigation-bar-image.webp?v=1788244156",
+      "alt": "Buture Labor Day sale banner featuring cordless vacuum and car jump starter, up to 72% off flash deals.",
+      "width": "1200",
+      "height": "1200"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-flash-sale-banner-pc-2.jpg?v=1750833661",
+      "alt": "",
+      "width": "1200",
+      "height": "1200"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-buy-in-bulk-navigation-bar-image.jpg?v=1755504438",
+      "alt": "",
+      "width": "1200",
+      "height": "1200"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture_membership_home_image.jpg?v=1765513582",
+      "alt": "",
+      "width": "1200",
+      "height": "628"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture_affiliate_program_home_image.jpg?v=1765513581",
+      "alt": "",
+      "width": "1200",
+      "height": "628"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BUTURE-logo-2.png?v=1716272812&width=1466",
+      "alt": "Buture focuses on providing high-performance vacuum cleaners and reliable jump starters. Explore our product range to enhance your home cleaning and auto maintenance experience.",
+      "width": "1466",
+      "height": "191"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/BETA04-Navigation-bar-square-tuya1_2fca565c-1871-4664-81a6-6d9a6447bfb7.webp?v=1773210495",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC50R-Navigation-bar-square-tuya1.webp?v=1757061232",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC70_Vacuum_Bundle.jpg?v=1730200756",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/9c8727a0f1a1c1bc27701a53504fb0a4.jpg?v=1742802591",
+      "alt": null,
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-prime-day-page-vacuums-image-mb-tuya1.webp?v=1751008482",
+      "alt": "buture-prime-day-page-vacuums-image-mb-tuya1.webp__PID:796c429c-cf36-448f-9efb-5e4e7810869e",
+      "width": "1200",
+      "height": "1200"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/buture-prime-day-page-vacuum-accessories-image-mb-tuya1.webp?v=1751008482",
+      "alt": "buture-prime-day-page-vacuum-accessories-image-mb-tuya1.webp__PID:2d796c42-9ccf-46d4-8fde-fb5e4e781086",
+      "width": "1200",
+      "height": "1200"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Buture_VC90_cordless_vacuum_cleaner_floor_brush-tuya1.webp?v=1774618770&width=1600",
+      "alt": "Replacement floor brush for Buture VC90 cordless vacuum cleaner",
+      "width": "1600",
+      "height": "1600"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/5_c2e083d6-7bf4-4254-b5ac-8f9e79a3511c.jpg?v=1774000077&width=1000",
+      "alt": "Buture Bodenbürste für VC90 Staubsauger",
+      "width": "1000",
+      "height": "1000"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818&width=1000",
+      "alt": "Buture Bodenbürste für VC90 Staubsauger",
+      "width": "1000",
+      "height": "1000"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/compatible-model-is-vc90.jpg?v=1765530760&width=1000",
+      "alt": "",
+      "width": "1000",
+      "height": "1000"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/a02db750-db31-4499-bdda-9a451f4ebc53_480x480.png?v=1732073165",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/611ee832-df09-4103-a7ce-184a3aff32f8_480x480.png?v=1732073590",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/JR400_b86d5d19-fd7d-4e61-852d-a727b3824aaf_480x480.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/VC10_480x480.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/VC70.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/JR700R_eae5ba9c-a861-48a2-81a6-d2c46f012cd6.png?v=1732100037",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/VC50R.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/BP20.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/JR500.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/JR600.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/JR700B.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/VC50B_971b0bd1-80d0-46e2-80a7-af64e5c6947c.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/BP10.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/VC60.png?v=1732100036",
+      "alt": "",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/66aad22d-6f36-424e-8b95-84fc6cb83fb5.png?v=1732506079",
+      "alt": "Bedienungsanleitung 1",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/dc6bae1c-6493-4e42-b9ae-a2f191efd710.png?v=1732506079",
+      "alt": "Bedienungsanleitung 2",
+      "width": "187",
+      "height": "105"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/d813d478-c808-442a-840e-99bbfe543ef3.jpg?v=1732506079",
+      "alt": "Zubehörbeispiel 1",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/ed59713c-bc48-4600-a828-e0eeda1ff639.png?v=1732506079",
+      "alt": "Zubehörbeispiel 2",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0621/7462/6047/files/63fcc084-e42f-43ba-a9b9-d5a4758134a9.png?v=1732506079",
+      "alt": "Zubehörbeispiel 3",
+      "width": null,
+      "height": null
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/3-Year-Warranty.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/30day.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/free-shipping.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Buy-Now-Pay-Later.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Guarantee.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Refer-a-friend.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Secure-Payment.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    },
+    {
+      "url": "//ibuture.com/cdn/shop/files/Lifetime-Customer-Support.png?v=1733887208&width=80",
+      "alt": "",
+      "width": "80",
+      "height": "80"
+    }
+  ],
+  "prices_found": [
+    "36.95",
+    "58.95",
+    "54.95",
+    "3695",
+    "5895",
+    "5495",
+    "36,95"
+  ],
+  "skus_found": [
+    "VC90DS1",
+    "VC90DS2",
+    "VC90DS1GS1"
+  ]
+}

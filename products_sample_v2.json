@@ -1,0 +1,2545 @@
+[
+  {
+    "source_file": "site/de/products/bp10-battery/index.html",
+    "shopify_id": 8740340596991,
+    "title": "Buture Ersatzakku für BP10 Vakuum",
+    "slug": "bp10-battery",
+    "description_html": "<div class=\"prose\"><h5>Passend für VC70 und BP10 Modellvakuum.</h5></div>",
+    "description_text": "Passend für VC70 und BP10 Modellvakuum.",
+    "meta_description": "Verbessern Sie die Reinigungsmöglichkeiten Ihres BP10 Akku-Staubsauger mit diesem Akkuaufsatz. Keine Unterbrechungen mehr während der Reinigung!",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 6999,
+    "price_min_cents": 6999,
+    "price_max_cents": 8999,
+    "compare_at_price_cents": 12999,
+    "compare_at_price_min_cents": 12999,
+    "compare_at_price_max_cents": 22999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/9_0541ab7b-e847-492f-8294-b1af6beeb7dd.jpg?v=1775202456",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/9_0541ab7b-e847-492f-8294-b1af6beeb7dd.jpg?v=1775202456",
+      "https://ibuture.com/cdn/shop/files/battery-for-bp10-vacuum.jpg?v=1775202456",
+      "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+    ],
+    "media": [
+      {
+        "id": 35770599637247,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP10 Vacuum - Battery Accessories",
+        "width": 1500,
+        "height": 1500,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/9_0541ab7b-e847-492f-8294-b1af6beeb7dd.jpg?v=1775202456"
+      },
+      {
+        "id": 38682818642175,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/battery-for-bp10-vacuum.jpg?v=1775202456"
+      },
+      {
+        "id": 36551264502015,
+        "position": 3,
+        "media_type": "image",
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46247317471487,
+        "title": "1 Stück",
+        "name": "Buture Ersatzakku für BP10 Vakuum - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "BP10DC1",
+        "price_cents": 6999,
+        "compare_at_price_cents": 12999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stück"
+        ],
+        "option1": "1 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 43083583160575,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum - Battery Accessories",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/9_0541ab7b-e847-492f-8294-b1af6beeb7dd.jpg?v=1775202456"
+        }
+      },
+      {
+        "shopify_id": 46247317504255,
+        "title": "2 Stück",
+        "name": "Buture Ersatzakku für BP10 Vakuum - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "BP10DC2",
+        "price_cents": 8999,
+        "compare_at_price_cents": 22999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "2 Stück"
+        ],
+        "option1": "2 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 43083583160575,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum - Battery Accessories",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/9_0541ab7b-e847-492f-8294-b1af6beeb7dd.jpg?v=1775202456"
+        }
+      },
+      {
+        "shopify_id": 46295465394431,
+        "title": "1 Batterie + 3 HEPA-Filter",
+        "name": "Buture Ersatzakku für BP10 Vakuum - 1 Batterie + 3 HEPA-Filter",
+        "public_title": "1 Batterie + 3 HEPA-Filter",
+        "sku": "BP10DC1HP3",
+        "price_cents": 8099,
+        "compare_at_price_cents": 18999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Batterie + 3 HEPA-Filter"
+        ],
+        "option1": "1 Batterie + 3 HEPA-Filter",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44189232333055,
+          "position": 3,
+          "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp10-hepa-filter/index.html",
+    "shopify_id": 8759284793599,
+    "title": "Buture HEPA-Filter für BP10 Vakuum",
+    "slug": "bp10-hepa-filter",
+    "description_html": "<div class=\"prose\"><h5>Enthält 3 Hepa-Filter, inklusive Schwammfilter. Auch für das Staubsaugermodell VC70/VC80 geeignet.</h5>\n<h5>Erfahren Sie mehr über HEPA: <a href=\"https://ibuture.com/blogs/all/change-hepa-filter\" rel=\"noopener\" target=\"_blank\">https://ibuture.com/blogs/all/change-hepa-filter</a>\n</h5>\n<p><br/></p>\n<!-- --></div>",
+    "description_text": "Enthält 3 Hepa-Filter, inklusive Schwammfilter. Auch für das Staubsaugermodell VC70/VC80 geeignet. Erfahren Sie mehr über HEPA: https://ibuture.com/blogs/all/change-hepa-filter",
+    "meta_description": "Steigern Sie die Leistung Ihres Buture BP10 Staubsauger mit diesen hochwertigen HEPA-Filtern. Halten Sie Ihr Zuhause sauber und allergenfrei.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2999,
+    "price_min_cents": 2999,
+    "price_max_cents": 8099,
+    "compare_at_price_cents": 4999,
+    "compare_at_price_min_cents": 4999,
+    "compare_at_price_max_cents": 18999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/3_6774a859-5b70-46fc-bd43-ac83e21b8e39.jpg?v=1742802789",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/3_6774a859-5b70-46fc-bd43-ac83e21b8e39.jpg?v=1742802789",
+      "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+      "https://ibuture.com/cdn/shop/files/hepa-filters-for-bp10.jpg?v=1765186649"
+    ],
+    "media": [
+      {
+        "id": 36103112327423,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1500,
+        "height": 1500,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/3_6774a859-5b70-46fc-bd43-ac83e21b8e39.jpg?v=1742802789"
+      },
+      {
+        "id": 36551264502015,
+        "position": 2,
+        "media_type": "image",
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+      },
+      {
+        "id": 38682766770431,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/hepa-filters-for-bp10.jpg?v=1765186649"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46009507938559,
+        "title": "3 Stück",
+        "name": "Buture HEPA-Filter für BP10 Vakuum - 3 Stück",
+        "public_title": "3 Stück",
+        "sku": "BP10HP3",
+        "price_cents": 2999,
+        "compare_at_price_cents": 4999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "3 Stück"
+        ],
+        "option1": "3 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 43541270692095,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/3_6774a859-5b70-46fc-bd43-ac83e21b8e39.jpg?v=1742802789"
+        }
+      },
+      {
+        "shopify_id": 46009507971327,
+        "title": "6 Stück",
+        "name": "Buture HEPA-Filter für BP10 Vakuum - 6 Stück",
+        "public_title": "6 Stück",
+        "sku": "BP10HP6",
+        "price_cents": 4999,
+        "compare_at_price_cents": 9999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "6 Stück"
+        ],
+        "option1": "6 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 43541270692095,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/3_6774a859-5b70-46fc-bd43-ac83e21b8e39.jpg?v=1742802789"
+        }
+      },
+      {
+        "shopify_id": 46046760370431,
+        "title": "9 Stück",
+        "name": "Buture HEPA-Filter für BP10 Vakuum - 9 Stück",
+        "public_title": "9 Stück",
+        "sku": "BP10HP9",
+        "price_cents": 6999,
+        "compare_at_price_cents": 12999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "9 Stück"
+        ],
+        "option1": "9 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 43541270692095,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/3_6774a859-5b70-46fc-bd43-ac83e21b8e39.jpg?v=1742802789"
+        }
+      },
+      {
+        "shopify_id": 46295472603391,
+        "title": "1 Batterie + 3 HEPA-Filter",
+        "name": "Buture HEPA-Filter für BP10 Vakuum - 1 Batterie + 3 HEPA-Filter",
+        "public_title": "1 Batterie + 3 HEPA-Filter",
+        "sku": "BP10DC1HP3",
+        "price_cents": 8099,
+        "compare_at_price_cents": 18999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Batterie + 3 HEPA-Filter"
+        ],
+        "option1": "1 Batterie + 3 HEPA-Filter",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44189232333055,
+          "position": 2,
+          "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp10-roller-brush/index.html",
+    "shopify_id": 8774421512447,
+    "title": "Buture Walzenbürste für BP10 Vakuum",
+    "slug": "bp10-roller-brush",
+    "description_html": "<div class=\"prose\"><p><strong>Tipps: </strong></p>\n<p><strong>1. Zwei Arten von BP10 Walzenbürsten: Harte Bürsten eignen sich besser zum Reinigen von Teppichen. Eine weiche Bürste eignet sich besser zum Reinigen von Böden. </strong></p>\n<p><strong>2. Die BP10 Der Staubsauger wurde seit 2024 aktualisiert. Wir empfehlen den Kauf eines Satzes Bodenbürsten und Walzenbürsten, um Inkompatibilitätsprobleme zu vermeiden.</strong></p></div>",
+    "description_text": "Tipps: 1. Zwei Arten von BP10 Walzenbürsten: Harte Bürsten eignen sich besser zum Reinigen von Teppichen. Eine weiche Bürste eignet sich besser zum Reinigen von Böden. 2. Die BP10 Der Staubsauger wurde seit 2024 aktualisiert. Wir empfehlen den Kauf eines Satzes Bodenbürsten und Walzenbürsten, um Inkompatibilitätsprobleme zu vermeiden.",
+    "meta_description": "Verbessern Sie die Reinigungseffizienz mit dem BP10 Staubbecheraufsatz für Akku-Staubsauger. Ein Muss für die einfache Staubentfernung.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2099,
+    "price_min_cents": 2099,
+    "price_max_cents": 3699,
+    "compare_at_price_cents": 3999,
+    "compare_at_price_min_cents": 3999,
+    "compare_at_price_max_cents": 7999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Material",
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774",
+      "https://ibuture.com/cdn/shop/files/1_66edeb57-c5ac-46fc-b9c3-d0cb07c96f60.jpg?v=1774000176"
+    ],
+    "media": [
+      {
+        "id": 35733156626687,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP10 Vacuum Roller Brush",
+        "width": 1500,
+        "height": 1500,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774"
+      },
+      {
+        "id": 38284534087935,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/1_66edeb57-c5ac-46fc-b9c3-d0cb07c96f60.jpg?v=1774000176"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46191388590335,
+        "title": "Harte Bürste / 1 Stück",
+        "name": "Buture Walzenbürste für BP10 Vakuum - Harte Bürste / 1 Stück",
+        "public_title": "Harte Bürste / 1 Stück",
+        "sku": "BP10GSY1",
+        "price_cents": 2099,
+        "compare_at_price_cents": 3999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Harte Bürste",
+          "1 Stück"
+        ],
+        "option1": "Harte Bürste",
+        "option2": "1 Stück",
+        "option3": null,
+        "featured_image": {
+          "id": 43046524518655,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum Roller Brush",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774"
+        }
+      },
+      {
+        "shopify_id": 46235730870527,
+        "title": "Harte Bürste / 2 Stück",
+        "name": "Buture Walzenbürste für BP10 Vakuum - Harte Bürste / 2 Stück",
+        "public_title": "Harte Bürste / 2 Stück",
+        "sku": "BP10GSY2",
+        "price_cents": 3699,
+        "compare_at_price_cents": 7999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Harte Bürste",
+          "2 Stück"
+        ],
+        "option1": "Harte Bürste",
+        "option2": "2 Stück",
+        "option3": null,
+        "featured_image": {
+          "id": 43046524518655,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum Roller Brush",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774"
+        }
+      },
+      {
+        "shopify_id": 46191388623103,
+        "title": "Weiche Bürste / 1 Stück",
+        "name": "Buture Walzenbürste für BP10 Vakuum - Weiche Bürste / 1 Stück",
+        "public_title": "Weiche Bürste / 1 Stück",
+        "sku": "BP10GSR1",
+        "price_cents": 2099,
+        "compare_at_price_cents": 3999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Weiche Bürste",
+          "1 Stück"
+        ],
+        "option1": "Weiche Bürste",
+        "option2": "1 Stück",
+        "option3": null,
+        "featured_image": {
+          "id": 43046524518655,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum Roller Brush",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774"
+        }
+      },
+      {
+        "shopify_id": 46235730936063,
+        "title": "Weiche Bürste / 2 Stück",
+        "name": "Buture Walzenbürste für BP10 Vakuum - Weiche Bürste / 2 Stück",
+        "public_title": "Weiche Bürste / 2 Stück",
+        "sku": "BP10GSR2",
+        "price_cents": 3599,
+        "compare_at_price_cents": 7999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Weiche Bürste",
+          "2 Stück"
+        ],
+        "option1": "Weiche Bürste",
+        "option2": "2 Stück",
+        "option3": null,
+        "featured_image": {
+          "id": 43046524518655,
+          "position": 1,
+          "alt": "Buture BP10 Vacuum Roller Brush",
+          "width": 1500,
+          "height": 1500,
+          "src": "https://ibuture.com/cdn/shop/files/8_d5d6c50c-2160-4af7-a4cc-d4f119b5851a.jpg?v=1742802774"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-cordless-vacuum-cleaner/index.html",
+    "shopify_id": 8917822603519,
+    "title": "Buture BP20 ZeroTangle Haustier-Akku-Staubsauger | 600W 55KPA",
+    "slug": "bp20-cordless-vacuum-cleaner",
+    "description_html": "<div class=\"prose\">\n<article class=\"4ever-article\" data-clipboard-cangjie=\"[&quot;root&quot;,{},[&quot;p&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsubvli83xd0c76fgn&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;New Release! Buture BP20 Cordless Vacuum Cleaner – Your ultimate cleaning solution. Powered by a high-performance motor and exceptional suction power, the BP20 offers outstanding results across all surfaces. With its self-standing design, smart LED touch screen, and multiple cleaning modes, this vacuum cleaner is the perfect companion for any home. Enjoy the convenience of an integrated wall mount and an assortment of useful accessories for a complete cleaning experience.&quot;]]],[&quot;p&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsubylyqdid2r63t4&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Why Choose the Buture BP20 Cordless Vacuum Cleaner?&quot;]]],[&quot;p&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsu5dylbdyhd96hnf5&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Experience Powerful Cordless Cleaning&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtvmmzjvnquwjp&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Cordless Convenience: Seamless transitions between rooms without being tied to an outlet.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtv5yagg646zu&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Unparalleled Power: Advanced 600W motor delivers exceptional 50kPa suction power, clean up hair, dirt, and dust allergens on hard floors, stairs, carpet and upholstery — all without being plugged in.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtvv19g01rlrxg&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Spend Less Time for More Cleaning&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtw4h290fc9c0d&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Quick Charging: Wall-mounted charging takes only 4-5 hours to fully replenish the battery. When you’re done cleaning, this machine's 4.5 hours charge time ensures it will be ready when you are.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtwxa435jhotvc&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Long-Lasting Battery: The removable, upgraded 8-cell lithium-ion battery ensures extended runtime for more thorough cleaning sessions, provides up to 60 minutes of continuous cleaning power, covering up to 250 square meters on a single charge.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtxmtqdm328sh&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Control Dust Allergen Smartly &quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtxblcx35j7msv&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Multi-stage Filtration: fully-sealed filtration system seals in microscopic dust, expelling cleaner air, for a healthier home.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtxnk9qt5ke5jk&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Advanced HEPA Filtration: whole-machine HEPA filtration captures 99.97% of dust allergens for a fresher home.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtx9w9nphbr5hg&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Captures Microscopic Particles: removes particles as small as allergens, mould spores, dust mites, and pet dander.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gty43l74rmejx6&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Easy to Use &amp; Easy to Maintain&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtykb7rsprdwhp&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Smart LED Display: Monitor battery life, surface type and cleanser level in real time.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gty2zaljyfnnzx&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Fingertip Controls: Controls located on the handle for an easy, seamless clean.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtz61gv7thn4vj&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;After-you-clean Convenience: The hands-free dustbin gets debris out of your machine in one quick step so you never have to touch the mess. The filters are also easy to clean and replace, ensuring that your vacuum cleaner always performs at its best.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtzllz8iuq9pd&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;One Machine, Multiple Uses&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu0m6uqcd4umym&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Instantly transforms into a powerful cordless handheld vacuum, perfect for cleaning surfaces, soft furnishings, and stairs. Complete with handy tools and quick-release wand, easily clean ceilings, curtains, and upholstery. Deep-clean crevices and tight spaces in your car with the hand vacuum and included attachments.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu0hnxhnhumfcu&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Specialized Tools for Your Convenience&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu031n2no1noxx&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Anti-Mite Brush: Effectively removes dust mites, allergens, and fine particles from mattresses, sofas, and upholstery, promoting a healthier living environment.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu2nlu2zorbjk&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Soft Tube: Provides extended reach and flexibility, making it easier to clean tight spaces, high shelves, and delicate surfaces without causing damage.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu2bdllp8n374t&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Triangular Brush: Designed for precision cleaning, this brush reaches into corners and edges effortlessly, ensuring no dust or debris is left behind.&quot;]]]]\" data-identifier-application__slash__x-cangjie-fragment=\"JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMm51bVByJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwJTIyJTJDJTIybGV2ZWwlMjIlM0EwJTdEJTJDJTIyclByJTIyJTNBJTdCJTIyYm9sZCUyMiUzQWZhbHNlJTJDJTIyZm9udHMlMjIlM0ElN0IlMjJhc2NpaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyY3MlMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmVhc3RBc2lhJTIyJTNBJTIyJUU1JUFFJThCJUU0JUJEJTkzJTIyJTJDJTIyaEFuc2klMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmhpbnQlMjIlM0ElMjJkZWZhdWx0JTIyJTdEJTJDJTIyc3olMjIlM0ExMC41JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybWJzdWJ2bGk4M3hkMGM3NmZnbiUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk5ldyUyMFJlbGVhc2UhJTIwQnV0dXJlJTIwQlAyMCUyMENvcmRsZXNzJTIwVmFjdXVtJTIwQ2xlYW5lciUyMCVFMiU4MCU5MyUyMFlvdXIlMjB1bHRpbWF0ZSUyMGNsZWFuaW5nJTIwc29sdXRpb24uJTIwUG93ZXJlZCUyMGJ5JTIwYSUyMGhpZ2gtcGVyZm9ybWFuY2UlMjBtb3RvciUyMGFuZCUyMGV4Y2VwdGlvbmFsJTIwc3VjdGlvbiUyMHBvd2VyJTJDJTIwdGhlJTIwQlAyMCUyMG9mZmVycyUyMG91dHN0YW5kaW5nJTIwcmVzdWx0cyUyMGFjcm9zcyUyMGFsbCUyMHN1cmZhY2VzLiUyMFdpdGglMjBpdHMlMjBzZWxmLXN0YW5kaW5nJTIwZGVzaWduJTJDJTIwc21hcnQlMjBMRUQlMjB0b3VjaCUyMHNjcmVlbiUyQyUyMGFuZCUyMG11bHRpcGxlJTIwY2xlYW5pbmclMjBtb2RlcyUyQyUyMHRoaXMlMjB2YWN1dW0lMjBjbGVhbmVyJTIwaXMlMjB0aGUlMjBwZXJmZWN0JTIwY29tcGFuaW9uJTIwZm9yJTIwYW55JTIwaG9tZS4lMjBFbmpveSUyMHRoZSUyMGNvbnZlbmllbmNlJTIwb2YlMjBhbiUyMGludGVncmF0ZWQlMjB3YWxsJTIwbW91bnQlMjBhbmQlMjBhbiUyMGFzc29ydG1lbnQlMjBvZiUyMHVzZWZ1bCUyMGFjY2Vzc29yaWVzJTIwZm9yJTIwYSUyMGNvbXBsZXRlJTIwY2xlYW5pbmclMjBleHBlcmllbmNlLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMm51bVByJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwJTIyJTJDJTIybGV2ZWwlMjIlM0EwJTdEJTJDJTIyclByJTIyJTNBJTdCJTIyYm9sZCUyMiUzQWZhbHNlJTJDJTIyZm9udHMlMjIlM0ElN0IlMjJhc2NpaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyY3MlMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmVhc3RBc2lhJTIyJTNBJTIyJUU1JUFFJThCJUU0JUJEJTkzJTIyJTJDJTIyaEFuc2klMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmhpbnQlMjIlM0ElMjJkZWZhdWx0JTIyJTdEJTJDJTIyc3olMjIlM0ExMC41JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybWJzdWJ5bHlxZGlkMnI2M3Q0JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyV2h5JTIwQ2hvb3NlJTIwdGhlJTIwQnV0dXJlJTIwQlAyMCUyMENvcmRsZXNzJTIwVmFjdXVtJTIwQ2xlYW5lciUzRiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMm51bVByJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwJTIyJTJDJTIybGV2ZWwlMjIlM0EwJTdEJTJDJTIyclByJTIyJTNBJTdCJTIyYm9sZCUyMiUzQWZhbHNlJTJDJTIyZm9udHMlMjIlM0ElN0IlMjJhc2NpaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyY3MlMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmVhc3RBc2lhJTIyJTNBJTIyJUU1JUFFJThCJUU0JUJEJTkzJTIyJTJDJTIyaEFuc2klMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmhpbnQlMjIlM0ElMjJkZWZhdWx0JTIyJTdEJTJDJTIyc3olMjIlM0ExMC41JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybWJzdTVkeWxiZHloZDk2aG5mNSUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkV4cGVyaWVuY2UlMjBQb3dlcmZ1bCUyMENvcmRsZXNzJTIwQ2xlYW5pbmclMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHZtbXpqdm5xdXdqcCUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkNvcmRsZXNzJTIwQ29udmVuaWVuY2UlM0ElMjBTZWFtbGVzcyUyMHRyYW5zaXRpb25zJTIwYmV0d2VlbiUyMHJvb21zJTIwd2l0aG91dCUyMGJlaW5nJTIwdGllZCUyMHRvJTIwYW4lMjBvdXRsZXQuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R2NXlhZ2c2NDZ6dSUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlVucGFyYWxsZWxlZCUyMFBvd2VyJTNBJTIwQWR2YW5jZWQlMjA2MDBXJTIwbW90b3IlMjBkZWxpdmVycyUyMGV4Y2VwdGlvbmFsJTIwNTBrUGElMjBzdWN0aW9uJTIwcG93ZXIlMkMlMjBjbGVhbiUyMHVwJTIwaGFpciUyQyUyMGRpcnQlMkMlMjBhbmQlMjBkdXN0JTIwYWxsZXJnZW5zJTIwb24lMjBoYXJkJTIwZmxvb3JzJTJDJTIwc3RhaXJzJTJDJTIwY2FycGV0JTIwYW5kJTIwdXBob2xzdGVyeSUyMCVFMiU4MCU5NCUyMGFsbCUyMHdpdGhvdXQlMjBiZWluZyUyMHBsdWdnZWQlMjBpbi4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHZ2MTlnMDFybHJ4ZyUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlNwZW5kJTIwTGVzcyUyMFRpbWUlMjBmb3IlMjBNb3JlJTIwQ2xlYW5pbmclMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHc0aDI5MGZjOWMwZCUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlF1aWNrJTIwQ2hhcmdpbmclM0ElMjBXYWxsLW1vdW50ZWQlMjBjaGFyZ2luZyUyMHRha2VzJTIwb25seSUyMDQtNSUyMGhvdXJzJTIwdG8lMjBmdWxseSUyMHJlcGxlbmlzaCUyMHRoZSUyMGJhdHRlcnkuJTIwV2hlbiUyMHlvdSVFMiU4MCU5OXJlJTIwZG9uZSUyMGNsZWFuaW5nJTJDJTIwdGhpcyUyMG1hY2hpbmUncyUyMDQuNSUyMGhvdXJzJTIwY2hhcmdlJTIwdGltZSUyMGVuc3VyZXMlMjBpdCUyMHdpbGwlMjBiZSUyMHJlYWR5JTIwd2hlbiUyMHlvdSUyMGFyZS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHd4YTQzNWpob3R2YyUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkxvbmctTGFzdGluZyUyMEJhdHRlcnklM0ElMjBUaGUlMjByZW1vdmFibGUlMkMlMjB1cGdyYWRlZCUyMDgtY2VsbCUyMGxpdGhpdW0taW9uJTIwYmF0dGVyeSUyMGVuc3VyZXMlMjBleHRlbmRlZCUyMHJ1bnRpbWUlMjBmb3IlMjBtb3JlJTIwdGhvcm91Z2glMjBjbGVhbmluZyUyMHNlc3Npb25zJTJDJTIwcHJvdmlkZXMlMjB1cCUyMHRvJTIwNjAlMjBtaW51dGVzJTIwb2YlMjBjb250aW51b3VzJTIwY2xlYW5pbmclMjBwb3dlciUyQyUyMGNvdmVyaW5nJTIwdXAlMjB0byUyMDI1MCUyMHNxdWFyZSUyMG1ldGVycyUyMG9uJTIwYSUyMHNpbmdsZSUyMGNoYXJnZS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHhtdHFkbTMyOHNoJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyQ29udHJvbCUyMER1c3QlMjBBbGxlcmdlbiUyMFNtYXJ0bHklMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHhibGN4MzVqN21zdiUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk11bHRpLXN0YWdlJTIwRmlsdHJhdGlvbiUzQSUyMGZ1bGx5LXNlYWxlZCUyMGZpbHRyYXRpb24lMjBzeXN0ZW0lMjBzZWFscyUyMGluJTIwbWljcm9zY29waWMlMjBkdXN0JTJDJTIwZXhwZWxsaW5nJTIwY2xlYW5lciUyMGFpciUyQyUyMGZvciUyMGElMjBoZWFsdGhpZXIlMjBob21lLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0eG5rOXF0NWtlNWprJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyQWR2YW5jZWQlMjBIRVBBJTIwRmlsdHJhdGlvbiUzQSUyMHdob2xlLW1hY2hpbmUlMjBIRVBBJTIwZmlsdHJhdGlvbiUyMGNhcHR1cmVzJTIwOTkuOTclMjUlMjBvZiUyMGR1c3QlMjBhbGxlcmdlbnMlMjBmb3IlMjBhJTIwZnJlc2hlciUyMGhvbWUuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R4OXc5bnBoYnI1aGclMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJDYXB0dXJlcyUyME1pY3Jvc2NvcGljJTIwUGFydGljbGVzJTNBJTIwcmVtb3ZlcyUyMHBhcnRpY2xlcyUyMGFzJTIwc21hbGwlMjBhcyUyMGFsbGVyZ2VucyUyQyUyMG1vdWxkJTIwc3BvcmVzJTJDJTIwZHVzdCUyMG1pdGVzJTJDJTIwYW5kJTIwcGV0JTIwZGFuZGVyLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0eTQzbDc0cm1lang2JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyRWFzeSUyMHRvJTIwVXNlJTIwJTI2JTIwRWFzeSUyMHRvJTIwTWFpbnRhaW4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHlrYjdyc3ByZHdocCUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlNtYXJ0JTIwTEVEJTIwRGlzcGxheSUzQSUyME1vbml0b3IlMjBiYXR0ZXJ5JTIwbGlmZSUyQyUyMHN1cmZhY2UlMjB0eXBlJTIwYW5kJTIwY2xlYW5zZXIlMjBsZXZlbCUyMGluJTIwcmVhbCUyMHRpbWUuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R5MnphbGp5Zm5uenglMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJGaW5nZXJ0aXAlMjBDb250cm9scyUzQSUyMENvbnRyb2xzJTIwbG9jYXRlZCUyMG9uJTIwdGhlJTIwaGFuZGxlJTIwZm9yJTIwYW4lMjBlYXN5JTJDJTIwc2VhbWxlc3MlMjBjbGVhbi4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHo2MWd2N3RobjR2aiUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkFmdGVyLXlvdS1jbGVhbiUyMENvbnZlbmllbmNlJTNBJTIwVGhlJTIwaGFuZHMtZnJlZSUyMGR1c3RiaW4lMjBnZXRzJTIwZGVicmlzJTIwb3V0JTIwb2YlMjB5b3VyJTIwbWFjaGluZSUyMGluJTIwb25lJTIwcXVpY2slMjBzdGVwJTIwc28lMjB5b3UlMjBuZXZlciUyMGhhdmUlMjB0byUyMHRvdWNoJTIwdGhlJTIwbWVzcy4lMjBUaGUlMjBmaWx0ZXJzJTIwYXJlJTIwYWxzbyUyMGVhc3klMjB0byUyMGNsZWFuJTIwYW5kJTIwcmVwbGFjZSUyQyUyMGVuc3VyaW5nJTIwdGhhdCUyMHlvdXIlMjB2YWN1dW0lMjBjbGVhbmVyJTIwYWx3YXlzJTIwcGVyZm9ybXMlMjBhdCUyMGl0cyUyMGJlc3QuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R6bGx6OGl1cTlwZCUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk9uZSUyME1hY2hpbmUlMkMlMjBNdWx0aXBsZSUyMFVzZXMlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndTBtNnVxY2Q0dW15bSUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkluc3RhbnRseSUyMHRyYW5zZm9ybXMlMjBpbnRvJTIwYSUyMHBvd2VyZnVsJTIwY29yZGxlc3MlMjBoYW5kaGVsZCUyMHZhY3V1bSUyQyUyMHBlcmZlY3QlMjBmb3IlMjBjbGVhbmluZyUyMHN1cmZhY2VzJTJDJTIwc29mdCUyMGZ1cm5pc2hpbmdzJTJDJTIwYW5kJTIwc3RhaXJzLiUyMENvbXBsZXRlJTIwd2l0aCUyMGhhbmR5JTIwdG9vbHMlMjBhbmQlMjBxdWljay1yZWxlYXNlJTIwd2FuZCUyQyUyMGVhc2lseSUyMGNsZWFuJTIwY2VpbGluZ3MlMkMlMjBjdXJ0YWlucyUyQyUyMGFuZCUyMHVwaG9sc3RlcnkuJTIwRGVlcC1jbGVhbiUyMGNyZXZpY2VzJTIwYW5kJTIwdGlnaHQlMjBzcGFjZXMlMjBpbiUyMHlvdXIlMjBjYXIlMjB3aXRoJTIwdGhlJTIwaGFuZCUyMHZhY3V1bSUyMGFuZCUyMGluY2x1ZGVkJTIwYXR0YWNobWVudHMuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3UwaG54aG5odW1mY3UlMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJTcGVjaWFsaXplZCUyMFRvb2xzJTIwZm9yJTIwWW91ciUyMENvbnZlbmllbmNlJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3UwMzFuMm5vMW5veHglMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJBbnRpLU1pdGUlMjBCcnVzaCUzQSUyMEVmZmVjdGl2ZWx5JTIwcmVtb3ZlcyUyMGR1c3QlMjBtaXRlcyUyQyUyMGFsbGVyZ2VucyUyQyUyMGFuZCUyMGZpbmUlMjBwYXJ0aWNsZXMlMjBmcm9tJTIwbWF0dHJlc3NlcyUyQyUyMHNvZmFzJTJDJTIwYW5kJTIwdXBob2xzdGVyeSUyQyUyMHByb21vdGluZyUyMGElMjBoZWFsdGhpZXIlMjBsaXZpbmclMjBlbnZpcm9ubWVudC4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndTJubHUyem9yYmprJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyU29mdCUyMFR1YmUlM0ElMjBQcm92aWRlcyUyMGV4dGVuZGVkJTIwcmVhY2glMjBhbmQlMjBmbGV4aWJpbGl0eSUyQyUyMG1ha2luZyUyMGl0JTIwZWFzaWVyJTIwdG8lMjBjbGVhbiUyMHRpZ2h0JTIwc3BhY2VzJTJDJTIwaGlnaCUyMHNoZWx2ZXMlMkMlMjBhbmQlMjBkZWxpY2F0ZSUyMHN1cmZhY2VzJTIwd2l0aG91dCUyMGNhdXNpbmclMjBkYW1hZ2UuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3UyYmRsbHA4bjM3NHQlMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUcmlhbmd1bGFyJTIwQnJ1c2glM0ElMjBEZXNpZ25lZCUyMGZvciUyMHByZWNpc2lvbiUyMGNsZWFuaW5nJTJDJTIwdGhpcyUyMGJydXNoJTIwcmVhY2hlcyUyMGludG8lMjBjb3JuZXJzJTIwYW5kJTIwZWRnZXMlMjBlZmZvcnRsZXNzbHklMkMlMjBlbnN1cmluZyUyMG5vJTIwZHVzdCUyMG9yJTIwZGVicmlzJTIwaXMlMjBsZWZ0JTIwYmVoaW5kLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCU1RCU3RA==\" data-identifier-application__slash__x-doc-key=\"4jKqmoRaA1eZlw19\">\n<article class=\"4ever-article\" data-clipboard-cangjie=\"[&quot;root&quot;,{},[&quot;h2&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsubvli83xd0c76fgn&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:21.333333333333332,&quot;after&quot;:9,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:16,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;New Release! Buture BP20 Cordless Vacuum Cleaner – Your ultimate cleaning solution. &quot;]]],[&quot;p&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsuevrb3v00mu1rov8&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Powered by a high-performance motor and exceptional suction power, the BP20 offers outstanding results across all surfaces. With its self-standing design, smart LED touch screen, and multiple cleaning modes, this vacuum cleaner is the perfect companion for any home. Enjoy the convenience of an integrated wall mount and an assortment of useful accessories for a complete cleaning experience.&quot;]]],[&quot;h3&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsubylyqdid2r63t4&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:18.666666666666664,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:14,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;Why Choose the Buture BP20 Cordless Vacuum Cleaner?&quot;]]],[&quot;h4&quot;,{&quot;numPr&quot;:{&quot;id&quot;:&quot;0&quot;,&quot;level&quot;:0},&quot;rPr&quot;:{&quot;bold&quot;:false,&quot;fonts&quot;:{&quot;ascii&quot;:&quot;Arial&quot;,&quot;cs&quot;:&quot;Arial&quot;,&quot;eastAsia&quot;:&quot;宋体&quot;,&quot;hAnsi&quot;:&quot;Arial&quot;,&quot;hint&quot;:&quot;default&quot;},&quot;sz&quot;:10.5,&quot;szUnit&quot;:&quot;pt&quot;},&quot;uuid&quot;:&quot;mbsu5dylbdyhd96hnf5&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:16,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:12,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;Experience Powerful Cordless Cleaning&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtvmmzjvnquwjp&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Cordless Convenience: Seamless transitions between rooms without being tied to an outlet.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtv5yagg646zu&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Unparalleled Power: Advanced 600W motor delivers exceptional 50kPa suction power, clean up hair, dirt, and dust allergens on hard floors, stairs, carpet and upholstery — all without being plugged in.&quot;]]],[&quot;h4&quot;,{&quot;uuid&quot;:&quot;mbsu5gtvv19g01rlrxg&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:16,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:12,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;Spend Less Time for More Cleaning&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtw4h290fc9c0d&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Quick Charging: Wall-mounted charging takes only 4-5 hours to fully replenish the battery. When you’re done cleaning, this machine's 4.5 hours charge time ensures it will be ready when you are.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtwxa435jhotvc&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Long-Lasting Battery: The removable, upgraded 8-cell lithium-ion battery ensures extended runtime for more thorough cleaning sessions, provides up to 60 minutes of continuous cleaning power, covering up to 250 square meters on a single charge.&quot;]]],[&quot;h4&quot;,{&quot;uuid&quot;:&quot;mbsu5gtxmtqdm328sh&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:16,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:12,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;Control Dust Allergen Smartly &quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtxblcx35j7msv&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Multi-stage Filtration: fully-sealed filtration system seals in microscopic dust, expelling cleaner air, for a healthier home.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtxnk9qt5ke5jk&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Advanced HEPA Filtration: whole-machine HEPA filtration captures 99.97% of dust allergens for a fresher home.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtx9w9nphbr5hg&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Captures Microscopic Particles: removes particles as small as allergens, mould spores, dust mites, and pet dander.&quot;]]],[&quot;h4&quot;,{&quot;uuid&quot;:&quot;mbsu5gty43l74rmejx6&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:16,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:12,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;Easy to Use &amp; Easy to Maintain&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtykb7rsprdwhp&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Smart LED Display: Monitor battery life, surface type and cleanser level in real time.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gty2zaljyfnnzx&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Fingertip Controls: Controls located on the handle for an easy, seamless clean.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gtz61gv7thn4vj&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;After-you-clean Convenience: The hands-free dustbin gets debris out of your machine in one quick step so you never have to touch the mess. The filters are also easy to clean and replace, ensuring that your vacuum cleaner always performs at its best.&quot;]]],[&quot;h4&quot;,{&quot;uuid&quot;:&quot;mbsu5gtzllz8iuq9pd&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:16,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:12,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;One Machine, Multiple Uses&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu0m6uqcd4umym&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Instantly transforms into a powerful cordless handheld vacuum, perfect for cleaning surfaces, soft furnishings, and stairs. Complete with handy tools and quick-release wand, easily clean ceilings, curtains, and upholstery. Deep-clean crevices and tight spaces in your car with the hand vacuum and included attachments.&quot;]]],[&quot;h4&quot;,{&quot;uuid&quot;:&quot;mbsu5gu0hnxhnhumfcu&quot;,&quot;jc&quot;:&quot;justify&quot;,&quot;spacing&quot;:{&quot;before&quot;:16,&quot;after&quot;:8,&quot;line&quot;:0.8529411764705882}},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;bold&quot;:true,&quot;sz&quot;:12,&quot;szUnit&quot;:&quot;pt&quot;,&quot;data-type&quot;:&quot;leaf&quot;},&quot;Specialized Tools for Your Convenience&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu031n2no1noxx&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Anti-Mite Brush: Effectively removes dust mites, allergens, and fine particles from mattresses, sofas, and upholstery, promoting a healthier living environment.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu2nlu2zorbjk&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Soft Tube: Provides extended reach and flexibility, making it easier to clean tight spaces, high shelves, and delicate surfaces without causing damage.&quot;]]],[&quot;p&quot;,{&quot;uuid&quot;:&quot;mbsu5gu2bdllp8n374t&quot;,&quot;jc&quot;:&quot;justify&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;text&quot;},[&quot;span&quot;,{&quot;data-type&quot;:&quot;leaf&quot;},&quot;Triangular Brush: Designed for precision cleaning, this brush reaches into corners and edges effortlessly, ensuring no dust or debris is left behind.&quot;]]]]\" data-identifier-application__slash__x-cangjie-fragment=\"JTdCJTIya2xhc3MlMjIlM0ElMjJkb2N1bWVudCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaGVhZGluZy0yJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMm51bVByJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwJTIyJTJDJTIybGV2ZWwlMjIlM0EwJTdEJTJDJTIyclByJTIyJTNBJTdCJTIyYm9sZCUyMiUzQWZhbHNlJTJDJTIyZm9udHMlMjIlM0ElN0IlMjJhc2NpaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyY3MlMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmVhc3RBc2lhJTIyJTNBJTIyJUU1JUFFJThCJUU0JUJEJTkzJTIyJTJDJTIyaEFuc2klMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmhpbnQlMjIlM0ElMjJkZWZhdWx0JTIyJTdEJTJDJTIyc3olMjIlM0ExMC41JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybWJzdWJ2bGk4M3hkMGM3NmZnbiUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiUyQyUyMnNwYWNpbmclMjIlM0ElN0IlMjJiZWZvcmUlMjIlM0EyMS4zMzMzMzMzMzMzMzMzMzIlMkMlMjJhZnRlciUyMiUzQTklMkMlMjJsaW5lJTIyJTNBMC44NTI5NDExNzY0NzA1ODgyJTdEJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyTmV3JTIwUmVsZWFzZSElMjBCdXR1cmUlMjBCUDIwJTIwQ29yZGxlc3MlMjBWYWN1dW0lMjBDbGVhbmVyJTIwJUUyJTgwJTkzJTIwWW91ciUyMHVsdGltYXRlJTIwY2xlYW5pbmclMjBzb2x1dGlvbi4lMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTE2JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIybnVtUHIlMjIlM0ElN0IlMjJpZCUyMiUzQSUyMjAlMjIlMkMlMjJsZXZlbCUyMiUzQTAlN0QlMkMlMjJyUHIlMjIlM0ElN0IlMjJib2xkJTIyJTNBZmFsc2UlMkMlMjJmb250cyUyMiUzQSU3QiUyMmFzY2lpJTIyJTNBJTIyQXJpYWwlMjIlMkMlMjJjcyUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyZWFzdEFzaWElMjIlM0ElMjIlRTUlQUUlOEIlRTQlQkQlOTMlMjIlMkMlMjJoQW5zaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyaGludCUyMiUzQSUyMmRlZmF1bHQlMjIlN0QlMkMlMjJzeiUyMiUzQTEwLjUlMkMlMjJzelVuaXQlMjIlM0ElMjJwdCUyMiU3RCUyQyUyMnV1aWQlMjIlM0ElMjJtYnN1ZXZyYjN2MDBtdTFyb3Y4JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyUG93ZXJlZCUyMGJ5JTIwYSUyMGhpZ2gtcGVyZm9ybWFuY2UlMjBtb3RvciUyMGFuZCUyMGV4Y2VwdGlvbmFsJTIwc3VjdGlvbiUyMHBvd2VyJTJDJTIwdGhlJTIwQlAyMCUyMG9mZmVycyUyMG91dHN0YW5kaW5nJTIwcmVzdWx0cyUyMGFjcm9zcyUyMGFsbCUyMHN1cmZhY2VzLiUyMFdpdGglMjBpdHMlMjBzZWxmLXN0YW5kaW5nJTIwZGVzaWduJTJDJTIwc21hcnQlMjBMRUQlMjB0b3VjaCUyMHNjcmVlbiUyQyUyMGFuZCUyMG11bHRpcGxlJTIwY2xlYW5pbmclMjBtb2RlcyUyQyUyMHRoaXMlMjB2YWN1dW0lMjBjbGVhbmVyJTIwaXMlMjB0aGUlMjBwZXJmZWN0JTIwY29tcGFuaW9uJTIwZm9yJTIwYW55JTIwaG9tZS4lMjBFbmpveSUyMHRoZSUyMGNvbnZlbmllbmNlJTIwb2YlMjBhbiUyMGludGVncmF0ZWQlMjB3YWxsJTIwbW91bnQlMjBhbmQlMjBhbiUyMGFzc29ydG1lbnQlMjBvZiUyMHVzZWZ1bCUyMGFjY2Vzc29yaWVzJTIwZm9yJTIwYSUyMGNvbXBsZXRlJTIwY2xlYW5pbmclMjBleHBlcmllbmNlLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaGVhZGluZy0zJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMm51bVByJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwJTIyJTJDJTIybGV2ZWwlMjIlM0EwJTdEJTJDJTIyclByJTIyJTNBJTdCJTIyYm9sZCUyMiUzQWZhbHNlJTJDJTIyZm9udHMlMjIlM0ElN0IlMjJhc2NpaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyY3MlMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmVhc3RBc2lhJTIyJTNBJTIyJUU1JUFFJThCJUU0JUJEJTkzJTIyJTJDJTIyaEFuc2klMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmhpbnQlMjIlM0ElMjJkZWZhdWx0JTIyJTdEJTJDJTIyc3olMjIlM0ExMC41JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybWJzdWJ5bHlxZGlkMnI2M3Q0JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTJDJTIyc3BhY2luZyUyMiUzQSU3QiUyMmJlZm9yZSUyMiUzQTE4LjY2NjY2NjY2NjY2NjY2NCUyQyUyMmFmdGVyJTIyJTNBOCUyQyUyMmxpbmUlMjIlM0EwLjg1Mjk0MTE3NjQ3MDU4ODIlN0QlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJXaHklMjBDaG9vc2UlMjB0aGUlMjBCdXR1cmUlMjBCUDIwJTIwQ29yZGxlc3MlMjBWYWN1dW0lMjBDbGVhbmVyJTNGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMm1hcmslMjIlMkMlMjJ0eXBlJTIyJTNBJTIyYm9sZCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMm1hcmslMjIlMkMlMjJ0eXBlJTIyJTNBJTIyc3olMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydmFsdWUlMjIlM0ExNCUyQyUyMnN6VW5pdCUyMiUzQSUyMnB0JTIyJTdEJTdEJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaGVhZGluZy00JTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMm51bVByJTIyJTNBJTdCJTIyaWQlMjIlM0ElMjIwJTIyJTJDJTIybGV2ZWwlMjIlM0EwJTdEJTJDJTIyclByJTIyJTNBJTdCJTIyYm9sZCUyMiUzQWZhbHNlJTJDJTIyZm9udHMlMjIlM0ElN0IlMjJhc2NpaSUyMiUzQSUyMkFyaWFsJTIyJTJDJTIyY3MlMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmVhc3RBc2lhJTIyJTNBJTIyJUU1JUFFJThCJUU0JUJEJTkzJTIyJTJDJTIyaEFuc2klMjIlM0ElMjJBcmlhbCUyMiUyQyUyMmhpbnQlMjIlM0ElMjJkZWZhdWx0JTIyJTdEJTJDJTIyc3olMjIlM0ExMC41JTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlMkMlMjJ1dWlkJTIyJTNBJTIybWJzdTVkeWxiZHloZDk2aG5mNSUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiUyQyUyMnNwYWNpbmclMjIlM0ElN0IlMjJiZWZvcmUlMjIlM0ExNiUyQyUyMmFmdGVyJTIyJTNBOCUyQyUyMmxpbmUlMjIlM0EwLjg1Mjk0MTE3NjQ3MDU4ODIlN0QlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJFeHBlcmllbmNlJTIwUG93ZXJmdWwlMjBDb3JkbGVzcyUyMENsZWFuaW5nJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMm1hcmslMjIlMkMlMjJ0eXBlJTIyJTNBJTIyYm9sZCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMm1hcmslMjIlMkMlMjJ0eXBlJTIyJTNBJTIyc3olMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydmFsdWUlMjIlM0ExMiUyQyUyMnN6VW5pdCUyMiUzQSUyMnB0JTIyJTdEJTdEJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0dm1temp2bnF1d2pwJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyQ29yZGxlc3MlMjBDb252ZW5pZW5jZSUzQSUyMFNlYW1sZXNzJTIwdHJhbnNpdGlvbnMlMjBiZXR3ZWVuJTIwcm9vbXMlMjB3aXRob3V0JTIwYmVpbmclMjB0aWVkJTIwdG8lMjBhbiUyMG91dGxldC4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHY1eWFnZzY0Nnp1JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVW5wYXJhbGxlbGVkJTIwUG93ZXIlM0ElMjBBZHZhbmNlZCUyMDYwMFclMjBtb3RvciUyMGRlbGl2ZXJzJTIwZXhjZXB0aW9uYWwlMjA1MGtQYSUyMHN1Y3Rpb24lMjBwb3dlciUyQyUyMGNsZWFuJTIwdXAlMjBoYWlyJTJDJTIwZGlydCUyQyUyMGFuZCUyMGR1c3QlMjBhbGxlcmdlbnMlMjBvbiUyMGhhcmQlMjBmbG9vcnMlMkMlMjBzdGFpcnMlMkMlMjBjYXJwZXQlMjBhbmQlMjB1cGhvbHN0ZXJ5JTIwJUUyJTgwJTk0JTIwYWxsJTIwd2l0aG91dCUyMGJlaW5nJTIwcGx1Z2dlZCUyMGluLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaGVhZGluZy00JTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0dnYxOWcwMXJscnhnJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTJDJTIyc3BhY2luZyUyMiUzQSU3QiUyMmJlZm9yZSUyMiUzQTE2JTJDJTIyYWZ0ZXIlMjIlM0E4JTJDJTIybGluZSUyMiUzQTAuODUyOTQxMTc2NDcwNTg4MiU3RCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlNwZW5kJTIwTGVzcyUyMFRpbWUlMjBmb3IlMjBNb3JlJTIwQ2xlYW5pbmclMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTEyJTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R3NGgyOTBmYzljMGQlMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJRdWljayUyMENoYXJnaW5nJTNBJTIwV2FsbC1tb3VudGVkJTIwY2hhcmdpbmclMjB0YWtlcyUyMG9ubHklMjA0LTUlMjBob3VycyUyMHRvJTIwZnVsbHklMjByZXBsZW5pc2glMjB0aGUlMjBiYXR0ZXJ5LiUyMFdoZW4lMjB5b3UlRTIlODAlOTlyZSUyMGRvbmUlMjBjbGVhbmluZyUyQyUyMHRoaXMlMjBtYWNoaW5lJ3MlMjA0LjUlMjBob3VycyUyMGNoYXJnZSUyMHRpbWUlMjBlbnN1cmVzJTIwaXQlMjB3aWxsJTIwYmUlMjByZWFkeSUyMHdoZW4lMjB5b3UlMjBhcmUuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R3eGE0MzVqaG90dmMlMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJMb25nLUxhc3RpbmclMjBCYXR0ZXJ5JTNBJTIwVGhlJTIwcmVtb3ZhYmxlJTJDJTIwdXBncmFkZWQlMjA4LWNlbGwlMjBsaXRoaXVtLWlvbiUyMGJhdHRlcnklMjBlbnN1cmVzJTIwZXh0ZW5kZWQlMjBydW50aW1lJTIwZm9yJTIwbW9yZSUyMHRob3JvdWdoJTIwY2xlYW5pbmclMjBzZXNzaW9ucyUyQyUyMHByb3ZpZGVzJTIwdXAlMjB0byUyMDYwJTIwbWludXRlcyUyMG9mJTIwY29udGludW91cyUyMGNsZWFuaW5nJTIwcG93ZXIlMkMlMjBjb3ZlcmluZyUyMHVwJTIwdG8lMjAyNTAlMjBzcXVhcmUlMjBtZXRlcnMlMjBvbiUyMGElMjBzaW5nbGUlMjBjaGFyZ2UuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJoZWFkaW5nLTQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R4bXRxZG0zMjhzaCUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiUyQyUyMnNwYWNpbmclMjIlM0ElN0IlMjJiZWZvcmUlMjIlM0ExNiUyQyUyMmFmdGVyJTIyJTNBOCUyQyUyMmxpbmUlMjIlM0EwLjg1Mjk0MTE3NjQ3MDU4ODIlN0QlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJDb250cm9sJTIwRHVzdCUyMEFsbGVyZ2VuJTIwU21hcnRseSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnN6JTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnZhbHVlJTIyJTNBMTIlMkMlMjJzelVuaXQlMjIlM0ElMjJwdCUyMiU3RCU3RCU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHhibGN4MzVqN21zdiUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk11bHRpLXN0YWdlJTIwRmlsdHJhdGlvbiUzQSUyMGZ1bGx5LXNlYWxlZCUyMGZpbHRyYXRpb24lMjBzeXN0ZW0lMjBzZWFscyUyMGluJTIwbWljcm9zY29waWMlMjBkdXN0JTJDJTIwZXhwZWxsaW5nJTIwY2xlYW5lciUyMGFpciUyQyUyMGZvciUyMGElMjBoZWFsdGhpZXIlMjBob21lLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0eG5rOXF0NWtlNWprJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyQWR2YW5jZWQlMjBIRVBBJTIwRmlsdHJhdGlvbiUzQSUyMHdob2xlLW1hY2hpbmUlMjBIRVBBJTIwZmlsdHJhdGlvbiUyMGNhcHR1cmVzJTIwOTkuOTclMjUlMjBvZiUyMGR1c3QlMjBhbGxlcmdlbnMlMjBmb3IlMjBhJTIwZnJlc2hlciUyMGhvbWUuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3R4OXc5bnBoYnI1aGclMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJDYXB0dXJlcyUyME1pY3Jvc2NvcGljJTIwUGFydGljbGVzJTNBJTIwcmVtb3ZlcyUyMHBhcnRpY2xlcyUyMGFzJTIwc21hbGwlMjBhcyUyMGFsbGVyZ2VucyUyQyUyMG1vdWxkJTIwc3BvcmVzJTJDJTIwZHVzdCUyMG1pdGVzJTJDJTIwYW5kJTIwcGV0JTIwZGFuZGVyLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaGVhZGluZy00JTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0eTQzbDc0cm1lang2JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTJDJTIyc3BhY2luZyUyMiUzQSU3QiUyMmJlZm9yZSUyMiUzQTE2JTJDJTIyYWZ0ZXIlMjIlM0E4JTJDJTIybGluZSUyMiUzQTAuODUyOTQxMTc2NDcwNTg4MiU3RCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkVhc3klMjB0byUyMFVzZSUyMCUyNiUyMEVhc3klMjB0byUyME1haW50YWluJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMm1hcmslMjIlMkMlMjJ0eXBlJTIyJTNBJTIyYm9sZCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlN0QlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMm1hcmslMjIlMkMlMjJ0eXBlJTIyJTNBJTIyc3olMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydmFsdWUlMjIlM0ExMiUyQyUyMnN6VW5pdCUyMiUzQSUyMnB0JTIyJTdEJTdEJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0eWtiN3JzcHJkd2hwJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyU21hcnQlMjBMRUQlMjBEaXNwbGF5JTNBJTIwTW9uaXRvciUyMGJhdHRlcnklMjBsaWZlJTJDJTIwc3VyZmFjZSUyMHR5cGUlMjBhbmQlMjBjbGVhbnNlciUyMGxldmVsJTIwaW4lMjByZWFsJTIwdGltZS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHkyemFsanlmbm56eCUyMiUyQyUyMmpjJTIyJTNBJTIyanVzdGlmeSUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMkZpbmdlcnRpcCUyMENvbnRyb2xzJTNBJTIwQ29udHJvbHMlMjBsb2NhdGVkJTIwb24lMjB0aGUlMjBoYW5kbGUlMjBmb3IlMjBhbiUyMGVhc3klMkMlMjBzZWFtbGVzcyUyMGNsZWFuLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIycGFyYWdyYXBoJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd0ejYxZ3Y3dGhuNHZqJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyQWZ0ZXIteW91LWNsZWFuJTIwQ29udmVuaWVuY2UlM0ElMjBUaGUlMjBoYW5kcy1mcmVlJTIwZHVzdGJpbiUyMGdldHMlMjBkZWJyaXMlMjBvdXQlMjBvZiUyMHlvdXIlMjBtYWNoaW5lJTIwaW4lMjBvbmUlMjBxdWljayUyMHN0ZXAlMjBzbyUyMHlvdSUyMG5ldmVyJTIwaGF2ZSUyMHRvJTIwdG91Y2glMjB0aGUlMjBtZXNzLiUyMFRoZSUyMGZpbHRlcnMlMjBhcmUlMjBhbHNvJTIwZWFzeSUyMHRvJTIwY2xlYW4lMjBhbmQlMjByZXBsYWNlJTJDJTIwZW5zdXJpbmclMjB0aGF0JTIweW91ciUyMHZhY3V1bSUyMGNsZWFuZXIlMjBhbHdheXMlMjBwZXJmb3JtcyUyMGF0JTIwaXRzJTIwYmVzdC4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmhlYWRpbmctNCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndHpsbHo4aXVxOXBkJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTJDJTIyc3BhY2luZyUyMiUzQSU3QiUyMmJlZm9yZSUyMiUzQTE2JTJDJTIyYWZ0ZXIlMjIlM0E4JTJDJTIybGluZSUyMiUzQTAuODUyOTQxMTc2NDcwNTg4MiU3RCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMk9uZSUyME1hY2hpbmUlMkMlMjBNdWx0aXBsZSUyMFVzZXMlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTEyJTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3UwbTZ1cWNkNHVteW0lMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJJbnN0YW50bHklMjB0cmFuc2Zvcm1zJTIwaW50byUyMGElMjBwb3dlcmZ1bCUyMGNvcmRsZXNzJTIwaGFuZGhlbGQlMjB2YWN1dW0lMkMlMjBwZXJmZWN0JTIwZm9yJTIwY2xlYW5pbmclMjBzdXJmYWNlcyUyQyUyMHNvZnQlMjBmdXJuaXNoaW5ncyUyQyUyMGFuZCUyMHN0YWlycy4lMjBDb21wbGV0ZSUyMHdpdGglMjBoYW5keSUyMHRvb2xzJTIwYW5kJTIwcXVpY2stcmVsZWFzZSUyMHdhbmQlMkMlMjBlYXNpbHklMjBjbGVhbiUyMGNlaWxpbmdzJTJDJTIwY3VydGFpbnMlMkMlMjBhbmQlMjB1cGhvbHN0ZXJ5LiUyMERlZXAtY2xlYW4lMjBjcmV2aWNlcyUyMGFuZCUyMHRpZ2h0JTIwc3BhY2VzJTIwaW4lMjB5b3VyJTIwY2FyJTIwd2l0aCUyMHRoZSUyMGhhbmQlMjB2YWN1dW0lMjBhbmQlMjBpbmNsdWRlZCUyMGF0dGFjaG1lbnRzLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIyYmxvY2slMjIlMkMlMjJ0eXBlJTIyJTNBJTIyaGVhZGluZy00JTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMnV1aWQlMjIlM0ElMjJtYnN1NWd1MGhueGhuaHVtZmN1JTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTJDJTIyc3BhY2luZyUyMiUzQSU3QiUyMmJlZm9yZSUyMiUzQTE2JTJDJTIyYWZ0ZXIlMjIlM0E4JTJDJTIybGluZSUyMiUzQTAuODUyOTQxMTc2NDcwNTg4MiU3RCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIya2xhc3MlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMlNwZWNpYWxpemVkJTIwVG9vbHMlMjBmb3IlMjBZb3VyJTIwQ29udmVuaWVuY2UlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJib2xkJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiU3RCU3RCUyQyU3QiUyMmtsYXNzJTIyJTNBJTIybWFyayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJzeiUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ2YWx1ZSUyMiUzQTEyJTJDJTIyc3pVbml0JTIyJTNBJTIycHQlMjIlN0QlN0QlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3UwMzFuMm5vMW5veHglMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJBbnRpLU1pdGUlMjBCcnVzaCUzQSUyMEVmZmVjdGl2ZWx5JTIwcmVtb3ZlcyUyMGR1c3QlMjBtaXRlcyUyQyUyMGFsbGVyZ2VucyUyQyUyMGFuZCUyMGZpbmUlMjBwYXJ0aWNsZXMlMjBmcm9tJTIwbWF0dHJlc3NlcyUyQyUyMHNvZmFzJTJDJTIwYW5kJTIwdXBob2xzdGVyeSUyQyUyMHByb21vdGluZyUyMGElMjBoZWFsdGhpZXIlMjBsaXZpbmclMjBlbnZpcm9ubWVudC4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCUyQyUyMmNvbnRlbnRUeXBlJTIyJTNBJTIyY2FuZ2ppZS10ZXh0YmxvY2slMjIlN0QlMkMlN0IlMjJrbGFzcyUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJ1dWlkJTIyJTNBJTIybWJzdTVndTJubHUyem9yYmprJTIyJTJDJTIyamMlMjIlM0ElMjJqdXN0aWZ5JTIyJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMnRleHQlMjIlMkMlMjJsZWF2ZXMlMjIlM0ElNUIlN0IlMjJrbGFzcyUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyU29mdCUyMFR1YmUlM0ElMjBQcm92aWRlcyUyMGV4dGVuZGVkJTIwcmVhY2glMjBhbmQlMjBmbGV4aWJpbGl0eSUyQyUyMG1ha2luZyUyMGl0JTIwZWFzaWVyJTIwdG8lMjBjbGVhbiUyMHRpZ2h0JTIwc3BhY2VzJTJDJTIwaGlnaCUyMHNoZWx2ZXMlMkMlMjBhbmQlMjBkZWxpY2F0ZSUyMHN1cmZhY2VzJTIwd2l0aG91dCUyMGNhdXNpbmclMjBkYW1hZ2UuJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlMkMlMjJjb250ZW50VHlwZSUyMiUzQSUyMmNhbmdqaWUtdGV4dGJsb2NrJTIyJTdEJTJDJTdCJTIya2xhc3MlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIydXVpZCUyMiUzQSUyMm1ic3U1Z3UyYmRsbHA4bjM3NHQlMjIlMkMlMjJqYyUyMiUzQSUyMmp1c3RpZnklMjIlN0QlMkMlMjJub2RlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMmtsYXNzJTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUcmlhbmd1bGFyJTIwQnJ1c2glM0ElMjBEZXNpZ25lZCUyMGZvciUyMHByZWNpc2lvbiUyMGNsZWFuaW5nJTJDJTIwdGhpcyUyMGJydXNoJTIwcmVhY2hlcyUyMGludG8lMjBjb3JuZXJzJTIwYW5kJTIwZWRnZXMlMjBlZmZvcnRsZXNzbHklMkMlMjBlbnN1cmluZyUyMG5vJTIwZHVzdCUyMG9yJTIwZGVicmlzJTIwaXMlMjBsZWZ0JTIwYmVoaW5kLiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTJDJTIyY29udGVudFR5cGUlMjIlM0ElMjJjYW5namllLXRleHRibG9jayUyMiU3RCU1RCU3RA==\" data-identifier-application__slash__x-doc-key=\"4jKqmoRaA1eZlw19\">\n<h3>\n<strong>\n<span data-type=\"text\">\n             Neue Veröffentlichung! Buture BP20 Akku-Staubsauger – Ihre ultimative Reinigungslösung\n            </span>\n</strong>\n</h3>\n<p>\n<span data-type=\"text\">\n            Angetrieben von einem Hochleistungsmotor und einer außergewöhnlichen Saugleistung BP20 bietet hervorragende Ergebnisse auf allen Oberflächen. Mit seinem freistehenden Design, dem intelligenten LED-Touchscreen und mehreren Reinigungsmodi ist dieser Staubsauger der perfekte Begleiter für jedes Zuhause. Genießen Sie den Komfort einer integrierten Wandhalterung und einer Auswahl nützlicher Zubehörteile für ein umfassendes Reinigungserlebnis.\n           </span>\n</p>\n<h3>\n<strong>\n<span data-type=\"text\">\n             Warum sollten Sie sich für das entscheiden? Buture BP20 Akku-Staubsauger?\n            </span>\n</strong>\n</h3>\n<h4>\n<strong>\n<span data-type=\"text\">\n             1. Erleben Sie leistungsstarke kabellose Reinigung\n            </span>\n</strong>\n</h4>\n<ul>\n<li>\n<span data-type=\"text\">\n<strong>\n              Kabelloser Komfort:\n             </strong>\n             Nahtlose Übergänge zwischen Räumen, ohne an eine Steckdose gebunden zu sein.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Beispiellose Kraft:\n             </strong>\n             Der fortschrittliche 600-W-Motor liefert eine außergewöhnliche Saugleistung von 55 kPa und entfernt Haare, Schmutz und Stauballergene auf Hartböden, Treppen, Teppichen und Polstern – und das alles, ohne an eine Steckdose angeschlossen zu sein.\n            </span>\n</li>\n</ul>\n<h4>\n<strong>\n<span data-type=\"text\">\n             2. Verbringen Sie weniger Zeit mit mehr Reinigung\n            </span>\n</strong>\n</h4>\n<ul>\n<li>\n<span data-type=\"text\">\n<strong>\n              Schnellladung:\n             </strong>\n             Das Aufladen an der Wand dauert nur 4–5 Stunden, um den Akku vollständig aufzuladen. Wenn Sie mit der Reinigung fertig sind, sorgt die Ladezeit dieser Maschine von 4,5 Stunden dafür, dass sie bereit ist, wenn Sie es sind.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Langlebiger Akku:\n             </strong>\n             Der abnehmbare, verbesserte 8-Zellen-Lithium-Ionen-Akku sorgt für eine längere Laufzeit für gründlichere Reinigungssitzungen, liefert bis zu 60 Minuten kontinuierliche Reinigungsleistung und deckt bis zu 250 Quadratmeter mit einer einzigen Ladung ab.\n            </span>\n</li>\n</ul>\n<h4>\n<strong>\n<span data-type=\"text\">\n             3. Kontrollieren Sie Stauballergene intelligent\n            </span>\n</strong>\n</h4>\n<ul>\n<li>\n<span data-type=\"text\">\n<strong>\n              Mehrstufige Filtration:\n             </strong>\n             Das vollständig versiegelte Filtersystem schließt mikroskopisch kleinen Staub ein und stößt sauberere Luft aus – für ein gesünderes Zuhause.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Fortschrittliche HEPA-Filtration:\n             </strong>\n             Die HEPA-Filterung der gesamten Maschine fängt 99,97 % der Stauballergene ein und sorgt für ein frischeres Zuhause.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Fängt mikroskopisch kleine Partikel ein:\n             </strong>\n             Entfernt so kleine Partikel wie Allergene, Schimmelpilzsporen, Hausstaubmilben und Tierhaare.\n            </span>\n</li>\n</ul>\n<h4>\n<strong>\n<span data-type=\"text\">\n             4. Einfach zu bedienen und leicht zu warten\n            </span>\n</strong>\n</h4>\n<ul>\n<li>\n<span data-type=\"text\">\n<strong>\n              Intelligente LED-Anzeige:\n             </strong>\n             Überwachen Sie die Batterielebensdauer, den Oberflächentyp und den Reinigungsgrad in Echtzeit.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Fingerspitzensteuerung:\n             </strong>\n             Am Griff befinden sich Bedienelemente für eine einfache und nahtlose Reinigung.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Komfort nach der Reinigung:\n             </strong>\n             Mit dem freihändigen Mülleimer entfernen Sie Schmutz in einem schnellen Schritt aus Ihrer Maschine, sodass Sie die Verschmutzungen nie anfassen müssen. Die Filter lassen sich außerdem leicht reinigen und austauschen, sodass Ihr Staubsauger immer die beste Leistung erbringt.\n            </span>\n</li>\n</ul>\n<h4>\n<strong>\n<span data-type=\"text\">\n             5. Spezialwerkzeuge für Ihren Komfort\n            </span>\n</strong>\n</h4>\n<ul>\n<li>\n<span data-type=\"text\">\n<strong>\n              Anti-Milben-Bürste:\n             </strong>\n             Entfernt effektiv Hausstaubmilben, Allergene und Feinpartikel von Matratzen, Sofas und Polstern und sorgt so für ein gesünderes Wohnumfeld.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Vakuumschlauch:\n             </strong>\n             Bietet eine größere Reichweite und Flexibilität und erleichtert die Reinigung enger Räume, hoher Regale und empfindlicher Oberflächen, ohne Schäden zu verursachen.\n            </span>\n</li>\n<li>\n<span data-type=\"text\">\n<strong>\n              Sofabürste:\n             </strong>\n             Diese Bürste wurde für eine präzise Reinigung entwickelt und erreicht mühelos Ecken und Kanten, sodass kein Staub oder Schmutz zurückbleibt.\n            </span>\n</li>\n</ul>\n<h4>\n<strong>\n<span data-type=\"text\">\n             6. Eine Maschine, mehrere Verwendungsmöglichkeiten\n            </span>\n</strong>\n</h4>\n<p>\n<span data-type=\"text\">\n            Verwandelt sich sofort in einen leistungsstarken kabellosen Handstaubsauger, der sich perfekt zum Reinigen von Oberflächen, Polstermöbeln und Treppen eignet. Komplett mit praktischen Werkzeugen und Schnellverschlussstab, leicht zu reinigende Decken, Vorhänge und Polster. Reinigen Sie Spalten und enge Räume in Ihrem Auto gründlich mit dem Handstaubsauger und den mitgelieferten Aufsätzen.\n           </span>\n</p>\n</article>\n</article>\n<h3>\n<strong>\n          Buture BP20 Funktionen\n         </strong>\n</h3>\n<style>\n         .bp20-table { width: 100%; border-collapse: collapse; margin-top: 10px; table-layout: fixed; } .bp20-table th, .bp20-table td { border: 1px solid #ddd; padding: 8px; text-align: left; word-wrap: break-word; } .bp20-table th { background-color: #EE6819; color: white; font-weight: bold; } .bp20-table tr:nth-child(even) { background-color: #f9f9f9; }\n        </style>\n<table class=\"bp20-table\" style=\"width: 100%; height: 293.907px;\">\n<tbody>\n<tr style=\"height: 19.5938px;\">\n<th style=\"width: 46.8066%; height: 19.5938px;\">\n            Funktion\n           </th>\n<th style=\"width: 46.8066%; height: 19.5938px;\">\n            Spezifikation\n           </th>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Saugkraft\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            600 W/55 kPa\n           </td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Laufzeit\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Bis zu 60 Minuten (Max-Modus: 20 Minuten)\n           </td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Selbstständig\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            ✓\n           </td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Ladezeit\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            5 Stunden\n           </td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Artikelgewicht\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            8 Pfund\n           </td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Fassungsvermögen des Staubbehälters\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n<span style=\"color: rgb(51, 51, 51); font-family: Arial; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;\">\n             1,5 Liter\n            </span>\n</td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Touchscreen\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            ✓\n           </td>\n</tr>\n<tr style=\"height: 19.5938px;\">\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            Wandhalterung\n           </td>\n<td style=\"width: 46.8066%; height: 19.5938px;\">\n            ✓\n           </td>\n</tr>\n</tbody>\n</table>\n</div>",
+    "description_text": "Neue Veröffentlichung! Buture BP20 Akku-Staubsauger – Ihre ultimative Reinigungslösung Angetrieben von einem Hochleistungsmotor und einer außergewöhnlichen Saugleistung BP20 bietet hervorragende Ergebnisse auf allen Oberflächen. Mit seinem freistehenden Design, dem intelligenten LED-Touchscreen und mehreren Reinigungsmodi ist dieser Staubsauger der perfekte Begleiter für jedes Zuhause. Genießen Sie den Komfort einer integrierten Wandhalterung und einer Auswahl nützlicher Zubehörteile für ein umfassendes Reinigungserlebnis. Warum sollten Sie sich für das entscheiden? Buture BP20 Akku-Staubsauger? 1. Erleben Sie leistungsstarke kabellose Reinigung Kabelloser Komfort: Nahtlose Übergänge zwischen Räumen, ohne an eine Steckdose gebunden zu sein. Beispiellose Kraft: Der fortschrittliche 600-W-Motor liefert eine außergewöhnliche Saugleistung von 55 kPa und entfernt Haare, Schmutz und Stauballergene auf Hartböden, Treppen, Teppichen und Polstern – und das alles, ohne an eine Steckdose angeschlossen zu sein. 2. Verbringen Sie weniger Zeit mit mehr Reinigung Schnellladung: Das Aufladen an der Wand dauert nur 4–5 Stunden, um den Akku vollständig aufzuladen. Wenn Sie mit der Reinigung fertig sind, sorgt die Ladezeit dieser Maschine von 4,5 Stunden dafür, dass sie bereit ist, wenn Sie es sind. Langlebiger Akku: Der abnehmbare, verbesserte 8-Zellen-Lithium-Ionen-Akku sorgt für eine längere Laufzeit für gründlichere Reinigungssitzungen, liefert bis zu 60 Minuten kontinuierliche Reinigungsleistung und deckt bis zu 250 Quadratmeter mit einer einzigen Ladung ab. 3. Kontrollieren Sie Stauballergene intelligent Mehrstufige Filtration: Das vollständig versiegelte Filtersystem schließt mikroskopisch kleinen Staub ein und stößt sauberere Luft aus – für ein gesünderes Zuhause. Fortschrittliche HEPA-Filtration: Die HEPA-Filterung der gesamten Maschine fängt 99,97 % der Stauballergene ein und sorgt für ein frischeres Zuhause. Fängt mikroskopisch kleine Partikel ein: Entfernt so kleine Partikel wie Allergene, Schimmelpilzsporen, Hausstaubmilben und Tierhaare. 4. Einfach zu bedienen und leicht zu warten Intelligente LED-Anzeige: Überwachen Sie die Batterielebensdauer, den Oberflächentyp und den Reinigungsgrad in Echtzeit. Fingerspitzensteuerung: Am Griff befinden sich Bedienelemente für eine einfache und nahtlose Reinigung. Komfort nach der Reinigung: Mit dem freihändigen Mülleimer entfernen Sie Schmutz in einem schnellen Schritt aus Ihrer Maschine, sodass Sie die Verschmutzungen nie anfassen müssen. Die Filter lassen sich außerdem leicht reinigen und austauschen, sodass Ihr Staubsauger immer die beste Leistung erbringt. 5. Spezialwerkzeuge für Ihren Komfort Anti-Milben-Bürste: Entfernt effektiv Hausstaubmilben, Allergene und Feinpartikel von Matratzen, Sofas und Polstern und sorgt so für ein gesünderes Wohnumfeld. Vakuumschlauch: Bietet eine größere Reichweite und Flexibilität und erleichtert die Reinigung enger Räume, hoher Regale und empfindlicher Oberflächen, ohne Schäden zu verursachen. Sofabürste: Diese Bürste wurde für eine präzise Reinigung entwickelt und erreicht mühelos Ecken und Kanten, sodass kein Staub oder Schmutz zurückbleibt. 6. Eine Maschine, mehrere Verwendungsmöglichkeiten Verwandelt sich sofort in einen leistungsstarken kabellosen Handstaubsauger, der sich perfekt zum Reinigen von Oberflächen, Polstermöbeln und Treppen eignet. Komplett mit praktischen Werkzeugen und Schnellverschlussstab, leicht zu reinigende Decken, Vorhänge und Polster. Reinigen Sie Spalten und enge Räume in Ihrem Auto gründlich mit dem Handstaubsauger und den mitgelieferten Aufsätzen. Buture BP20 Funktionen Funktion Spezifikation Saugkraft 600 W/55 kPa Laufzeit Bis zu 60 Minuten (Max-Modus: 20 Minuten) Selbstständig ✓ Ladezeit 5 Stunden Artikelgewicht 8 Pfund Fassungsvermögen des Staubbehälters 1,5 Liter Touchscreen ✓ Wandhalterung ✓",
+    "meta_description": "Erleben Sie kraftvolle Reinigung mit dem Buture BP20 Akku-Staubsauger. Ultimative Saugkraft, selbststehendes Design, intelligente Funktionen und vielseitige Reinigungsmodi.",
+    "vendor": "Buture Official",
+    "type": "Staubsauger",
+    "category": "Staubsauger",
+    "tags": [
+      "Cordless Vaccum"
+    ],
+    "currency": "USD",
+    "price_cents": 17999,
+    "price_min_cents": 17999,
+    "price_max_cents": 17999,
+    "compare_at_price_cents": 37999,
+    "compare_at_price_min_cents": 37999,
+    "compare_at_price_max_cents": 37999,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Title"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner.jpg?v=1744257758",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner.jpg?v=1744257758",
+      "https://ibuture.com/cdn/shop/files/BP20_Cordless_Vacuum_55000Pa_600W.jpg?v=1765873025",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Anti-Tangle_Brush.jpg?v=1769151360",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Three_Modes_5f897a24-9ea4-47f7-9895-88f9838ce3de.jpg?v=1769151360",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_60min-Runtime.jpg?v=1769151360",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Intelligent_Touchscreen.jpg?v=1769151360",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Wall_Mount_Charging.jpg?v=1769151360",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Self-Standing.jpg?v=1765873025",
+      "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Wholeroom_Clean.jpg?v=1765873025",
+      "https://ibuture.com/cdn/shop/files/bp20_cordless_vacuum_accessories.png?v=1765871514"
+    ],
+    "media": [
+      {
+        "id": 36650841964799,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Discover the Buture BP20 cordless vacuum cleaner, featuring a 600W high-power motor and 50 KPA suction for a powerful cleaning experience. With a 60-minute runtime, it’s perfect for large homes and thorough cleaning sessions. Choose from three cleaning modes (Eco, Mid, Max) to tackle various tasks. Enjoy the convenience of a smart LED touch screen, an anti-tangle roller brush, and wall-mounted charging.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner.jpg?v=1744257758"
+      },
+      {
+        "id": 38744887165183,
+        "position": 2,
+        "media_type": "image",
+        "alt": "BP20 cordless vacuum has 55000Pa suction power, which can bring you the ultimate cleaning experience.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP20_Cordless_Vacuum_55000Pa_600W.jpg?v=1765873025"
+      },
+      {
+        "id": 36650841800959,
+        "position": 3,
+        "media_type": "image",
+        "alt": "Buture BP20 vacuum head  is equipped with a anti-tangle roller brush and bright LED light, easily handle any fine hair and foreign objects of different sizes.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Anti-Tangle_Brush.jpg?v=1769151360"
+      },
+      {
+        "id": 38744897650943,
+        "position": 4,
+        "media_type": "image",
+        "alt": "BP20 cordless vacuum can automatically switch to 20Kpa, 30Kpa, 55Kpa according to the actual processing needs to give you a more detailed suction experience.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Three_Modes_5f897a24-9ea4-47f7-9895-88f9838ce3de.jpg?v=1769151360"
+      },
+      {
+        "id": 36650841702655,
+        "position": 5,
+        "media_type": "image",
+        "alt": "BP20 cordless vacuum has a powerful battery that can be used for 60 minutes to give you a longer cleaning time.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_60min-Runtime.jpg?v=1769151360"
+      },
+      {
+        "id": 36650841899263,
+        "position": 6,
+        "media_type": "image",
+        "alt": "BP20 cordless vacuum with a smart LED display, shows real-time cleaning status including faulty alerts. ",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Intelligent_Touchscreen.jpg?v=1769151360"
+      },
+      {
+        "id": 36650841768191,
+        "position": 7,
+        "media_type": "image",
+        "alt": "BP20 cordless vacuum supports wall-mounted recharge, achieving convenient storage and flexible charging.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Wall_Mount_Charging.jpg?v=1769151360"
+      },
+      {
+        "id": 36650841833727,
+        "position": 8,
+        "media_type": "image",
+        "alt": "Buture BP20 cordless vacuum cleaner features self-stand and upright design.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Self-Standing.jpg?v=1765873025"
+      },
+      {
+        "id": 36650841932031,
+        "position": 9,
+        "media_type": "image",
+        "alt": "BP20 cordless vacuum can easily handle the cleaning of your entire house and effortlessly tackles hard-to-reach spots, from curtains to tight crevices, for a truly deep clean.",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_BP20_Vacuum_Cleaner_Wholeroom_Clean.jpg?v=1765873025"
+      },
+      {
+        "id": 36685008371967,
+        "position": 10,
+        "media_type": "image",
+        "alt": "bp20 cordless vacuum is equipped with 8 major accessories to meet your various needs during use, and is equipped with a wireless charging socket,",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/bp20_cordless_vacuum_accessories.png?v=1765871514"
+      },
+      {
+        "id": 36665751929087,
+        "position": 11,
+        "media_type": "video",
+        "alt": null,
+        "width": null,
+        "height": null,
+        "aspect_ratio": 1.0,
+        "src": null
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46297667895551,
+        "title": "Default Title",
+        "name": "Buture BP20 ZeroTangle Haustier-Akku-Staubsauger | 600W 55KPA",
+        "public_title": null,
+        "sku": "BP20",
+        "price_cents": 17999,
+        "compare_at_price_cents": 37999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Default Title"
+        ],
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": [
+      {
+        "question": "Wie mächtig ist das Buture BP20 Akku-Staubsauger?",
+        "answer_html": "<p>Die Buture BP20 Der Staubsauger liefert eine starke Saugleistung von 55 kPa, die ausreicht, um feinen Staub, Schmutz, Krümel und festsitzenden Schmutz auf Teppichen und Hartböden aufzusaugen.</p>",
+        "answer_text": "Die Buture BP20 Der Staubsauger liefert eine starke Saugleistung von 55 kPa, die ausreicht, um feinen Staub, Schmutz, Krümel und festsitzenden Schmutz auf Teppichen und Hartböden aufzusaugen."
+      },
+      {
+        "question": "Tut Buture BP20 Vakuum-Unterstützung, Wandhalterung, Aufladen?",
+        "answer_html": "<p>Ja, es unterstützt das Aufladen und Aufbewahren an der Wand, spart Platz zu Hause und sorgt dafür, dass der Staubsauger bei Nichtgebrauch ordentlich organisiert bleibt.</p>",
+        "answer_text": "Ja, es unterstützt das Aufladen und Aufbewahren an der Wand, spart Platz zu Hause und sorgt dafür, dass der Staubsauger bei Nichtgebrauch ordentlich organisiert bleibt."
+      },
+      {
+        "question": "Welche Bodenarten können die Buture BP20 sauber?",
+        "answer_html": "<p>Die BP20 Der kabellose Staubsauger funktioniert perfekt auf Hartholzböden, Fliesen, Laminat, Marmor und mittelflorigen Teppichen und ist für die meisten Bodentypen im Haushalt geeignet.</p>",
+        "answer_text": "Die BP20 Der kabellose Staubsauger funktioniert perfekt auf Hartholzböden, Fliesen, Laminat, Marmor und mittelflorigen Teppichen und ist für die meisten Bodentypen im Haushalt geeignet."
+      },
+      {
+        "question": "Wie lange dauert die Buture BP20 Akku hält bei voller Ladung?",
+        "answer_html": "<p>Die Buture BP20 Der kabellose Staubsauger bietet eine Laufzeit von bis zu 60 Minuten im Eco-Modus und etwa 25 Minuten im Max-Modus und eignet sich für die Reinigung im ganzen Haus. </p>",
+        "answer_text": "Die Buture BP20 Der kabellose Staubsauger bietet eine Laufzeit von bis zu 60 Minuten im Eco-Modus und etwa 25 Minuten im Max-Modus und eignet sich für die Reinigung im ganzen Haus."
+      },
+      {
+        "question": "Welches Zubehör ist im Lieferumfang enthalten? Buture BP20 Akku-Staubsauger?",
+        "answer_html": "<p>Die Buture BP20 Im Lieferumfang sind mehrere Reinigungswerkzeuge enthalten, darunter eine Bodenbürste, eine Bürstenwalze, eine Fugendüse, eine 2-in-1-Bürste, ein Teleskoprohr, HEPA-Filter, ein Ladegerät und eine Wandhalterung für eine vielseitige Reinigung rund ums Haus und im Auto. </p>",
+        "answer_text": "Die Buture BP20 Im Lieferumfang sind mehrere Reinigungswerkzeuge enthalten, darunter eine Bodenbürste, eine Bürstenwalze, eine Fugendüse, eine 2-in-1-Bürste, ein Teleskoprohr, HEPA-Filter, ein Ladegerät und eine Wandhalterung für eine vielseitige Reinigung rund ums Haus und im Auto."
+      }
+    ]
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-2-in-1-brush/index.html",
+    "shopify_id": 8935829045503,
+    "title": "Buture 2-in-1-Bürste für BP20 Vakuum",
+    "slug": "bp20-vacuum-2-in-1-brush",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Erleben Sie eine nahtlose Reinigung mit dem Buture BP20 Akku-Staubsauger. Der 2-in-1-Bürstenaufsatz macht das Aufräumen zum Kinderspiel.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 1899,
+    "price_min_cents": 1899,
+    "price_max_cents": 1899,
+    "compare_at_price_cents": 2999,
+    "compare_at_price_min_cents": 2999,
+    "compare_at_price_max_cents": 2999,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Title"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/2_1_3eb77384-11c0-4f8c-942d-3ffa66dea986-187299.jpg?v=1742802599",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/2_1_3eb77384-11c0-4f8c-942d-3ffa66dea986-187299.jpg?v=1742802599",
+      "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+    ],
+    "media": [
+      {
+        "id": 36655324692735,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - 2-in-1 Brush Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/2_1_3eb77384-11c0-4f8c-942d-3ffa66dea986-187299.jpg?v=1742802599"
+      },
+      {
+        "id": 38718834147583,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46347632705791,
+        "title": "Default Title",
+        "name": "Buture 2-in-1-Bürste für BP20 Vakuum",
+        "public_title": null,
+        "sku": "BP20EH",
+        "price_cents": 1899,
+        "compare_at_price_cents": 2999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Default Title"
+        ],
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-battery/index.html",
+    "shopify_id": 8935827538175,
+    "title": "Buture Ersatzakku für BP20 Vakuum",
+    "slug": "bp20-vacuum-battery",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Erleben Sie eine problemlose Reinigung mit dem Buture BP20 Staubsauger, angetrieben von einem langlebigen Akku für kontinuierliche Saugleistung.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 6999,
+    "price_min_cents": 6999,
+    "price_max_cents": 8999,
+    "compare_at_price_cents": 14999,
+    "compare_at_price_min_cents": 14999,
+    "compare_at_price_max_cents": 25999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/1_65a4e908-0412-4c4c-add8-b0fda324870a-185350.jpg?v=1775202145",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/1_65a4e908-0412-4c4c-add8-b0fda324870a-185350.jpg?v=1775202145",
+      "https://ibuture.com/cdn/shop/files/battery-for-bp20-vacuum.jpg?v=1775202145",
+      "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+    ],
+    "media": [
+      {
+        "id": 36655314731263,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Battery Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/1_65a4e908-0412-4c4c-add8-b0fda324870a-185350.jpg?v=1775202145"
+      },
+      {
+        "id": 38682819002623,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/battery-for-bp20-vacuum.jpg?v=1775202145"
+      },
+      {
+        "id": 37006759198975,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46575737143551,
+        "title": "1 Stück",
+        "name": "Buture Ersatzakku für BP20 Vakuum - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "BP20DC1",
+        "price_cents": 6999,
+        "compare_at_price_cents": 14999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stück"
+        ],
+        "option1": "1 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346295681279,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Battery Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/1_65a4e908-0412-4c4c-add8-b0fda324870a-185350.jpg?v=1775202145"
+        }
+      },
+      {
+        "shopify_id": 46575737176319,
+        "title": "2 Stück",
+        "name": "Buture Ersatzakku für BP20 Vakuum - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "BP20DC2",
+        "price_cents": 8999,
+        "compare_at_price_cents": 25999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "2 Stück"
+        ],
+        "option1": "2 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346295681279,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Battery Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/1_65a4e908-0412-4c4c-add8-b0fda324870a-185350.jpg?v=1775202145"
+        }
+      },
+      {
+        "shopify_id": 46575737209087,
+        "title": "1 Batterie + 3 HEPA-Filter",
+        "name": "Buture Ersatzakku für BP20 Vakuum - 1 Batterie + 3 HEPA-Filter",
+        "public_title": "1 Batterie + 3 HEPA-Filter",
+        "sku": "BP20DC1HP3",
+        "price_cents": 8099,
+        "compare_at_price_cents": 20999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Batterie + 3 HEPA-Filter"
+        ],
+        "option1": "1 Batterie + 3 HEPA-Filter",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44881959485695,
+          "position": 3,
+          "alt": null,
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-crevice-nozzle/index.html",
+    "shopify_id": 8935829930239,
+    "title": "Buture Fugendüse für BP20 Vakuum",
+    "slug": "bp20-vacuum-crevice-nozzle",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Reinigen Sie enge Räume mühelos mit dem BP20 Fugendüsenaufsatz für Akku-Staubsauger. Rüsten Sie jetzt Ihr Reinigungsspiel auf!",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 1999,
+    "price_min_cents": 1999,
+    "price_max_cents": 1999,
+    "compare_at_price_cents": 3999,
+    "compare_at_price_min_cents": 3999,
+    "compare_at_price_max_cents": 3999,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Title"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/2a6410117d02a3cf8180dd250a4fc284-415898.jpg?v=1742802595",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/2a6410117d02a3cf8180dd250a4fc284-415898.jpg?v=1742802595",
+      "https://ibuture.com/cdn/shop/files/crevice-nozzle-for-bp20-_vacuum.jpg?v=1765447087"
+    ],
+    "media": [
+      {
+        "id": 36655314075903,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Crevice Nozzle Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/2a6410117d02a3cf8180dd250a4fc284-415898.jpg?v=1742802595"
+      },
+      {
+        "id": 38706926387455,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/crevice-nozzle-for-bp20-_vacuum.jpg?v=1765447087"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46347634770175,
+        "title": "Default Title",
+        "name": "Buture Fugendüse für BP20 Vakuum",
+        "public_title": null,
+        "sku": "BP20CBX",
+        "price_cents": 1999,
+        "compare_at_price_cents": 3999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Default Title"
+        ],
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-dust-cup/index.html",
+    "shopify_id": 8935830257919,
+    "title": "Buture Staubbecher für BP20 Vakuum",
+    "slug": "bp20-vacuum-dust-cup",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Halten Sie Ihr Zuhause sauber und staubfrei Buture BP20 Praktische Staubbecherfunktion zum Staubsaugen. Einfache und effiziente Reinigung per Knopfdruck.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2299,
+    "price_min_cents": 2299,
+    "price_max_cents": 8099,
+    "compare_at_price_cents": 4999,
+    "compare_at_price_min_cents": 4999,
+    "compare_at_price_max_cents": 15999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packs"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/9c8727a0f1a1c1bc27701a53504fb0a4.jpg?v=1742802591",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/9c8727a0f1a1c1bc27701a53504fb0a4.jpg?v=1742802591",
+      "https://ibuture.com/cdn/shop/files/dust-cup-for-bp20-vacuum.jpg?v=1765284234",
+      "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+      "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+    ],
+    "media": [
+      {
+        "id": 36651156537599,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Dust Cup Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/9c8727a0f1a1c1bc27701a53504fb0a4.jpg?v=1742802591"
+      },
+      {
+        "id": 38687091327231,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/dust-cup-for-bp20-vacuum.jpg?v=1765284234"
+      },
+      {
+        "id": 40816307011839,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+      },
+      {
+        "id": 40834129690879,
+        "position": 4,
+        "media_type": "image",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 49075580928255,
+        "title": "1 piece",
+        "name": "Buture Staubbecher für BP20 Vakuum - 1 piece",
+        "public_title": "1 piece",
+        "sku": "BP20CB1",
+        "price_cents": 2299,
+        "compare_at_price_cents": 4999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 piece"
+        ],
+        "option1": "1 piece",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44341557821695,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Dust Cup Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/9c8727a0f1a1c1bc27701a53504fb0a4.jpg?v=1742802591"
+        }
+      },
+      {
+        "shopify_id": 49075580961023,
+        "title": "1 Dust Cup + 1 Stainless Steel Filter",
+        "name": "Buture Staubbecher für BP20 Vakuum - 1 Dust Cup + 1 Stainless Steel Filter",
+        "public_title": "1 Dust Cup + 1 Stainless Steel Filter",
+        "sku": "BP20BXG1CB1",
+        "price_cents": 4099,
+        "compare_at_price_cents": 8999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Dust Cup + 1 Stainless Steel Filter"
+        ],
+        "option1": "1 Dust Cup + 1 Stainless Steel Filter",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 49514795696383,
+          "position": 3,
+          "alt": null,
+          "width": 1200,
+          "height": 1200,
+          "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+        }
+      },
+      {
+        "shopify_id": 49092389044479,
+        "title": "1 Dust Cup + 1 Main Body",
+        "name": "Buture Staubbecher für BP20 Vakuum - 1 Dust Cup + 1 Main Body",
+        "public_title": "1 Dust Cup + 1 Main Body",
+        "sku": "BP20ZJ1CB1",
+        "price_cents": 8099,
+        "compare_at_price_cents": 15999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Dust Cup + 1 Main Body"
+        ],
+        "option1": "1 Dust Cup + 1 Main Body",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 49532737487103,
+          "position": 4,
+          "alt": null,
+          "width": 1200,
+          "height": 1200,
+          "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-floor-brush/index.html",
+    "shopify_id": 8935829864703,
+    "title": "Buture Bodenbürste für BP20 Vakuum",
+    "slug": "bp20-vacuum-floor-brush",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Verbessern Sie Ihr Reinigungserlebnis mit dem BP20 Akku-Staubsauger. Für eine mühelose und effiziente Reinigung lässt sich die Bodenbürste einfach anbringen.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 3699,
+    "price_min_cents": 3699,
+    "price_max_cents": 5999,
+    "compare_at_price_cents": 6999,
+    "compare_at_price_min_cents": 6999,
+    "compare_at_price_max_cents": 13999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/34ee73f065ccb5d43a4751c960e8908c_4d5e7cd1-3503-492d-a1f5-4b26c3dbe75a-929178.jpg?v=1774000127",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/34ee73f065ccb5d43a4751c960e8908c_4d5e7cd1-3503-492d-a1f5-4b26c3dbe75a-929178.jpg?v=1774000127",
+      "https://ibuture.com/cdn/shop/files/2_d141f392-1f87-424d-bb84-77e83983448d.jpg?v=1774000127",
+      "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+    ],
+    "media": [
+      {
+        "id": 36655324332287,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Floor Brush Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/34ee73f065ccb5d43a4751c960e8908c_4d5e7cd1-3503-492d-a1f5-4b26c3dbe75a-929178.jpg?v=1774000127"
+      },
+      {
+        "id": 38284541100287,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/2_d141f392-1f87-424d-bb84-77e83983448d.jpg?v=1774000127"
+      },
+      {
+        "id": 37006759166207,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46575737700607,
+        "title": "1 Stück",
+        "name": "Buture Bodenbürste für BP20 Vakuum - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "BP20DS1",
+        "price_cents": 3699,
+        "compare_at_price_cents": 6999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stück"
+        ],
+        "option1": "1 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346309247231,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Floor Brush Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/34ee73f065ccb5d43a4751c960e8908c_4d5e7cd1-3503-492d-a1f5-4b26c3dbe75a-929178.jpg?v=1774000127"
+        }
+      },
+      {
+        "shopify_id": 46575737733375,
+        "title": "2 Stück",
+        "name": "Buture Bodenbürste für BP20 Vakuum - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "BP20DS2",
+        "price_cents": 5999,
+        "compare_at_price_cents": 13999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "2 Stück"
+        ],
+        "option1": "2 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346309247231,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Floor Brush Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/34ee73f065ccb5d43a4751c960e8908c_4d5e7cd1-3503-492d-a1f5-4b26c3dbe75a-929178.jpg?v=1774000127"
+        }
+      },
+      {
+        "shopify_id": 46575737766143,
+        "title": "1 Bodenbürste + 1 Walzenbürste",
+        "name": "Buture Bodenbürste für BP20 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+        "public_title": "1 Bodenbürste + 1 Walzenbürste",
+        "sku": "BP20DS1GS1",
+        "price_cents": 5599,
+        "compare_at_price_cents": 12999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Bodenbürste + 1 Walzenbürste"
+        ],
+        "option1": "1 Bodenbürste + 1 Walzenbürste",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44881959420159,
+          "position": 3,
+          "alt": null,
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-hepa-filter/index.html",
+    "shopify_id": 8935830388991,
+    "title": "Buture HEPA-Filter für BP20 Vakuum",
+    "slug": "bp20-vacuum-hepa-filter",
+    "description_html": "<div class=\"prose\"><h5>Enthält 3 Hepa-Filter, inklusive Schwammfilter.</h5>\n<h5>Erfahren Sie mehr über HEPA: <a href=\"https://ibuture.com/blogs/all/change-hepa-filter\" rel=\"noopener\" target=\"_blank\">https://ibuture.com/blogs/all/change-hepa-filter</a>\n</h5></div>",
+    "description_text": "Enthält 3 Hepa-Filter, inklusive Schwammfilter. Erfahren Sie mehr über HEPA: https://ibuture.com/blogs/all/change-hepa-filter",
+    "meta_description": "Halten Sie Ihr Zuhause frei von Staub und Allergenen Buture BP20 Staubsauger mit leistungsstarkem HEPA-Filter für maximale Luftreinigung.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2999,
+    "price_min_cents": 2999,
+    "price_max_cents": 8099,
+    "compare_at_price_cents": 5899,
+    "compare_at_price_min_cents": 5899,
+    "compare_at_price_max_cents": 20999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/3_b64b493d-41c4-4ab4-b6c2-ad8d4575bf14.jpg?v=1742802589",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/3_b64b493d-41c4-4ab4-b6c2-ad8d4575bf14.jpg?v=1742802589",
+      "https://ibuture.com/cdn/shop/files/hepa-filters-for-bp20.jpg?v=1767003790",
+      "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+      "https://ibuture.com/cdn/shop/files/6-tuya1_deb6341b-fe24-4090-a9f8-3de786200394.webp?v=1767003773",
+      "https://ibuture.com/cdn/shop/files/9-tuya1_2c4604a9-9a1f-429e-84fa-eb1bc0b6c478.webp?v=1767003773"
+    ],
+    "media": [
+      {
+        "id": 36651156570367,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/3_b64b493d-41c4-4ab4-b6c2-ad8d4575bf14.jpg?v=1742802589"
+      },
+      {
+        "id": 38682766967039,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/hepa-filters-for-bp20.jpg?v=1767003790"
+      },
+      {
+        "id": 37006759198975,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+      },
+      {
+        "id": 38819491447039,
+        "position": 4,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/6-tuya1_deb6341b-fe24-4090-a9f8-3de786200394.webp?v=1767003773"
+      },
+      {
+        "id": 38819491479807,
+        "position": 5,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/9-tuya1_2c4604a9-9a1f-429e-84fa-eb1bc0b6c478.webp?v=1767003773"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46406063259903,
+        "title": "3 Stück",
+        "name": "Buture HEPA-Filter für BP20 Vakuum - 3 Stück",
+        "public_title": "3 Stück",
+        "sku": "BP20HP3",
+        "price_cents": 2999,
+        "compare_at_price_cents": 5899,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "3 Stück"
+        ],
+        "option1": "3 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44341561262335,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - HEPA Filter (3pieces) Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/3_b64b493d-41c4-4ab4-b6c2-ad8d4575bf14.jpg?v=1742802589"
+        }
+      },
+      {
+        "shopify_id": 46406063292671,
+        "title": "6 Stück",
+        "name": "Buture HEPA-Filter für BP20 Vakuum - 6 Stück",
+        "public_title": "6 Stück",
+        "sku": "BP20HP6",
+        "price_cents": 4999,
+        "compare_at_price_cents": 9999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "6 Stück"
+        ],
+        "option1": "6 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 47429074125055,
+          "position": 4,
+          "alt": null,
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/6-tuya1_deb6341b-fe24-4090-a9f8-3de786200394.webp?v=1767003773"
+        }
+      },
+      {
+        "shopify_id": 46406063325439,
+        "title": "9 Stück",
+        "name": "Buture HEPA-Filter für BP20 Vakuum - 9 Stück",
+        "public_title": "9 Stück",
+        "sku": "BP20HP9",
+        "price_cents": 6999,
+        "compare_at_price_cents": 15999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "9 Stück"
+        ],
+        "option1": "9 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 47429074157823,
+          "position": 5,
+          "alt": null,
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/9-tuya1_2c4604a9-9a1f-429e-84fa-eb1bc0b6c478.webp?v=1767003773"
+        }
+      },
+      {
+        "shopify_id": 46575736520959,
+        "title": "1 Batterie + 3 HEPA-Filter",
+        "name": "Buture HEPA-Filter für BP20 Vakuum - 1 Batterie + 3 HEPA-Filter",
+        "public_title": "1 Batterie + 3 HEPA-Filter",
+        "sku": "BP20DC1HP3",
+        "price_cents": 8099,
+        "compare_at_price_cents": 20999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Batterie + 3 HEPA-Filter"
+        ],
+        "option1": "1 Batterie + 3 HEPA-Filter",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44881959485695,
+          "position": 3,
+          "alt": null,
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-main-body/index.html",
+    "shopify_id": 8935830520063,
+    "title": "Buture Hauptteil für BP20 Vakuum",
+    "slug": "bp20-vacuum-main-body",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Verbessern Sie Ihr Reinigungserlebnis mit dem BP20 Kabelloser Staubsauger-Hauptkörperaufsatz, konzipiert für maximale Effizienz und Komfort.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsauger",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 6299,
+    "price_min_cents": 6299,
+    "price_max_cents": 8099,
+    "compare_at_price_cents": 10999,
+    "compare_at_price_min_cents": 10999,
+    "compare_at_price_max_cents": 15999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packs"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/305c82587b54194c7639f4db7db3db9c_399a4c71-48a0-4da0-b5da-eafd24cdc93d-584508.jpg?v=1742802586",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/305c82587b54194c7639f4db7db3db9c_399a4c71-48a0-4da0-b5da-eafd24cdc93d-584508.jpg?v=1742802586",
+      "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758",
+      "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+    ],
+    "media": [
+      {
+        "id": 36655315812607,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Main Body Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/305c82587b54194c7639f4db7db3db9c_399a4c71-48a0-4da0-b5da-eafd24cdc93d-584508.jpg?v=1742802586"
+      },
+      {
+        "id": 38718834147583,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+      },
+      {
+        "id": 40834129690879,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 49091184689407,
+        "title": "1 Piece",
+        "name": "Buture Hauptteil für BP20 Vakuum - 1 Piece",
+        "public_title": "1 Piece",
+        "sku": "BP20ZJ1",
+        "price_cents": 6299,
+        "compare_at_price_cents": 10999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Piece"
+        ],
+        "option1": "1 Piece",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346296959231,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Main Body Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/305c82587b54194c7639f4db7db3db9c_399a4c71-48a0-4da0-b5da-eafd24cdc93d-584508.jpg?v=1742802586"
+        }
+      },
+      {
+        "shopify_id": 49091184722175,
+        "title": "1 Main Body + 1 Dust Cup",
+        "name": "Buture Hauptteil für BP20 Vakuum - 1 Main Body + 1 Dust Cup",
+        "public_title": "1 Main Body + 1 Dust Cup",
+        "sku": "BP20ZJ1CB1",
+        "price_cents": 8099,
+        "compare_at_price_cents": 15999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Main Body + 1 Dust Cup"
+        ],
+        "option1": "1 Main Body + 1 Dust Cup",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 49532737487103,
+          "position": 3,
+          "alt": null,
+          "width": 1200,
+          "height": 1200,
+          "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-roller-brush/index.html",
+    "shopify_id": 8935830094079,
+    "title": "Buture Walzenbürste für BP20 Vakuum",
+    "slug": "bp20-vacuum-roller-brush",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Reinigen Sie mühelos jede Oberfläche mit dem BP20 Akku-Staubsauger und sein Rollenbürstenaufsatz. Halten Sie Ihr Zuhause mühelos makellos.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2099,
+    "price_min_cents": 2099,
+    "price_max_cents": 5599,
+    "compare_at_price_cents": 4299,
+    "compare_at_price_min_cents": 4299,
+    "compare_at_price_max_cents": 12999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/S_1-377675.jpg?v=1742802592",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/S_1-377675.jpg?v=1742802592",
+      "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+      "https://ibuture.com/cdn/shop/files/2_d141f392-1f87-424d-bb84-77e83983448d.jpg?v=1774000127"
+    ],
+    "media": [
+      {
+        "id": 36655314567423,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Roller Brush Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/S_1-377675.jpg?v=1742802592"
+      },
+      {
+        "id": 37006759166207,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+      },
+      {
+        "id": 38284541100287,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/2_d141f392-1f87-424d-bb84-77e83983448d.jpg?v=1774000127"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46575741501695,
+        "title": "1 Stück",
+        "name": "Buture Walzenbürste für BP20 Vakuum - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "BP20GS1",
+        "price_cents": 2099,
+        "compare_at_price_cents": 4299,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stück"
+        ],
+        "option1": "1 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346295484671,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Roller Brush Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/S_1-377675.jpg?v=1742802592"
+        }
+      },
+      {
+        "shopify_id": 46575741534463,
+        "title": "2 Stück",
+        "name": "Buture Walzenbürste für BP20 Vakuum - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "BP20GS2",
+        "price_cents": 3699,
+        "compare_at_price_cents": 8299,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "2 Stück"
+        ],
+        "option1": "2 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346295484671,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Roller Brush Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/S_1-377675.jpg?v=1742802592"
+        }
+      },
+      {
+        "shopify_id": 46575741567231,
+        "title": "1 Bodenbürste + 1 Walzenbürste",
+        "name": "Buture Walzenbürste für BP20 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+        "public_title": "1 Bodenbürste + 1 Walzenbürste",
+        "sku": "BP20DS1GS1",
+        "price_cents": 5599,
+        "compare_at_price_cents": 12999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Bodenbürste + 1 Walzenbürste"
+        ],
+        "option1": "1 Bodenbürste + 1 Walzenbürste",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44881959420159,
+          "position": 2,
+          "alt": null,
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-stainless-steel-filter/index.html",
+    "shopify_id": 8935830487295,
+    "title": "Buture Edelstahlfilter für BP20 Vakuum",
+    "slug": "bp20-vacuum-stainless-steel-filter",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Verbessern Sie Ihr Reinigungsspiel mit dem Buture BP20 Akku-Staubsauger. Ausgestattet mit einem Filteraufsatz aus Edelstahl für eine starke Saugkraft.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2099,
+    "price_min_cents": 2099,
+    "price_max_cents": 4099,
+    "compare_at_price_cents": 3999,
+    "compare_at_price_min_cents": 3999,
+    "compare_at_price_max_cents": 8999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packs"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/17ef7527e1ad424c8d4ca7891866f00b-766684.jpg?v=1742802588",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/17ef7527e1ad424c8d4ca7891866f00b-766684.jpg?v=1742802588",
+      "https://ibuture.com/cdn/shop/files/stainless-steel-filter-for-bp20-vacuum.jpg?v=1765370112",
+      "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+    ],
+    "media": [
+      {
+        "id": 36655316140287,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Stainless Steel Filter Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/17ef7527e1ad424c8d4ca7891866f00b-766684.jpg?v=1742802588"
+      },
+      {
+        "id": 38698890035455,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/stainless-steel-filter-for-bp20-vacuum.jpg?v=1765370112"
+      },
+      {
+        "id": 40816307011839,
+        "position": 3,
+        "media_type": "image",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 49075433242879,
+        "title": "1 Piece",
+        "name": "Buture Edelstahlfilter für BP20 Vakuum - 1 Piece",
+        "public_title": "1 Piece",
+        "sku": "BP20BXG1",
+        "price_cents": 2099,
+        "compare_at_price_cents": 3999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Piece"
+        ],
+        "option1": "1 Piece",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346297385215,
+          "position": 1,
+          "alt": "Buture BP20 Vacuum - Stainless Steel Filter Accessories",
+          "width": 1000,
+          "height": 1000,
+          "src": "https://ibuture.com/cdn/shop/files/17ef7527e1ad424c8d4ca7891866f00b-766684.jpg?v=1742802588"
+        }
+      },
+      {
+        "shopify_id": 49075433275647,
+        "title": "1 Stainless Steel Filter + 1 Dust Cup",
+        "name": "Buture Edelstahlfilter für BP20 Vakuum - 1 Stainless Steel Filter + 1 Dust Cup",
+        "public_title": "1 Stainless Steel Filter + 1 Dust Cup",
+        "sku": "BP20BXG1CB1",
+        "price_cents": 4099,
+        "compare_at_price_cents": 8999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stainless Steel Filter + 1 Dust Cup"
+        ],
+        "option1": "1 Stainless Steel Filter + 1 Dust Cup",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 49514795696383,
+          "position": 3,
+          "alt": null,
+          "width": 1200,
+          "height": 1200,
+          "src": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-telescopic-tube/index.html",
+    "shopify_id": 8935830028543,
+    "title": "Buture Teleskoprohr für BP20 Vakuum",
+    "slug": "bp20-vacuum-telescopic-tube",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Kraftvoll BP20 Akku-Staubsauger mit Teleskoprohraufsatz zum einfachen Erreichen hoher und tiefer Bereiche. Effiziente Reinigung leicht gemacht.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2399,
+    "price_min_cents": 2399,
+    "price_max_cents": 2399,
+    "compare_at_price_cents": 3999,
+    "compare_at_price_min_cents": 3999,
+    "compare_at_price_max_cents": 3999,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Title"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/4d6eef88695dd37b2fd0b1521d8b04ed-162198.jpg?v=1742802594",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/4d6eef88695dd37b2fd0b1521d8b04ed-162198.jpg?v=1742802594",
+      "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+    ],
+    "media": [
+      {
+        "id": 36655325577471,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Telescopic Tube Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/4d6eef88695dd37b2fd0b1521d8b04ed-162198.jpg?v=1742802594"
+      },
+      {
+        "id": 38718834147583,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46347635130623,
+        "title": "Default Title",
+        "name": "Buture Teleskoprohr für BP20 Vakuum",
+        "public_title": null,
+        "sku": "BP20SS",
+        "price_cents": 2399,
+        "compare_at_price_cents": 3999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Default Title"
+        ],
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/bp20-vacuum-wall-mount/index.html",
+    "shopify_id": 8935829635327,
+    "title": "Buture Wandhalterung für BP20 Vakuum",
+    "slug": "bp20-vacuum-wall-mount",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Halten Sie Ihre Böden sauber und aufgeräumt Buture BP20 Akku-Staubsauger mit praktischer Wandhalterung.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 2099,
+    "price_min_cents": 2099,
+    "price_max_cents": 2099,
+    "compare_at_price_cents": 3999,
+    "compare_at_price_min_cents": 3999,
+    "compare_at_price_max_cents": 3999,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Title"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/348a501e38ce174d8f5b1b9a9af63b25_38357524-a160-48d6-a966-6e52f92784ad-142594.jpg?v=1742802598",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/348a501e38ce174d8f5b1b9a9af63b25_38357524-a160-48d6-a966-6e52f92784ad-142594.jpg?v=1742802598",
+      "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+    ],
+    "media": [
+      {
+        "id": 36655313977599,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture BP20 Vacuum - Wall Mount Accessories",
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/348a501e38ce174d8f5b1b9a9af63b25_38357524-a160-48d6-a966-6e52f92784ad-142594.jpg?v=1742802598"
+      },
+      {
+        "id": 38718834147583,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/compatible-model-is-bp20.jpg?v=1765530758"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46347633983743,
+        "title": "Default Title",
+        "name": "Buture Wandhalterung für BP20 Vakuum",
+        "public_title": null,
+        "sku": "BP20BG",
+        "price_cents": 2099,
+        "compare_at_price_cents": 3999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Default Title"
+        ],
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/buture-10-gift-card/index.html",
+    "shopify_id": 8844436242687,
+    "title": "Buture Geschenkkarte im Wert von 10 $",
+    "slug": "buture-10-gift-card",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Schenken Sie die Wahl mit einem Buture Geschenkkarte im Wert von 10 $. Perfekt für jeden Anlass und überall einlösbar Buture Produkte.",
+    "vendor": "Buture Official",
+    "type": "",
+    "category": "Geschenkgutscheine",
+    "tags": [],
+    "currency": "USD",
+    "price_cents": 1000,
+    "price_min_cents": 1000,
+    "price_max_cents": 1000,
+    "compare_at_price_cents": null,
+    "compare_at_price_min_cents": 0,
+    "compare_at_price_max_cents": 0,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Wert"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/Buture___10_7f2945d3-dade-4d3f-9e28-834b08cf1978-686732.jpg?v=1732011360",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/Buture___10_7f2945d3-dade-4d3f-9e28-834b08cf1978-686732.jpg?v=1732011360"
+    ],
+    "media": [
+      {
+        "id": 36655324791039,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture $10 Gift Card",
+        "width": 1334,
+        "height": 918,
+        "aspect_ratio": 1.453,
+        "src": "https://ibuture.com/cdn/shop/files/Buture___10_7f2945d3-dade-4d3f-9e28-834b08cf1978-686732.jpg?v=1732011360"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46051386622207,
+        "title": "$10.00",
+        "name": "Buture Geschenkkarte im Wert von 10 $ - $10.00",
+        "public_title": "$10.00",
+        "sku": "GC10",
+        "price_cents": 1000,
+        "compare_at_price_cents": null,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": false,
+        "taxable": false,
+        "options": [
+          "$10.00"
+        ],
+        "option1": "$10.00",
+        "option2": null,
+        "option3": null,
+        "featured_image": {
+          "id": 44346309869823,
+          "position": 1,
+          "alt": "Buture $10 Gift Card",
+          "width": 1334,
+          "height": 918,
+          "src": "https://ibuture.com/cdn/shop/files/Buture___10_7f2945d3-dade-4d3f-9e28-834b08cf1978-686732.jpg?v=1732011360"
+        }
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/buture-100-gift-card/index.html",
+    "shopify_id": 8909842055423,
+    "title": "Buture Geschenkkarte im Wert von 100 $",
+    "slug": "buture-100-gift-card",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Dies ist unser besonderes Weihnachtsgeschenk im Wert von 100 $ für jedes Produkt, das Ihr Weihnachtseinkaufserlebnis bereichern soll!",
+    "vendor": "Buture Official",
+    "type": "",
+    "category": "Geschenkgutscheine",
+    "tags": [],
+    "currency": "USD",
+    "price_cents": 10000,
+    "price_min_cents": 10000,
+    "price_max_cents": 10000,
+    "compare_at_price_cents": null,
+    "compare_at_price_min_cents": 0,
+    "compare_at_price_max_cents": 0,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Wert"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/Buture___100-983816.jpg?v=1732011295",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/Buture___100-983816.jpg?v=1732011295"
+    ],
+    "media": [
+      {
+        "id": 36655314796799,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Buture $100 Gift Card",
+        "width": 1335,
+        "height": 918,
+        "aspect_ratio": 1.454,
+        "src": "https://ibuture.com/cdn/shop/files/Buture___100-983816.jpg?v=1732011295"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 46248308506879,
+        "title": "$100.00",
+        "name": "Buture Geschenkkarte im Wert von 100 $ - $100.00",
+        "public_title": "$100.00",
+        "sku": null,
+        "price_cents": 10000,
+        "compare_at_price_cents": null,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": false,
+        "taxable": false,
+        "options": [
+          "$100.00"
+        ],
+        "option1": "$100.00",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/buture-2-in-1-brush-for-jr300-vacuum/index.html",
+    "shopify_id": 9170330714367,
+    "title": "Buture 2-in-1-Bürste für JR300 Staubsauger",
+    "slug": "buture-2-in-1-brush-for-jr300-vacuum",
+    "description_html": "<div class=\"prose\"><p></p></div>",
+    "description_text": "",
+    "meta_description": "",
+    "vendor": "Buture Official",
+    "type": "Accessories",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 1899,
+    "price_min_cents": 1899,
+    "price_max_cents": 2599,
+    "compare_at_price_cents": 2999,
+    "compare_at_price_min_cents": 2999,
+    "compare_at_price_max_cents": 6999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/12_f26b17db-9686-4350-823d-1a07e981cd44.jpg?v=1754278289",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/12_f26b17db-9686-4350-823d-1a07e981cd44.jpg?v=1754278289"
+    ],
+    "media": [
+      {
+        "id": 38010897727743,
+        "position": 1,
+        "media_type": "image",
+        "alt": null,
+        "width": 1500,
+        "height": 1500,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/12_f26b17db-9686-4350-823d-1a07e981cd44.jpg?v=1754278289"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 47102153720063,
+        "title": "1 Stück",
+        "name": "Buture 2-in-1-Bürste für JR300 Staubsauger - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "JR300EH",
+        "price_cents": 1899,
+        "compare_at_price_cents": 2999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stück"
+        ],
+        "option1": "1 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      },
+      {
+        "shopify_id": 47102153752831,
+        "title": "2 Stück",
+        "name": "Buture 2-in-1-Bürste für JR300 Staubsauger - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "JR300EH2",
+        "price_cents": 2599,
+        "compare_at_price_cents": 6999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "2 Stück"
+        ],
+        "option1": "2 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/buture-2-in-1-brush-for-vc10-vacuum/index.html",
+    "shopify_id": 9170323636479,
+    "title": "Buture 2-in-1-Bürste für VC10 Staubsauger",
+    "slug": "buture-2-in-1-brush-for-vc10-vacuum",
+    "description_html": "<div class=\"prose\"><p></p></div>",
+    "description_text": "",
+    "meta_description": "",
+    "vendor": "Buture Official",
+    "type": "Accessories",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 1899,
+    "price_min_cents": 1899,
+    "price_max_cents": 2599,
+    "compare_at_price_cents": 2999,
+    "compare_at_price_min_cents": 2999,
+    "compare_at_price_max_cents": 6999,
+    "available": true,
+    "price_varies": true,
+    "product_type_wc": "variable",
+    "options": [
+      "Packungen"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/1_d0cd38fe-1a9e-4dd0-90c9-77f70447e6c8.jpg?v=1754278119",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/1_d0cd38fe-1a9e-4dd0-90c9-77f70447e6c8.jpg?v=1754278119"
+    ],
+    "media": [
+      {
+        "id": 38010880786687,
+        "position": 1,
+        "media_type": "image",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/1_d0cd38fe-1a9e-4dd0-90c9-77f70447e6c8.jpg?v=1754278119"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 47102145429759,
+        "title": "1 Stück",
+        "name": "Buture 2-in-1-Bürste für VC10 Staubsauger - 1 Stück",
+        "public_title": "1 Stück",
+        "sku": "VC10EH",
+        "price_cents": 1899,
+        "compare_at_price_cents": 2999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "1 Stück"
+        ],
+        "option1": "1 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      },
+      {
+        "shopify_id": 47102145462527,
+        "title": "2 Stück",
+        "name": "Buture 2-in-1-Bürste für VC10 Staubsauger - 2 Stück",
+        "public_title": "2 Stück",
+        "sku": "VC10EH2",
+        "price_cents": 2599,
+        "compare_at_price_cents": 6999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "2 Stück"
+        ],
+        "option1": "2 Stück",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  },
+  {
+    "source_file": "site/de/products/buture-2-in-1-brush-for-vc90-vacuum/index.html",
+    "shopify_id": 9172995342591,
+    "title": "Buture 2-in-1-Bürste für VC90 Staubsauger",
+    "slug": "buture-2-in-1-brush-for-vc90-vacuum",
+    "description_html": "",
+    "description_text": "",
+    "meta_description": "Erleben Sie eine nahtlose Reinigung mit dem Buture VC90 Akku-Staubsauger. Der 2-in-1-Bürstenaufsatz macht das Aufräumen zum Kinderspiel.",
+    "vendor": "Buture Official",
+    "type": "Zubehör",
+    "category": "Staubsaugerzubehör",
+    "tags": [
+      "Accessories"
+    ],
+    "currency": "USD",
+    "price_cents": 1899,
+    "price_min_cents": 1899,
+    "price_max_cents": 1899,
+    "compare_at_price_cents": 2999,
+    "compare_at_price_min_cents": 2999,
+    "compare_at_price_max_cents": 2999,
+    "available": true,
+    "price_varies": false,
+    "product_type_wc": "variable",
+    "options": [
+      "Title"
+    ],
+    "featured_image": "https://ibuture.com/cdn/shop/files/Buture_VC90_cordless_vacuum_cleaner_2-in-1_brush-tuya1.webp?v=1754535556",
+    "images": [
+      "https://ibuture.com/cdn/shop/files/Buture_VC90_cordless_vacuum_cleaner_2-in-1_brush-tuya1.webp?v=1754535556",
+      "https://ibuture.com/cdn/shop/files/compatible-model-is-vc90.jpg?v=1765530760"
+    ],
+    "media": [
+      {
+        "id": 38026954178815,
+        "position": 1,
+        "media_type": "image",
+        "alt": "Replacement 2-in-1 brush for Buture VC90 cordless vacuum cleaner",
+        "width": 1200,
+        "height": 1200,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/Buture_VC90_cordless_vacuum_cleaner_2-in-1_brush-tuya1.webp?v=1754535556"
+      },
+      {
+        "id": 38718834999551,
+        "position": 2,
+        "media_type": "image",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "aspect_ratio": 1.0,
+        "src": "https://ibuture.com/cdn/shop/files/compatible-model-is-vc90.jpg?v=1765530760"
+      }
+    ],
+    "variants": [
+      {
+        "shopify_id": 47114138845439,
+        "title": "Default Title",
+        "name": "Buture 2-in-1-Bürste für VC90 Staubsauger",
+        "public_title": null,
+        "sku": "VC90EH",
+        "price_cents": 1899,
+        "compare_at_price_cents": 2999,
+        "available": true,
+        "inventory_management": "shopify",
+        "inventory_quantity": null,
+        "weight": 0,
+        "requires_shipping": true,
+        "taxable": false,
+        "options": [
+          "Default Title"
+        ],
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "featured_image": null
+      }
+    ],
+    "faq": []
+  }
+]

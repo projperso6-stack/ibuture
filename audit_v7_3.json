@@ -1,0 +1,5004 @@
+[
+  {
+    "sku": "BP10DC1HP3",
+    "slug": "bp10-battery",
+    "variant_id": 46295465394431,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295465394431,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "BP10DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189232333055,
+        "product_id": 8740340596991,
+        "position": 3,
+        "created_at": "2024-10-30T16:49:27+08:00",
+        "updated_at": "2026-04-03T15:47:36+08:00",
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+        "variant_ids": [
+          46295465394431
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für BP10 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "id": 36551264502015,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295465394431,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "BP10DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+    "image_shopify": {
+      "id": 44189232333055,
+      "product_id": 8740340596991,
+      "position": 3,
+      "created_at": "2024-10-30T16:49:27+08:00",
+      "updated_at": "2026-04-03T15:47:36+08:00",
+      "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+      "variant_ids": [
+        46295465394431
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP10DC1HP3",
+    "slug": "bp10-hepa-filter",
+    "variant_id": 46295472603391,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295472603391,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "BP10DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189232333055,
+        "product_id": 8759284793599,
+        "position": 2,
+        "created_at": "2024-10-30T16:49:27+08:00",
+        "updated_at": "2026-04-03T15:47:36+08:00",
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+        "variant_ids": [
+          46295472603391
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für BP10 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+        "id": 36551264502015,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295472603391,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "BP10DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+    "image_shopify": {
+      "id": 44189232333055,
+      "product_id": 8759284793599,
+      "position": 2,
+      "created_at": "2024-10-30T16:49:27+08:00",
+      "updated_at": "2026-04-03T15:47:36+08:00",
+      "alt": "Buture BP10 Vacuum - HEPA Filter (3pieces) Accessories",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/BP103.jpg?v=1775202456",
+      "variant_ids": [
+        46295472603391
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20BXG1CB1",
+    "slug": "bp20-vacuum-dust-cup",
+    "variant_id": 49075580961023,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49075580961023,
+      "title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "option1": "1 Dust Cup + 1 Stainless Steel Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20BXG1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49514795696383,
+        "product_id": 8935830257919,
+        "position": 3,
+        "created_at": "2026-08-24T15:28:41+08:00",
+        "updated_at": "2026-08-24T15:28:43+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+        "variant_ids": [
+          49075580961023
+        ]
+      },
+      "available": true,
+      "name": "Buture Staubbecher für BP20 Vakuum - 1 Dust Cup + 1 Stainless Steel Filter",
+      "public_title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "options": [
+        "1 Dust Cup + 1 Stainless Steel Filter"
+      ],
+      "price": 4099,
+      "weight": 0,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40816307011839,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 2,
+      "shopify_variant_id": 49075580961023,
+      "title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "sku": "BP20BXG1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 89.99,
+        "sale_price": 40.99
+      },
+      "options": {
+        "option1": "1 Dust Cup + 1 Stainless Steel Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+    "image_shopify": {
+      "id": 49514795696383,
+      "product_id": 8935830257919,
+      "position": 3,
+      "created_at": "2026-08-24T15:28:41+08:00",
+      "updated_at": "2026-08-24T15:28:43+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+      "variant_ids": [
+        49075580961023
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20BXG1CB1",
+    "slug": "bp20-vacuum-stainless-steel-filter",
+    "variant_id": 49075433275647,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49075433275647,
+      "title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "option1": "1 Stainless Steel Filter + 1 Dust Cup",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20BXG1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49514795696383,
+        "product_id": 8935830487295,
+        "position": 3,
+        "created_at": "2026-08-24T15:28:41+08:00",
+        "updated_at": "2026-08-24T15:28:43+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+        "variant_ids": [
+          49075433275647
+        ]
+      },
+      "available": true,
+      "name": "Buture Edelstahlfilter für BP20 Vakuum - 1 Stainless Steel Filter + 1 Dust Cup",
+      "public_title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "options": [
+        "1 Stainless Steel Filter + 1 Dust Cup"
+      ],
+      "price": 4099,
+      "weight": 0,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40816307011839,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 2,
+      "shopify_variant_id": 49075433275647,
+      "title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "sku": "BP20BXG1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 89.99,
+        "sale_price": 40.99
+      },
+      "options": {
+        "option1": "1 Stainless Steel Filter + 1 Dust Cup"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+    "image_shopify": {
+      "id": 49514795696383,
+      "product_id": 8935830487295,
+      "position": 3,
+      "created_at": "2026-08-24T15:28:41+08:00",
+      "updated_at": "2026-08-24T15:28:43+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+      "variant_ids": [
+        49075433275647
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20DC1HP3",
+    "slug": "bp20-vacuum-battery",
+    "variant_id": 46575737209087,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575737209087,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959485695,
+        "product_id": 8935827538175,
+        "position": 3,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-04-03T15:42:25+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+        "variant_ids": [
+          46575737209087
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für BP20 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 20999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759198975,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46575737209087,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "BP20DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 209.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+    "image_shopify": {
+      "id": 44881959485695,
+      "product_id": 8935827538175,
+      "position": 3,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-04-03T15:42:25+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+      "variant_ids": [
+        46575737209087
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20DC1HP3",
+    "slug": "bp20-vacuum-hepa-filter",
+    "variant_id": 46575736520959,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575736520959,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959485695,
+        "product_id": 8935830388991,
+        "position": 3,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-04-03T15:42:25+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+        "variant_ids": [
+          46575736520959
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für BP20 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 20999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759198975,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46575736520959,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "BP20DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 209.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+    "image_shopify": {
+      "id": 44881959485695,
+      "product_id": 8935830388991,
+      "position": 3,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-04-03T15:42:25+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/BP201.jpg?v=1775202145",
+      "variant_ids": [
+        46575736520959
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20DS1GS1",
+    "slug": "bp20-vacuum-floor-brush",
+    "variant_id": 46575737766143,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575737766143,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959420159,
+        "product_id": 8935829864703,
+        "position": 3,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-03-20T17:48:47+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+        "variant_ids": [
+          46575737766143
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für BP20 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759166207,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46575737766143,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "BP20DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+    "image_shopify": {
+      "id": 44881959420159,
+      "product_id": 8935829864703,
+      "position": 3,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-03-20T17:48:47+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+      "variant_ids": [
+        46575737766143
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20DS1GS1",
+    "slug": "bp20-vacuum-roller-brush",
+    "variant_id": 46575741567231,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575741567231,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959420159,
+        "product_id": 8935830094079,
+        "position": 2,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-03-20T17:48:47+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+        "variant_ids": [
+          46575741567231
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für BP20 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759166207,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46575741567231,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "BP20DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+    "image_shopify": {
+      "id": 44881959420159,
+      "product_id": 8935830094079,
+      "position": 2,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-03-20T17:48:47+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/BP202.jpg?v=1774000127",
+      "variant_ids": [
+        46575741567231
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20ZJ1CB1",
+    "slug": "bp20-vacuum-dust-cup",
+    "variant_id": 49092389044479,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49092389044479,
+      "title": "1 Dust Cup + 1 Main Body",
+      "option1": "1 Dust Cup + 1 Main Body",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20ZJ1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49532737487103,
+        "product_id": 8935830257919,
+        "position": 4,
+        "created_at": "2026-08-26T10:18:35+08:00",
+        "updated_at": "2026-08-26T10:18:37+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717",
+        "variant_ids": [
+          49092389044479
+        ]
+      },
+      "available": true,
+      "name": "Buture Staubbecher für BP20 Vakuum - 1 Dust Cup + 1 Main Body",
+      "public_title": "1 Dust Cup + 1 Main Body",
+      "options": [
+        "1 Dust Cup + 1 Main Body"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 15999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40834129690879,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 49092389044479,
+      "title": "1 Dust Cup + 1 Main Body",
+      "sku": "BP20ZJ1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 159.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Dust Cup + 1 Main Body"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717",
+    "image_shopify": {
+      "id": 49532737487103,
+      "product_id": 8935830257919,
+      "position": 4,
+      "created_at": "2026-08-26T10:18:35+08:00",
+      "updated_at": "2026-08-26T10:18:37+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717",
+      "variant_ids": [
+        49092389044479
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "BP20ZJ1CB1",
+    "slug": "bp20-vacuum-main-body",
+    "variant_id": 49091184722175,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49091184722175,
+      "title": "1 Main Body + 1 Dust Cup",
+      "option1": "1 Main Body + 1 Dust Cup",
+      "option2": null,
+      "option3": null,
+      "sku": "BP20ZJ1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49532737487103,
+        "product_id": 8935830520063,
+        "position": 3,
+        "created_at": "2026-08-26T10:18:35+08:00",
+        "updated_at": "2026-08-26T10:18:37+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717",
+        "variant_ids": [
+          49091184722175
+        ]
+      },
+      "available": true,
+      "name": "Buture Hauptteil für BP20 Vakuum - 1 Main Body + 1 Dust Cup",
+      "public_title": "1 Main Body + 1 Dust Cup",
+      "options": [
+        "1 Main Body + 1 Dust Cup"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 15999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40834129690879,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 2,
+      "shopify_variant_id": 49091184722175,
+      "title": "1 Main Body + 1 Dust Cup",
+      "sku": "BP20ZJ1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 159.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Main Body + 1 Dust Cup"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717",
+    "image_shopify": {
+      "id": 49532737487103,
+      "product_id": 8935830520063,
+      "position": 3,
+      "created_at": "2026-08-26T10:18:35+08:00",
+      "updated_at": "2026-08-26T10:18:37+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/bp20-vacuum-main-body-dust-cup.jpg?v=1787710717",
+      "variant_ids": [
+        49091184722175
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR400BXG1CB1",
+    "slug": "jr400-dust-cup",
+    "variant_id": 49075610190079,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49075610190079,
+      "title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "option1": "1 Dust Cup + 1 Stainless Steel Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR400BXG1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49514795827455,
+        "product_id": 8793071747327,
+        "position": 4,
+        "created_at": "2026-08-24T15:28:42+08:00",
+        "updated_at": "2026-08-24T15:28:43+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+        "variant_ids": [
+          49075610190079
+        ]
+      },
+      "available": true,
+      "name": "Buture Staubbecher für JR400 Staubsauger - 1 Dust Cup + 1 Stainless Steel Filter",
+      "public_title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "options": [
+        "1 Dust Cup + 1 Stainless Steel Filter"
+      ],
+      "price": 4099,
+      "weight": 0,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40816307110143,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 49075610190079,
+      "title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "sku": "JR400BXG1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 89.99,
+        "sale_price": 40.99
+      },
+      "options": {
+        "option1": "1 Dust Cup + 1 Stainless Steel Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+    "image_shopify": {
+      "id": 49514795827455,
+      "product_id": 8793071747327,
+      "position": 4,
+      "created_at": "2026-08-24T15:28:42+08:00",
+      "updated_at": "2026-08-24T15:28:43+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+      "variant_ids": [
+        49075610190079
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR400BXG1CB1",
+    "slug": "jr400-stainless-steel-filter",
+    "variant_id": 49075540787455,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49075540787455,
+      "title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "option1": "1 Stainless Steel Filter + 1 Dust Cup",
+      "option2": null,
+      "option3": null,
+      "sku": "JR400BXG1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49514795827455,
+        "product_id": 8793073189119,
+        "position": 3,
+        "created_at": "2026-08-24T15:28:42+08:00",
+        "updated_at": "2026-08-24T15:28:43+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+        "variant_ids": [
+          49075540787455
+        ]
+      },
+      "available": true,
+      "name": "Buture Edelstahlfilter für JR400 Vakuum - 1 Stainless Steel Filter + 1 Dust Cup",
+      "public_title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "options": [
+        "1 Stainless Steel Filter + 1 Dust Cup"
+      ],
+      "price": 4099,
+      "weight": 0,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40816307110143,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 49075540787455,
+      "title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "sku": "JR400BXG1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 89.99,
+        "sale_price": 40.99
+      },
+      "options": {
+        "option1": "1 Stainless Steel Filter + 1 Dust Cup"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+    "image_shopify": {
+      "id": 49514795827455,
+      "product_id": 8793073189119,
+      "position": 3,
+      "created_at": "2026-08-24T15:28:42+08:00",
+      "updated_at": "2026-08-24T15:28:43+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/jr400-vacuum-dust-cup-stainless-steel-filter.png?v=1787556523",
+      "variant_ids": [
+        49075540787455
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR400DC1HP3",
+    "slug": "jr400-battery",
+    "variant_id": 46295475814655,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295475814655,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR400DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 45345870577919,
+        "product_id": 8716369264895,
+        "position": 3,
+        "created_at": "2025-03-21T18:13:16+08:00",
+        "updated_at": "2026-04-03T15:51:27+08:00",
+        "alt": null,
+        "width": 2650,
+        "height": 2499,
+        "src": "//ibuture.com/cdn/shop/files/JR400_battery_hepa_filter.jpg?v=1775202687",
+        "variant_ids": [
+          46295475814655
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für JR400 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37286204539135,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.06,
+          "height": 2499,
+          "width": 2650,
+          "src": "//ibuture.com/cdn/shop/files/JR400_battery_hepa_filter.jpg?v=1775202687"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295475814655,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR400DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR400_battery_hepa_filter.jpg?v=1775202687"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR400_battery_hepa_filter.jpg?v=1775202687",
+    "image_shopify": {
+      "id": 45345870577919,
+      "product_id": 8716369264895,
+      "position": 3,
+      "created_at": "2025-03-21T18:13:16+08:00",
+      "updated_at": "2026-04-03T15:51:27+08:00",
+      "alt": null,
+      "width": 2650,
+      "height": 2499,
+      "src": "//ibuture.com/cdn/shop/files/JR400_battery_hepa_filter.jpg?v=1775202687",
+      "variant_ids": [
+        46295475814655
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR400DC1HP3",
+    "slug": "jr400-hepa-filter",
+    "variant_id": 46295477584127,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295477584127,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR400DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189307601151,
+        "product_id": 8759286989055,
+        "position": 2,
+        "created_at": "2024-10-30T17:06:05+08:00",
+        "updated_at": "2025-03-24T15:53:07+08:00",
+        "alt": "JR400 Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR4001.jpg?v=1742802787",
+        "variant_ids": [
+          46295477584127
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für JR400 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "JR400 Vacuum - HEPA Filter (3pieces) Accessories",
+        "id": 36551315325183,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR4001.jpg?v=1742802787"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295477584127,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR400DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR4001.jpg?v=1742802787"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR4001.jpg?v=1742802787",
+    "image_shopify": {
+      "id": 44189307601151,
+      "product_id": 8759286989055,
+      "position": 2,
+      "created_at": "2024-10-30T17:06:05+08:00",
+      "updated_at": "2025-03-24T15:53:07+08:00",
+      "alt": "JR400 Vacuum - HEPA Filter (3pieces) Accessories",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR4001.jpg?v=1742802787",
+      "variant_ids": [
+        46295477584127
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR400DS1GS1",
+    "slug": "jr400-floor-brush",
+    "variant_id": 46295477289215,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295477289215,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "JR400DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44346294468863,
+        "product_id": 8790322872575,
+        "position": 3,
+        "created_at": "2024-11-19T18:14:53+08:00",
+        "updated_at": "2026-03-20T17:56:27+08:00",
+        "alt": "JR400 Vacuum - Floor Brush - Accessories",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR4002-659141.jpg?v=1774000587",
+        "variant_ids": [
+          46295477289215
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für JR400 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "JR400 Vacuum - Floor Brush - Accessories",
+        "id": 36655313617151,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR4002-659141.jpg?v=1774000587"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295477289215,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "JR400DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR4002-659141.jpg?v=1774000587"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR4002-659141.jpg?v=1774000587",
+    "image_shopify": {
+      "id": 44346294468863,
+      "product_id": 8790322872575,
+      "position": 3,
+      "created_at": "2024-11-19T18:14:53+08:00",
+      "updated_at": "2026-03-20T17:56:27+08:00",
+      "alt": "JR400 Vacuum - Floor Brush - Accessories",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR4002-659141.jpg?v=1774000587",
+      "variant_ids": [
+        46295477289215
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR400DS1GS1",
+    "slug": "jr400-roller-brush",
+    "variant_id": 46295478272255,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295478272255,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "JR400DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44346293977343,
+        "product_id": 8790334472447,
+        "position": 2,
+        "created_at": "2024-11-19T18:14:52+08:00",
+        "updated_at": "2025-03-24T15:52:43+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR4002-219261.jpg?v=1742802763",
+        "variant_ids": [
+          46295478272255
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für JR400 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36655313158399,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR4002-219261.jpg?v=1742802763"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295478272255,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "JR400DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR4002-219261.jpg?v=1742802763"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR4002-219261.jpg?v=1742802763",
+    "image_shopify": {
+      "id": 44346293977343,
+      "product_id": 8790334472447,
+      "position": 2,
+      "created_at": "2024-11-19T18:14:52+08:00",
+      "updated_at": "2025-03-24T15:52:43+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR4002-219261.jpg?v=1742802763",
+      "variant_ids": [
+        46295478272255
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR600DC1HP3",
+    "slug": "jr600-battery",
+    "variant_id": 46295497015551,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295497015551,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR600DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44346296762623,
+        "product_id": 8759287972095,
+        "position": 3,
+        "created_at": "2024-11-19T18:14:56+08:00",
+        "updated_at": "2026-04-03T15:43:44+08:00",
+        "alt": "JR600 Vacuum - Battery",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR6001-353984.jpg?v=1775202224",
+        "variant_ids": [
+          46295497015551
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für JR600 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "JR600 Vacuum - Battery",
+        "id": 36655315714303,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR6001-353984.jpg?v=1775202224"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295497015551,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR600DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR6001-353984.jpg?v=1775202224"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR6001-353984.jpg?v=1775202224",
+    "image_shopify": {
+      "id": 44346296762623,
+      "product_id": 8759287972095,
+      "position": 3,
+      "created_at": "2024-11-19T18:14:56+08:00",
+      "updated_at": "2026-04-03T15:43:44+08:00",
+      "alt": "JR600 Vacuum - Battery",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR6001-353984.jpg?v=1775202224",
+      "variant_ids": [
+        46295497015551
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR600DC1HP3",
+    "slug": "jr600-hepa-filter",
+    "variant_id": 46295496458495,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295496458495,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR600DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44346295976191,
+        "product_id": 8744441708799,
+        "position": 2,
+        "created_at": "2024-11-19T18:14:55+08:00",
+        "updated_at": "2025-03-24T15:53:30+08:00",
+        "alt": "JR600 Vacuum - HEPA Filter (3pieces)",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR6001-644454.jpg?v=1742802810",
+        "variant_ids": [
+          46295496458495
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für JR600 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "JR600 Vacuum - HEPA Filter (3pieces)",
+        "id": 36655314993407,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR6001-644454.jpg?v=1742802810"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295496458495,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR600DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR6001-644454.jpg?v=1742802810"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR6001-644454.jpg?v=1742802810",
+    "image_shopify": {
+      "id": 44346295976191,
+      "product_id": 8744441708799,
+      "position": 2,
+      "created_at": "2024-11-19T18:14:55+08:00",
+      "updated_at": "2025-03-24T15:53:30+08:00",
+      "alt": "JR600 Vacuum - HEPA Filter (3pieces)",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR6001-644454.jpg?v=1742802810",
+      "variant_ids": [
+        46295496458495
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR700BDC1HP3",
+    "slug": "jr700-blue-battery",
+    "variant_id": 46295505961215,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295505961215,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR700BDC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189423370495,
+        "product_id": 8740339843327,
+        "position": 3,
+        "created_at": "2024-10-30T17:34:47+08:00",
+        "updated_at": "2026-04-03T15:48:32+08:00",
+        "alt": "JR700 Blue Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512",
+        "variant_ids": [
+          46295505961215
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für JR700 Blue Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "JR700 Blue Vacuum - HEPA Filter (3pieces) Accessories",
+        "id": 36551395705087,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295505961215,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR700BDC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512",
+    "image_shopify": {
+      "id": 44189423370495,
+      "product_id": 8740339843327,
+      "position": 3,
+      "created_at": "2024-10-30T17:34:47+08:00",
+      "updated_at": "2026-04-03T15:48:32+08:00",
+      "alt": "JR700 Blue Vacuum - HEPA Filter (3pieces) Accessories",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512",
+      "variant_ids": [
+        46295505961215
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR700BDC1HP3",
+    "slug": "jr700-blue-hepa-filter",
+    "variant_id": 46295507796223,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295507796223,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR700BDC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189423370495,
+        "product_id": 8759282925823,
+        "position": 2,
+        "created_at": "2024-10-30T17:34:47+08:00",
+        "updated_at": "2026-04-03T15:48:32+08:00",
+        "alt": "JR700 Blue Vacuum - HEPA Filter (3pieces) Accessories",
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512",
+        "variant_ids": [
+          46295507796223
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für JR700 Blue Vacuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": "JR700 Blue Vacuum - HEPA Filter (3pieces) Accessories",
+        "id": 36551395705087,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295507796223,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR700BDC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512",
+    "image_shopify": {
+      "id": 44189423370495,
+      "product_id": 8759282925823,
+      "position": 2,
+      "created_at": "2024-10-30T17:34:47+08:00",
+      "updated_at": "2026-04-03T15:48:32+08:00",
+      "alt": "JR700 Blue Vacuum - HEPA Filter (3pieces) Accessories",
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR700B1.jpg?v=1775202512",
+      "variant_ids": [
+        46295507796223
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR700DS1GS1",
+    "slug": "jr700-floor-brush",
+    "variant_id": 46295514349823,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295514349823,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "JR700DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189496312063,
+        "product_id": 8793163071743,
+        "position": 4,
+        "created_at": "2024-10-30T17:34:47+08:00",
+        "updated_at": "2026-03-20T17:56:03+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563",
+        "variant_ids": [
+          46295514349823
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für JR700 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551395672319,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295514349823,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "JR700DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563",
+    "image_shopify": {
+      "id": 44189496312063,
+      "product_id": 8793163071743,
+      "position": 4,
+      "created_at": "2024-10-30T17:34:47+08:00",
+      "updated_at": "2026-03-20T17:56:03+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563",
+      "variant_ids": [
+        46295514349823
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR700DS1GS1",
+    "slug": "jr700-roller-brush",
+    "variant_id": 46295514808575,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295514808575,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "JR700DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189496312063,
+        "product_id": 8759283745023,
+        "position": 2,
+        "created_at": "2024-10-30T17:34:47+08:00",
+        "updated_at": "2026-03-20T17:56:03+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563",
+        "variant_ids": [
+          46295514808575
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für JR700 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9899,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551395672319,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295514808575,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "JR700DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 98.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563",
+    "image_shopify": {
+      "id": 44189496312063,
+      "product_id": 8759283745023,
+      "position": 2,
+      "created_at": "2024-10-30T17:34:47+08:00",
+      "updated_at": "2026-03-20T17:56:03+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR700B2.jpg?v=1774000563",
+      "variant_ids": [
+        46295514808575
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR700RDC1HP3",
+    "slug": "jr700-battery",
+    "variant_id": 46295509238015,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295509238015,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR700RDC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44614382616831,
+        "product_id": 8740339450111,
+        "position": 3,
+        "created_at": "2025-01-02T11:25:17+08:00",
+        "updated_at": "2026-04-03T15:49:32+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR700R1_400d029c-c37d-417c-8204-57337fc91ed6.jpg?v=1775202572",
+        "variant_ids": [
+          46295509238015
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für JR700 Red Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36833525465343,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR700R1_400d029c-c37d-417c-8204-57337fc91ed6.jpg?v=1775202572"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295509238015,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR700RDC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR700R1_400d029c-c37d-417c-8204-57337fc91ed6.jpg?v=1775202572"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR700R1_400d029c-c37d-417c-8204-57337fc91ed6.jpg?v=1775202572",
+    "image_shopify": {
+      "id": 44614382616831,
+      "product_id": 8740339450111,
+      "position": 3,
+      "created_at": "2025-01-02T11:25:17+08:00",
+      "updated_at": "2026-04-03T15:49:32+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR700R1_400d029c-c37d-417c-8204-57337fc91ed6.jpg?v=1775202572",
+      "variant_ids": [
+        46295509238015
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "JR700RDC1HP3",
+    "slug": "jr700-red-hepa-filter",
+    "variant_id": 46295512056063,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295512056063,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "JR700RDC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189456695551,
+        "product_id": 8744439054591,
+        "position": 2,
+        "created_at": "2024-10-30T17:43:35+08:00",
+        "updated_at": "2025-03-24T15:53:32+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/JR700R1.jpg?v=1742802812",
+        "variant_ids": [
+          46295512056063
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für JR700 Red Vacuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551418609919,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/JR700R1.jpg?v=1742802812"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295512056063,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "JR700RDC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/JR700R1.jpg?v=1742802812"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/JR700R1.jpg?v=1742802812",
+    "image_shopify": {
+      "id": 44189456695551,
+      "product_id": 8744439054591,
+      "position": 2,
+      "created_at": "2024-10-30T17:43:35+08:00",
+      "updated_at": "2025-03-24T15:53:32+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/JR700R1.jpg?v=1742802812",
+      "variant_ids": [
+        46295512056063
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VAC01DC1HP3",
+    "slug": "vac01-vacuum-battery",
+    "variant_id": 46295515627775,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295515627775,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VAC01DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189515809023,
+        "product_id": 8872125628671,
+        "position": 3,
+        "created_at": "2024-10-30T17:58:11+08:00",
+        "updated_at": "2026-04-03T15:43:09+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189",
+        "variant_ids": [
+          46295515627775
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für VAC01 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 20999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551459078399,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295515627775,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "VAC01DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 209.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189",
+    "image_shopify": {
+      "id": 44189515809023,
+      "product_id": 8872125628671,
+      "position": 3,
+      "created_at": "2024-10-30T17:58:11+08:00",
+      "updated_at": "2026-04-03T15:43:09+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189",
+      "variant_ids": [
+        46295515627775
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VAC01DC1HP3",
+    "slug": "vac01-vacuum-hepa-filter",
+    "variant_id": 46295545282815,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295545282815,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VAC01DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189515809023,
+        "product_id": 8872139751679,
+        "position": 2,
+        "created_at": "2024-10-30T17:58:11+08:00",
+        "updated_at": "2026-04-03T15:43:09+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189",
+        "variant_ids": [
+          46295545282815
+        ]
+      },
+      "available": true,
+      "name": "Buture Hepa-Filter für VAC01 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 20999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551459078399,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295545282815,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "VAC01DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 209.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189",
+    "image_shopify": {
+      "id": 44189515809023,
+      "product_id": 8872139751679,
+      "position": 2,
+      "created_at": "2024-10-30T17:58:11+08:00",
+      "updated_at": "2026-04-03T15:43:09+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VAC011.jpg?v=1775202189",
+      "variant_ids": [
+        46295545282815
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VAC01DS1GS1",
+    "slug": "vac01-vacuum-floor-brush",
+    "variant_id": 46295545250047,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295545250047,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VAC01DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189688594687,
+        "product_id": 8872136343807,
+        "position": 3,
+        "created_at": "2024-10-30T17:58:11+08:00",
+        "updated_at": "2026-03-20T17:49:09+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VAC012.jpg?v=1774000149",
+        "variant_ids": [
+          46295545250047
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für VAC01 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551459045631,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VAC012.jpg?v=1774000149"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295545250047,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VAC01DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VAC012.jpg?v=1774000149"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VAC012.jpg?v=1774000149",
+    "image_shopify": {
+      "id": 44189688594687,
+      "product_id": 8872136343807,
+      "position": 3,
+      "created_at": "2024-10-30T17:58:11+08:00",
+      "updated_at": "2026-03-20T17:49:09+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VAC012.jpg?v=1774000149",
+      "variant_ids": [
+        46295545250047
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VAC01DS1GS1",
+    "slug": "vac01-vacuum-roller-brush",
+    "variant_id": 46295545905407,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295545905407,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VAC01DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Buture Walzenbürste für VAC01 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295545905407,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VAC01DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": ""
+    },
+    "image_catalog": "",
+    "image_shopify": null,
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC50BDC1HP4",
+    "slug": "vc50-blue-battery",
+    "variant_id": 46295553638655,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295553638655,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "option1": "1 Batterie + 4 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC50BDC1HP4",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189735551231,
+        "product_id": 8746480304383,
+        "position": 3,
+        "created_at": "2024-10-30T18:52:47+08:00",
+        "updated_at": "2026-04-03T15:45:55+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355",
+        "variant_ids": [
+          46295553638655
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für VC50 Blue Staubsauger - 1 Batterie + 4 HEPA-Filter",
+      "public_title": "1 Batterie + 4 HEPA-Filter",
+      "options": [
+        "1 Batterie + 4 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551600210175,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295553638655,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "sku": "VC50BDC1HP4",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 4 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355",
+    "image_shopify": {
+      "id": 44189735551231,
+      "product_id": 8746480304383,
+      "position": 3,
+      "created_at": "2024-10-30T18:52:47+08:00",
+      "updated_at": "2026-04-03T15:45:55+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355",
+      "variant_ids": [
+        46295553638655
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC50BDC1HP4",
+    "slug": "vc50-blue-hepa-filter",
+    "variant_id": 46295553900799,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295553900799,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "option1": "1 Batterie + 4 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC50BDC1HP4",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189735551231,
+        "product_id": 8759278436607,
+        "position": 2,
+        "created_at": "2024-10-30T18:52:47+08:00",
+        "updated_at": "2026-04-03T15:45:55+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355",
+        "variant_ids": [
+          46295553900799
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für VC50 Blue Vacuum - 1 Batterie + 4 HEPA-Filter",
+      "public_title": "1 Batterie + 4 HEPA-Filter",
+      "options": [
+        "1 Batterie + 4 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551600210175,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295553900799,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "sku": "VC50BDC1HP4",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 4 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355",
+    "image_shopify": {
+      "id": 44189735551231,
+      "product_id": 8759278436607,
+      "position": 2,
+      "created_at": "2024-10-30T18:52:47+08:00",
+      "updated_at": "2026-04-03T15:45:55+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC50B1.jpg?v=1775202355",
+      "variant_ids": [
+        46295553900799
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC50RDC1HP4",
+    "slug": "vc50-red-battery",
+    "variant_id": 46295554916607,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295554916607,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "option1": "1 Batterie + 4 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC50RDC1HP4",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189746921727,
+        "product_id": 8742591365375,
+        "position": 3,
+        "created_at": "2024-10-30T18:55:50+08:00",
+        "updated_at": "2026-04-03T15:46:51+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411",
+        "variant_ids": [
+          46295554916607
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für VC50 Red Staubsauger - 1 Batterie + 4 HEPA-Filter",
+      "public_title": "1 Batterie + 4 HEPA-Filter",
+      "options": [
+        "1 Batterie + 4 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551606337791,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295554916607,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "sku": "VC50RDC1HP4",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 4 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411",
+    "image_shopify": {
+      "id": 44189746921727,
+      "product_id": 8742591365375,
+      "position": 3,
+      "created_at": "2024-10-30T18:55:50+08:00",
+      "updated_at": "2026-04-03T15:46:51+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411",
+      "variant_ids": [
+        46295554916607
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC50RDC1HP4",
+    "slug": "vc50-red-hepa-filter",
+    "variant_id": 46295558881535,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295558881535,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "option1": "1 Batterie + 4 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC50RDC1HP4",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189746921727,
+        "product_id": 8759281123583,
+        "position": 2,
+        "created_at": "2024-10-30T18:55:50+08:00",
+        "updated_at": "2026-04-03T15:46:51+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411",
+        "variant_ids": [
+          46295558881535
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für VC50 Red Vacuum - 1 Batterie + 4 HEPA-Filter",
+      "public_title": "1 Batterie + 4 HEPA-Filter",
+      "options": [
+        "1 Batterie + 4 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551606337791,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295558881535,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "sku": "VC50RDC1HP4",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 4 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411",
+    "image_shopify": {
+      "id": 44189746921727,
+      "product_id": 8759281123583,
+      "position": 2,
+      "created_at": "2024-10-30T18:55:50+08:00",
+      "updated_at": "2026-04-03T15:46:51+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC50R1.jpg?v=1775202411",
+      "variant_ids": [
+        46295558881535
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC50RDS1GS1",
+    "slug": "vc50-red-floor-brush",
+    "variant_id": 46295558783231,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295558783231,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC50RDS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189749838079,
+        "product_id": 8774509953279,
+        "position": 3,
+        "created_at": "2024-10-30T18:55:50+08:00",
+        "updated_at": "2026-03-20T17:57:15+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635",
+        "variant_ids": [
+          46295558783231
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für VC50 Red Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551606370559,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295558783231,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC50RDS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635",
+    "image_shopify": {
+      "id": 44189749838079,
+      "product_id": 8774509953279,
+      "position": 3,
+      "created_at": "2024-10-30T18:55:50+08:00",
+      "updated_at": "2026-03-20T17:57:15+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635",
+      "variant_ids": [
+        46295558783231
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC50RDS1GS1",
+    "slug": "vc50-red-roller-brush",
+    "variant_id": 46295561601279,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295561601279,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC50RDS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189749838079,
+        "product_id": 8790325395711,
+        "position": 2,
+        "created_at": "2024-10-30T18:55:50+08:00",
+        "updated_at": "2026-03-20T17:57:15+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635",
+        "variant_ids": [
+          46295561601279
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für VC50 Red Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551606370559,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295561601279,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC50RDS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635",
+    "image_shopify": {
+      "id": 44189749838079,
+      "product_id": 8790325395711,
+      "position": 2,
+      "created_at": "2024-10-30T18:55:50+08:00",
+      "updated_at": "2026-03-20T17:57:15+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC50R2.jpg?v=1774000635",
+      "variant_ids": [
+        46295561601279
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC60DC1HP4",
+    "slug": "vc60-battery",
+    "variant_id": 46295562617087,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295562617087,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "option1": "1 Batterie + 4 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC60DC1HP4",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189767696639,
+        "product_id": 8746487349503,
+        "position": 3,
+        "created_at": "2024-10-30T18:59:14+08:00",
+        "updated_at": "2026-04-03T15:45:18+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318",
+        "variant_ids": [
+          46295562617087
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für VC60 Staubsauger - 1 Batterie + 4 HEPA-Filter",
+      "public_title": "1 Batterie + 4 HEPA-Filter",
+      "options": [
+        "1 Batterie + 4 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551617380607,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295562617087,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "sku": "VC60DC1HP4",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 4 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318",
+    "image_shopify": {
+      "id": 44189767696639,
+      "product_id": 8746487349503,
+      "position": 3,
+      "created_at": "2024-10-30T18:59:14+08:00",
+      "updated_at": "2026-04-03T15:45:18+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318",
+      "variant_ids": [
+        46295562617087
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC60DC1HP4",
+    "slug": "vc60-hepa-filter",
+    "variant_id": 46295564779775,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295564779775,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "option1": "1 Batterie + 4 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC60DC1HP4",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189767696639,
+        "product_id": 8716314476799,
+        "position": 2,
+        "created_at": "2024-10-30T18:59:14+08:00",
+        "updated_at": "2026-04-03T15:45:18+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318",
+        "variant_ids": [
+          46295564779775
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für VC60 Staubsauger - 1 Batterie + 4 HEPA-Filter",
+      "public_title": "1 Batterie + 4 HEPA-Filter",
+      "options": [
+        "1 Batterie + 4 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551617380607,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295564779775,
+      "title": "1 Batterie + 4 HEPA-Filter",
+      "sku": "VC60DC1HP4",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 4 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318",
+    "image_shopify": {
+      "id": 44189767696639,
+      "product_id": 8716314476799,
+      "position": 2,
+      "created_at": "2024-10-30T18:59:14+08:00",
+      "updated_at": "2026-04-03T15:45:18+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC601.jpg?v=1775202318",
+      "variant_ids": [
+        46295564779775
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC70DC1HP3",
+    "slug": "vc70-battery",
+    "variant_id": 46295565435135,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295565435135,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC70DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189790273791,
+        "product_id": 8748913819903,
+        "position": 3,
+        "created_at": "2024-10-30T19:05:33+08:00",
+        "updated_at": "2026-04-03T15:44:23+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263",
+        "variant_ids": [
+          46295565435135
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für VC70 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551628718335,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295565435135,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "VC70DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263",
+    "image_shopify": {
+      "id": 44189790273791,
+      "product_id": 8748913819903,
+      "position": 3,
+      "created_at": "2024-10-30T19:05:33+08:00",
+      "updated_at": "2026-04-03T15:44:23+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263",
+      "variant_ids": [
+        46295565435135
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC70DC1HP3",
+    "slug": "vc70-hepa-filter",
+    "variant_id": 46295565861119,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295565861119,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC70DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189790273791,
+        "product_id": 8759276437759,
+        "position": 2,
+        "created_at": "2024-10-30T19:05:33+08:00",
+        "updated_at": "2026-04-03T15:44:23+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263",
+        "variant_ids": [
+          46295565861119
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für VC70 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551628718335,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295565861119,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "VC70DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263",
+    "image_shopify": {
+      "id": 44189790273791,
+      "product_id": 8759276437759,
+      "position": 2,
+      "created_at": "2024-10-30T19:05:33+08:00",
+      "updated_at": "2026-04-03T15:44:23+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC701.jpg?v=1775202263",
+      "variant_ids": [
+        46295565861119
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC70DS1GS1",
+    "slug": "vc70-floor-brush",
+    "variant_id": 46295565730047,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295565730047,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC70DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189790765311,
+        "product_id": 8759276962047,
+        "position": 3,
+        "created_at": "2024-10-30T19:05:33+08:00",
+        "updated_at": "2026-03-20T17:57:35+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+        "variant_ids": [
+          46295565730047
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für VC70 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551628783871,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295565730047,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC70DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+    "image_shopify": {
+      "id": 44189790765311,
+      "product_id": 8759276962047,
+      "position": 3,
+      "created_at": "2024-10-30T19:05:33+08:00",
+      "updated_at": "2026-03-20T17:57:35+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+      "variant_ids": [
+        46295565730047
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC70DS1GS1",
+    "slug": "vc70-roller-brush",
+    "variant_id": 46295566188799,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295566188799,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC70DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189790765311,
+        "product_id": 8793308397823,
+        "position": 2,
+        "created_at": "2024-10-30T19:05:33+08:00",
+        "updated_at": "2026-03-20T17:57:35+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+        "variant_ids": [
+          46295566188799
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für VC70 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551628783871,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295566188799,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC70DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+    "image_shopify": {
+      "id": 44189790765311,
+      "product_id": 8793308397823,
+      "position": 2,
+      "created_at": "2024-10-30T19:05:33+08:00",
+      "updated_at": "2026-03-20T17:57:35+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+      "variant_ids": [
+        46295566188799
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC80DC1HP3",
+    "slug": "vc80-battery",
+    "variant_id": 46295567171839,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295567171839,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC80DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189794926847,
+        "product_id": 8740335911167,
+        "position": 3,
+        "created_at": "2024-10-30T19:07:52+08:00",
+        "updated_at": "2026-04-03T15:50:20+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620",
+        "variant_ids": [
+          46295567171839
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für VC80 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551631077631,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295567171839,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "VC80DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620",
+    "image_shopify": {
+      "id": 44189794926847,
+      "product_id": 8740335911167,
+      "position": 3,
+      "created_at": "2024-10-30T19:07:52+08:00",
+      "updated_at": "2026-04-03T15:50:20+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620",
+      "variant_ids": [
+        46295567171839
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC80DC1HP3",
+    "slug": "vc80-hepa-filter",
+    "variant_id": 46295568351487,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295568351487,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "VC80DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189794926847,
+        "product_id": 8762877673727,
+        "position": 2,
+        "created_at": "2024-10-30T19:07:52+08:00",
+        "updated_at": "2026-04-03T15:50:20+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620",
+        "variant_ids": [
+          46295568351487
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für VC80 Staubsauger - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 18999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551631077631,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46295568351487,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "VC80DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 189.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620",
+    "image_shopify": {
+      "id": 44189794926847,
+      "product_id": 8762877673727,
+      "position": 2,
+      "created_at": "2024-10-30T19:07:52+08:00",
+      "updated_at": "2026-04-03T15:50:20+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC801.jpg?v=1775202620",
+      "variant_ids": [
+        46295568351487
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC80DS1GS1",
+    "slug": "vc80-floor-brush",
+    "variant_id": 46295568122111,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295568122111,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC80DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189796335871,
+        "product_id": 8793366528255,
+        "position": 3,
+        "created_at": "2024-10-30T19:07:52+08:00",
+        "updated_at": "2026-03-20T17:50:01+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC803.jpg?v=1774000201",
+        "variant_ids": [
+          46295568122111
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für VC80 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 9999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551631110399,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC803.jpg?v=1774000201"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295568122111,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC80DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 99.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC803.jpg?v=1774000201"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC803.jpg?v=1774000201",
+    "image_shopify": {
+      "id": 44189796335871,
+      "product_id": 8793366528255,
+      "position": 3,
+      "created_at": "2024-10-30T19:07:52+08:00",
+      "updated_at": "2026-03-20T17:50:01+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC803.jpg?v=1774000201",
+      "variant_ids": [
+        46295568122111
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC80DS1GS1",
+    "slug": "vc80-roller-brush",
+    "variant_id": 46295622975743,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46295622975743,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC80DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44189790765311,
+        "product_id": 8793373868287,
+        "position": 2,
+        "created_at": "2024-10-30T19:05:33+08:00",
+        "updated_at": "2026-03-20T17:57:35+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+        "variant_ids": [
+          46295622975743
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für VC80 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 11999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 36551628783871,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46295622975743,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC80DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 119.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+    "image_shopify": {
+      "id": 44189790765311,
+      "product_id": 8793373868287,
+      "position": 2,
+      "created_at": "2024-10-30T19:05:33+08:00",
+      "updated_at": "2026-03-20T17:57:35+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC703.jpg?v=1774000655",
+      "variant_ids": [
+        46295622975743
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC90DS1GS1",
+    "slug": "buture-floor-brush-for-vc90-vacuum",
+    "variant_id": 47114125705471,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 47114125705471,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC90DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 48381001892095,
+        "product_id": 9172990755071,
+        "position": 3,
+        "created_at": "2026-05-08T12:00:17+08:00",
+        "updated_at": "2026-05-08T12:00:18+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818",
+        "variant_ids": [
+          47114125705471
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für VC90 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 39698513297663,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 47114125705471,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC90DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818",
+    "image_shopify": {
+      "id": 48381001892095,
+      "product_id": 9172990755071,
+      "position": 3,
+      "created_at": "2026-05-08T12:00:17+08:00",
+      "updated_at": "2026-05-08T12:00:18+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/VC90-floor-brush-and-roller-brush.jpg?v=1778212818",
+      "variant_ids": [
+        47114125705471
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "VC90DS1GS1",
+    "slug": "buture-roller-brush-for-vc90-vacuum",
+    "variant_id": 47114121150719,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 47114121150719,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "VC90DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": null,
+      "available": true,
+      "name": "Buture Walzenbürste für VC90 Staubsauger - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 47114121150719,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "VC90DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": ""
+    },
+    "image_catalog": "",
+    "image_shopify": null,
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9BXG1CB1",
+    "slug": "x9-vacuum-dust-cup",
+    "variant_id": 49075575292159,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49075575292159,
+      "title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "option1": "1 Dust Cup + 1 Stainless Steel Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "X9BXG1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49514796122367,
+        "product_id": 8968428421375,
+        "position": 3,
+        "created_at": "2026-08-24T15:28:45+08:00",
+        "updated_at": "2026-08-24T15:28:47+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527",
+        "variant_ids": [
+          49075575292159
+        ]
+      },
+      "available": true,
+      "name": "Buture Staubbecher für X9 Vakuum - 1 Dust Cup + 1 Stainless Steel Filter",
+      "public_title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "options": [
+        "1 Dust Cup + 1 Stainless Steel Filter"
+      ],
+      "price": 4099,
+      "weight": 0,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40816307405055,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 2,
+      "shopify_variant_id": 49075575292159,
+      "title": "1 Dust Cup + 1 Stainless Steel Filter",
+      "sku": "X9BXG1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 89.99,
+        "sale_price": 40.99
+      },
+      "options": {
+        "option1": "1 Dust Cup + 1 Stainless Steel Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527",
+    "image_shopify": {
+      "id": 49514796122367,
+      "product_id": 8968428421375,
+      "position": 3,
+      "created_at": "2026-08-24T15:28:45+08:00",
+      "updated_at": "2026-08-24T15:28:47+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527",
+      "variant_ids": [
+        49075575292159
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9BXG1CB1",
+    "slug": "x9-vacuum-stainless-steel-filter",
+    "variant_id": 49075422724351,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49075422724351,
+      "title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "option1": "1 Stainless Steel Filter + 1 Dust Cup",
+      "option2": null,
+      "option3": null,
+      "sku": "X9BXG1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49514796122367,
+        "product_id": 8968433729791,
+        "position": 3,
+        "created_at": "2026-08-24T15:28:45+08:00",
+        "updated_at": "2026-08-24T15:28:47+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527",
+        "variant_ids": [
+          49075422724351
+        ]
+      },
+      "available": true,
+      "name": "Buture Edelstahlfilter für X9 Vakuum - 1 Stainless Steel Filter + 1 Dust Cup",
+      "public_title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "options": [
+        "1 Stainless Steel Filter + 1 Dust Cup"
+      ],
+      "price": 4099,
+      "weight": 0,
+      "compare_at_price": 8999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40816307405055,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 2,
+      "shopify_variant_id": 49075422724351,
+      "title": "1 Stainless Steel Filter + 1 Dust Cup",
+      "sku": "X9BXG1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 89.99,
+        "sale_price": 40.99
+      },
+      "options": {
+        "option1": "1 Stainless Steel Filter + 1 Dust Cup"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527",
+    "image_shopify": {
+      "id": 49514796122367,
+      "product_id": 8968433729791,
+      "position": 3,
+      "created_at": "2026-08-24T15:28:45+08:00",
+      "updated_at": "2026-08-24T15:28:47+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/x9-vacuum-dust-cup-stainless-steel-filter.png?v=1787556527",
+      "variant_ids": [
+        49075422724351
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9DC1HP3",
+    "slug": "x9-vacuum-battery",
+    "variant_id": 46575731376383,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575731376383,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "X9DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959518463,
+        "product_id": 8968383365375,
+        "position": 3,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-04-03T15:41:25+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/X901.jpg?v=1775202085",
+        "variant_ids": [
+          46575731376383
+        ]
+      },
+      "available": true,
+      "name": "Buture Ersatzakku für X9 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 20999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759231743,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/X901.jpg?v=1775202085"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46575731376383,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "X9DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 209.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/X901.jpg?v=1775202085"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/X901.jpg?v=1775202085",
+    "image_shopify": {
+      "id": 44881959518463,
+      "product_id": 8968383365375,
+      "position": 3,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-04-03T15:41:25+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/X901.jpg?v=1775202085",
+      "variant_ids": [
+        46575731376383
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9DC1HP3",
+    "slug": "x9-vacuum-hepa-filter",
+    "variant_id": 46575755198719,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575755198719,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "option1": "1 Batterie + 3 HEPA-Filter",
+      "option2": null,
+      "option3": null,
+      "sku": "X9DC1HP3",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959518463,
+        "product_id": 8968420196607,
+        "position": 2,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-04-03T15:41:25+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/X901.jpg?v=1775202085",
+        "variant_ids": [
+          46575755198719
+        ]
+      },
+      "available": true,
+      "name": "Buture HEPA-Filter für X9 Vakuum - 1 Batterie + 3 HEPA-Filter",
+      "public_title": "1 Batterie + 3 HEPA-Filter",
+      "options": [
+        "1 Batterie + 3 HEPA-Filter"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 20999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759231743,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/X901.jpg?v=1775202085"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 4,
+      "shopify_variant_id": 46575755198719,
+      "title": "1 Batterie + 3 HEPA-Filter",
+      "sku": "X9DC1HP3",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 209.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Batterie + 3 HEPA-Filter"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/X901.jpg?v=1775202085"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/X901.jpg?v=1775202085",
+    "image_shopify": {
+      "id": 44881959518463,
+      "product_id": 8968420196607,
+      "position": 2,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-04-03T15:41:25+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/X901.jpg?v=1775202085",
+      "variant_ids": [
+        46575755198719
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9DS1GS1",
+    "slug": "x9-vacuum-floor-brush",
+    "variant_id": 46575735767295,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575735767295,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "X9DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959387391,
+        "product_id": 8968425799935,
+        "position": 2,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-03-20T17:48:21+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/X902.jpg?v=1774000101",
+        "variant_ids": [
+          46575735767295
+        ]
+      },
+      "available": true,
+      "name": "Buture Bodenbürste für X9 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759264511,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/X902.jpg?v=1774000101"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46575735767295,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "X9DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/X902.jpg?v=1774000101"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/X902.jpg?v=1774000101",
+    "image_shopify": {
+      "id": 44881959387391,
+      "product_id": 8968425799935,
+      "position": 2,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-03-20T17:48:21+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/X902.jpg?v=1774000101",
+      "variant_ids": [
+        46575735767295
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9DS1GS1",
+    "slug": "x9-vacuum-roller-brush",
+    "variant_id": 46575735931135,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 46575735931135,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "option1": "1 Bodenbürste + 1 Walzenbürste",
+      "option2": null,
+      "option3": null,
+      "sku": "X9DS1GS1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 44881959387391,
+        "product_id": 8968427405567,
+        "position": 2,
+        "created_at": "2025-02-07T11:16:30+08:00",
+        "updated_at": "2026-03-20T17:48:21+08:00",
+        "alt": null,
+        "width": 1000,
+        "height": 1000,
+        "src": "//ibuture.com/cdn/shop/files/X902.jpg?v=1774000101",
+        "variant_ids": [
+          46575735931135
+        ]
+      },
+      "available": true,
+      "name": "Buture Walzenbürste für X9 Vakuum - 1 Bodenbürste + 1 Walzenbürste",
+      "public_title": "1 Bodenbürste + 1 Walzenbürste",
+      "options": [
+        "1 Bodenbürste + 1 Walzenbürste"
+      ],
+      "price": 5599,
+      "weight": 0,
+      "compare_at_price": 12999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 37006759264511,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "//ibuture.com/cdn/shop/files/X902.jpg?v=1774000101"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 46575735931135,
+      "title": "1 Bodenbürste + 1 Walzenbürste",
+      "sku": "X9DS1GS1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 129.99,
+        "sale_price": 55.99
+      },
+      "options": {
+        "option1": "1 Bodenbürste + 1 Walzenbürste"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/X902.jpg?v=1774000101"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/X902.jpg?v=1774000101",
+    "image_shopify": {
+      "id": 44881959387391,
+      "product_id": 8968427405567,
+      "position": 2,
+      "created_at": "2025-02-07T11:16:30+08:00",
+      "updated_at": "2026-03-20T17:48:21+08:00",
+      "alt": null,
+      "width": 1000,
+      "height": 1000,
+      "src": "//ibuture.com/cdn/shop/files/X902.jpg?v=1774000101",
+      "variant_ids": [
+        46575735931135
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9ZJ1CB1",
+    "slug": "x9-vacuum-dust-cup",
+    "variant_id": 49092387504383,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49092387504383,
+      "title": "1 Dust Cup + 1 Main Body",
+      "option1": "1 Dust Cup + 1 Main Body",
+      "option2": null,
+      "option3": null,
+      "sku": "X9ZJ1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49534903451903,
+        "product_id": 8968428421375,
+        "position": 4,
+        "created_at": "2026-08-26T16:48:13+08:00",
+        "updated_at": "2026-08-26T16:48:14+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094",
+        "variant_ids": [
+          49092387504383
+        ]
+      },
+      "available": true,
+      "name": "Buture Staubbecher für X9 Vakuum - 1 Dust Cup + 1 Main Body",
+      "public_title": "1 Dust Cup + 1 Main Body",
+      "options": [
+        "1 Dust Cup + 1 Main Body"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 15999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40836278550783,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 3,
+      "shopify_variant_id": 49092387504383,
+      "title": "1 Dust Cup + 1 Main Body",
+      "sku": "X9ZJ1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 159.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Dust Cup + 1 Main Body"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094",
+    "image_shopify": {
+      "id": 49534903451903,
+      "product_id": 8968428421375,
+      "position": 4,
+      "created_at": "2026-08-26T16:48:13+08:00",
+      "updated_at": "2026-08-26T16:48:14+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094",
+      "variant_ids": [
+        49092387504383
+      ]
+    },
+    "variant_id_in_html": true
+  },
+  {
+    "sku": "X9ZJ1CB1",
+    "slug": "x9-vacuum-main-body",
+    "variant_id": 49092383604991,
+    "status": "ok",
+    "shopify_variant": {
+      "id": 49092383604991,
+      "title": "1 Main Body + 1 Dust Cup",
+      "option1": "1 Main Body + 1 Dust Cup",
+      "option2": null,
+      "option3": null,
+      "sku": "X9ZJ1CB1",
+      "requires_shipping": true,
+      "taxable": false,
+      "featured_image": {
+        "id": 49534903451903,
+        "product_id": 8968443363583,
+        "position": 3,
+        "created_at": "2026-08-26T16:48:13+08:00",
+        "updated_at": "2026-08-26T16:48:14+08:00",
+        "alt": null,
+        "width": 1200,
+        "height": 1200,
+        "src": "//ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094",
+        "variant_ids": [
+          49092383604991
+        ]
+      },
+      "available": true,
+      "name": "Buture Hauptteil für X9 Vakuum - 1 Main Body + 1 Dust Cup",
+      "public_title": "1 Main Body + 1 Dust Cup",
+      "options": [
+        "1 Main Body + 1 Dust Cup"
+      ],
+      "price": 8099,
+      "weight": 0,
+      "compare_at_price": 15999,
+      "inventory_management": "shopify",
+      "barcode": null,
+      "featured_media": {
+        "alt": null,
+        "id": 40836278550783,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1200,
+          "width": 1200,
+          "src": "//ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094"
+        }
+      },
+      "requires_selling_plan": false,
+      "selling_plan_allocations": [],
+      "quantity_rule": {
+        "min": 1,
+        "max": null,
+        "increment": 1
+      }
+    },
+    "catalog_variant": {
+      "position": 2,
+      "shopify_variant_id": 49092383604991,
+      "title": "1 Main Body + 1 Dust Cup",
+      "sku": "X9ZJ1CB1",
+      "barcode": "",
+      "available": true,
+      "price": {
+        "regular_price": 159.99,
+        "sale_price": 80.99
+      },
+      "options": {
+        "option1": "1 Main Body + 1 Dust Cup"
+      },
+      "requires_shipping": true,
+      "taxable": false,
+      "weight": 0,
+      "featured_image": "https://ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094"
+    },
+    "image_catalog": "https://ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094",
+    "image_shopify": {
+      "id": 49534903451903,
+      "product_id": 8968443363583,
+      "position": 3,
+      "created_at": "2026-08-26T16:48:13+08:00",
+      "updated_at": "2026-08-26T16:48:14+08:00",
+      "alt": null,
+      "width": 1200,
+      "height": 1200,
+      "src": "//ibuture.com/cdn/shop/files/x9-vacuum-main-body-dust-cup.jpg?v=1787734094",
+      "variant_ids": [
+        49092383604991
+      ]
+    },
+    "variant_id_in_html": true
+  }
+]
